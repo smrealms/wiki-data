@@ -9,7 +9,7 @@ Now then, just because you are in a sector with a Beacon of Protection does not 
 Another overlooked cause of death in Fed zones is your attack rating being higher than what your alignment will allow protection for. Here is a simple chart that outlines what your attack rating can be for each level of alignment.
 
 | Alignment  | Max Attack Rating  |
-|---|---|
+|:---:|:---:|
 | +600 or higher  | 8/  |
 | +450 to +599  |  7/  |
 | +300 to +449  | 6/ |
