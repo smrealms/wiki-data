@@ -3,9 +3,13 @@
 
 Multiple Accounts
 
-No person is allowed to have multiple accounts, unless publicly known and accepted (ie. Newbie Help Leader)
-In the case of siblings/parents/children/spouses there must be photographic evidence depicting both people with their account name, and a statement about SMR.
-Any player found guilty of Multiple Accounts could receive between 30 and 50 points, in addition to the multi account being locked
+Each player is allowed to make 1 additional account.
+A player may not kill their multi (50 points for arranged kill).
+No existing account may be used as a multi. All multies must be made using new accounts. For the email of the new account, use the email for your first account with a multi tag (exp: MyEmailAddress-SMR-Multi@smrealms.de)
+In order to validate the account, you must contact an admin for the validation code. This is to ensure each player only has 1 account. Individuals who do not notify an admin within 48 hours of creating the account will have their multi banned.
+Any infractions that occur on one account will result in punishment for both accounts.
+All veteran players that make a multi will have that multi start out as a veteran. Newbie and Beginner-ranked players will have a newbie multi.
+Multi-boxing is allowed with your main account and your multi account. This means you can be logged in on both accounts at once, whether it is multiple browsers or multiple devices. 
 
 Account Sharing
 
