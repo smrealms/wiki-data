@@ -32,24 +32,24 @@ Swearing both in game and on the webboard are prohibited. Bypassing of the word 
 
 # Arranged Kills
 
-The act of engaging in combat with complete knowledge of who will win is illegal and everyone involved will receive 50 points.
-Kicking a member out from an alliance in order to pod them is also illegal. Should a kick-kill happen the reason for the player's kick from the alliance will be investigated. If the kicking was legitimate, then there will be no repercussion. This clause is subject to change on a case-by-case basis.
-Leaving an alliance to kill another member and then rejoining is also illegal, and the perpetrator will receive 50 points. This is also the case for alliances with treaties that prohibit podding one another.
+* The act of engaging in combat with complete knowledge of who will win is illegal and everyone involved will receive 50 points.
+* Kicking a member out from an alliance in order to pod them is also illegal. Should a kick-kill happen the reason for the player's kick from the alliance will be investigated. If the kicking was legitimate, then there will be no repercussion. This clause is subject to change on a case-by-case basis.
+* Leaving an alliance to kill another member and then rejoining is also illegal, and the perpetrator will receive 50 points. This is also the case for alliances with treaties that prohibit podding one another.
 
 
 # Impersonation
 
-Anyone who knowingly impersonates another player or alliance without their prior knowledge and permission will receive up to 20 points.
-Use of a Trader name that is similar to, or can be confused with a current member of the Administration Team is forbidden.
+* Anyone who knowingly impersonates another player or alliance without their prior knowledge and permission will receive up to 20 points.
+* Use of a Trader name that is similar to, or can be confused with a current member of the Administration Team is forbidden.
 
 
 # Bug Abuse
 
 Includes but is not limited to:
-Discovering an unintended coded affect or bug in the game that gives you an advantage or an enemy a disadvantage and not reporting the bug.
-Reporting a bug, but continue to use reported bug to one's advantage.
-Using a known/reported bug that has been clear identified or announced.
-Anyone found guilty of bug abuse will receive anywhere from a warning to 100 points on a case-by-case level.
+* Discovering an unintended coded affect or bug in the game that gives you an advantage or an enemy a disadvantage and not reporting the bug.
+* Reporting a bug, but continue to use reported bug to one's advantage.
+* Using a known/reported bug that has been clear identified or announced.
+* Anyone found guilty of bug abuse will receive anywhere from a warning to 100 points on a case-by-case level.
 
 
 # Ban Hopping
@@ -59,9 +59,9 @@ Offending players are automatically given 10 points for each hop, regardless if 
 
 # Public Accusation of Cheating
 
-There is to be no public accusation of cheating. Should this occur, the offender will be receiving 25-50 points.
-Should this take place within the webboard, the offender will receive a webboard ban as well as the points.
-Any serious accusations of cheating are to be reported directly to an administrator.
+* There is to be no public accusation of cheating. Should this occur, the offender will be receiving 25-50 points.
+* Should this take place within the webboard, the offender will receive a webboard ban as well as the points.
+* Any serious accusations of cheating are to be reported directly to an administrator.
 
 
 # Proper Channels of Communication
@@ -73,17 +73,18 @@ Any public complaints of an administrator, webboard mod, or chat mod's actions w
 # Ban Points and Discipline
 
 Ban Points:
-1-9 Warning
-10-19 48 hours
-20-29 4 days
-30-49 7 days (1 week)
-50-74 15 days (2 weeks)
-75-99 30 days (1 month)
-100-124 60 days (2 months)
-125-149 120 days (4 months)
-150-174 240 days (8 months)
-175-199 480 days (16 months)
-200+ Indefinite Ban
+|1-9 | Warning |
+|10-19 | 48 hours |
+|20-29 | 4 days |
+|30-49 | 7 days (1 week) |
+|50-74 | 15 days (2 weeks) |
+|75-99 | 30 days (1 month) |
+|100-124 | 60 days (2 months) |
+|125-149 | 120 days (4 months) |
+|150-174 | 240 days (8 months) |
+|175-199 | 480 days (16 months) |
+|200+ | Indefinite Ban |
+
 Points removal: Your account is on probation double the length of your ban. If you ban was 2 days, then you are on probation for 4 days after that. Once you are no longer on probation, you will lose 1 point every week after that.
 Webboard Ban times are up to the admin/moderator who requested the ban.
 
@@ -91,6 +92,7 @@ Webboard Ban times are up to the admin/moderator who requested the ban.
 # Appealing
 
 Should a member believe that they have wrongly received a ban or points, they can request an admin (in private) to appeal their case. Should this appeal be granted, they will be allowed temporary access to a special area on the webboard to give their side of the case. Any other players who wish to give input can state it to an administrator, who may or may not allow them to give their input as well.
+
 Any public demands for an appeal could add on an additional penalty of 20 points to the previous amount of points or in the case of one player publicly demanding an appeal for another result in a penalty of up to 20 points.
 
 
