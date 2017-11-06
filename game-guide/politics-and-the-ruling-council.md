@@ -3,7 +3,11 @@
 
 **Politics and the Ruling Council**
 
-The politics and ruling council are often the most overlooked aspect of SMR. Both play a crucial role though, determining which races you can trade with, and which racial weapons you can use.
+Politics and the Ruling Council are often the most overlooked aspect of SMR. Both play a crucial role though, determining the following:
+
+* races you can trade with
+* racial weapons you can use
+* if racial beacons will protect you
 
 Each racial ruling council is made up of the top five members of that race, ranked by experience. The President of each race is determined by alignment and experience. To become president, you must have the highest experience out of all the council members with alignment over 150. In the case of two council members having the same experience, the one who has the higher alignment will become president.
 
