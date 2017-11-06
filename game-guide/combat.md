@@ -19,9 +19,9 @@ Ship to ship combat requires practice. Different players use different strategie
 Planets are located in the outer galaxies, occasionally you can find planets in racial galaxies. They are places to park ships, stockpile trade goods, and store cash. A player may take ownership of a planet and set a password so that other players in their alliance cannot take it. Only players from the owner's alliance may land on the planet. All others must attack and destroy a planet's defenses before landing. Once a planet's defenses are destroyed, a player can land and take ownership of the planet.
 
 ***Types of planets***
-***Terran***
-***Dwarf***
-***Arid***
+***Terran*** Dicription goes here
+***Dwarf***Dicription goes here
+***Arid***Dicription goes here
 
 Planets start out with no buildings at all, but with proper supplies stockpiled, construction of generators, hangars, and turrets can begin. As more buildings are constructed, the planet's defense level increases. Planets begin at level zero and finish at level 70.
 
