@@ -24,4 +24,4 @@ Unlimited Level 1 Weapons
 Note: Power level is not always the same as the attack rating it gives.
 
 Cost: This is how much cash you will need to have on hand to buy the weapon
-A full list of the current weapons in the game can be found here***(INSERT LINK HERE)***.
+A full list of the current weapons in the game can be found here (**INSERT LINK HERE**).
