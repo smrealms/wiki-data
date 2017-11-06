@@ -5,7 +5,10 @@ Races
 
 Race plays an important part in SMR. There are advantages and disadvantages to each one.
 In the following sections, you will get a brief overview of each race and information on their special technology, if they have one, as well as their ships and weapons.
+
+
 Subsections:
+
 Alskant
 Creonti
 Human
