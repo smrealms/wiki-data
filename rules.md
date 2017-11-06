@@ -73,7 +73,7 @@ Any public complaints of an administrator, webboard mod, or chat mod's actions w
 # Ban Points and Discipline
 
 | Points | Ban Duration |
-| --- | --- |
+| :---: | --- |
 |1-9 | Warning |
 |10-19 | 48 hours |
 |20-29 | 4 days |
