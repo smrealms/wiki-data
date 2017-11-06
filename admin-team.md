@@ -4,7 +4,7 @@
 The following is a list of the Administration team for Space Merchant Realms. They can be contacted on IRC or via the Webboard (or send them a message via wiki)
 If you have any questions or suggestions for them, you can email them at support@smrealms.de. Most queries are answered within 24 hours, but please remain patient if it takes longer.
 
-## Admin Team
+# Admin Team
 
 | Name	| Position |
 | --- | --- |
@@ -15,7 +15,7 @@ If you have any questions or suggestions for them, you can email them at support
 | Hot MaMa |  All-Purpose Admin |
 
 
-## Community Contributors
+# Community Contributors
 
 Below are a list of community members who we would like to recognize for their contributions to the community
 | Name |	Contribution |
@@ -23,7 +23,7 @@ Below are a list of community members who we would like to recognize for their c
 | kinky	 | Beta Team |
 | Freon22	 | CSS/Template Design |
 
-## Past Admins
+# Past Admins
 
 | Name	| Position |
 | --- | --- |
