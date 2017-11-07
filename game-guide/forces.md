@@ -1,7 +1,7 @@
 <!-- TITLE: Forces -->
 <!-- SUBTITLE: A quick summary of Forces -->
 
-**Mines**
+# **Mines**
 
 When a ship enters a sector that contains mines, the ship will hit the mines and an attack screen will be shown to that player as his guns automatically fire on the mines. The attack screen shows the number of mines that hit the ship, the damage done to the ship and the amount of damage the ship's guns did to the mines. The player who hit the mines must click the Current Sector link to view the sector again and see what is there and continue play.
 
@@ -30,7 +30,7 @@ When you enter a sector with a large number of mines, your guns will destroy som
 Remember: the Green exit is always the safe way out of a mined sector, and clicking a non-green exit turns that exit into the new Green exit.
 
 
-**Combat Drones**
+# **Combat Drones**
 
 Combat Drones are very useful as they serve as both defense and offense.
 
@@ -41,6 +41,6 @@ When laid in a sector, Combat Drones work much like mines do, but don't automati
 You can drop a maximum of 50 combat drones per player in a sector.
 
 
-**Scout Drones**
+# **Scout Drones**
 
 Scout drones are passive sensors that, when dropped in a sector, alert you to the comings and goings of all ships in that sector. You can place a maximum of five scout drones in a single sector. While they will do no damage to a ship entering or leaving the sector, they will do 20 damage each if attacked.
