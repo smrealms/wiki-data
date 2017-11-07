@@ -104,7 +104,7 @@ Although a rule may not be listed, if an action is deemed to be inappropriate th
 
 # IRC Chat
 
-Space Merchant Realms players are expected to follow the rules as outlined by the Coldfront Network (type /rules via chat)
+Space Merchant Realms players are expected to follow the rules as outlined by the theairlock Network (type /rules via chat)
 
 
 #SMR Rules
@@ -128,7 +128,7 @@ the offence is very mild (for example usage of a language other than English), o
 other special circumstances are at hand. The amount of stops at lower levels can be decreased if: the offender has been punished multiple times, the offence is especially severe (for example spamming or impersonation of an old and well known member of community (for example Speef or MrSpock)), or other special circumstances are at hand. In extreme cases of severe and/or multiple offences long term bans will be issued. In especially severe cases, including, but not limited to ban hopping in game action will be taken. If you disagree with the action taken against you feel free to complain to the chat admin aka RCK in chat or through email chat@smrealms.de
 
 
-Coldfront Network Rules
+Theairlock Network Rules**(NEED TO DOUBLE CHECK WITH THEAIRLOCKS RULES MAKE SURE NONE HAVE CHAGED)**
 (as of July 28, 2012)
 Basic rules:
 No Harrassment
