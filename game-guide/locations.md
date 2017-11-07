@@ -63,7 +63,7 @@ SMR Manual Link with warp current sector view: http://www.smrealms.de/manual.php
 
 ### **Description**
 
-This is a~~** government.gif**~~ Racial Headquarters Location. This is where you start out in the game. Here, you can deputize and collect bounties/war payments. Spend a few minutes exploring what is available in your Racial Government. The next area is the Federal Beacon. Provided that you have met the requirements for protection, no one else will be able to pod your ship at this location. Next up is your racial ship shop. Note that you can only buy racial ships of the race you have chosen. Last but not least is a hardware shop. Here you can buy your shields, armor, cargo holds, scanner, and racial technology (if supported by your current ship).
+This is a ***government.gif*** Racial Headquarters Location. This is where you start out in the game. Here, you can deputize and collect bounties/war payments. Spend a few minutes exploring what is available in your Racial Government. The next area is the Federal Beacon. Provided that you have met the requirements for protection, no one else will be able to pod your ship at this location. Next up is your racial ship shop. Note that you can only buy racial ships of the race you have chosen. Last but not least is a hardware shop. Here you can buy your shields, armor, cargo holds, scanner, and racial technology (if supported by your current ship).
 
 This will take you to the SMR Manual Current Sector view of a HeadQuarters: http://www.smrealms.de/manual.php?49
 
