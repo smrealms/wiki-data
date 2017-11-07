@@ -6,7 +6,7 @@
 Fighting is one of the most adrenaline-filled events you can find in SMR. While the most intense fighting can be found against another online ship, joining with other people attacking planets and ports also carry their own thrill. Read on to learn more about the similarities and differences of fighting in SMR.
 
 
-**Ship to Ship**
+# **Ship to Ship**
 Most combat in a game is performed between two fleets of ship. The simplest one involves one player attacking another. The outcome of these one-on-one fights depends partly on ship choice, weapons, and how quickly a player can click attack or run away. The odds of hitting an opponent with a weapon depends on your level, the level of the person you are attacking, and the base accuracy on the weapon. A player with more experience will be more accurate than a player with less experience. The same idea applies to combat drones. The more experience a player has, the more likely they are to launch greater numbers of combat drones at an enemy. The current combat code can be found here.
 
 When multiple ships from the same alliance are in the same sector, they will fire as a fleet. In a fleet fight, a trigger by a single player results in the firing of several ships. Currently the maximum number of players that will fire per trigger is two. This means that if you and two alliance mates are in a sector and you fire on an enemy ship, only one of your allies will be included in your shot. This is why it is beneficial to have everyone in the sector firing.
@@ -15,7 +15,7 @@ When your ship is attacked, it will return fire automatically (as long as you ha
 
 Ship to ship combat requires practice. Different players use different strategies and weapons configurations. Try asking different players in the game what they use. Most players are more than willing to help out curious, new player.
 
-**Planets**
+# **Planets**
 Planets are located in the outer galaxies, occasionally you can find planets in racial galaxies. They are places to park ships, stockpile trade goods, and store cash. A player may take ownership of a planet and set a password so that other players in their alliance cannot take it. Only players from the owner's alliance may land on the planet. All others must attack and destroy a planet's defenses before landing. Once a planet's defenses are destroyed, a player can land and take ownership of the planet.
 
 ***Types of planets***
@@ -39,7 +39,7 @@ Some planets have a bank vault which can store cash. The vault can be accessed b
 
 Planets can serve as a relatively safe place to park your ship, but no planet is 100% safe and even level 45 planets can fall to a well organized attacking fleet of warships.
 
-**Ports**
+# **Ports**
 Ports are places where goods are bought and sold for various prices. Players gain money and experience by bargaining with port masters for the best possible price. Ports are ranked from level 1 to level 9. Low level ports sell cheaper goods, while high level ports sell more expensive and more profitable goods. Some ports sell illegal goods too, but these can only be traded by those traders who have joined the UnderGround and are of evil alignment.
 
 In the example shown below, the port is a level 8 port that buys food, precious metals (pm), textiles, circuitry, and weapons (an illegal good), and it sells wood, ore, slaves (an illegal good), machinery, luxuries, and narcotics (an illegal good). You cannot see illegal goods unless your alignment is below -99. Being evil provides both advantages and disadvantages, such as more goods trade, thus more routes but if you are caught trading an illegal good then you will be fined.
