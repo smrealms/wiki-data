@@ -24,7 +24,7 @@ The value of a given good is based on three things;
 
 Distance to the closest port that SELLS the item (the further away the better). The base value of the item (the list above is ordered from least to most valuable). The supply/demand level of the good at the time you make the trade (the lower the supply the more you get)
 
-So if you buy some Narcotics and sell them in a port that is 10 sectors away AND there is NO other port selling Narcotics with in 10 sectors of the port you are selling at, you get 10 x value per ton plus bonuses for supply/demand level. You will get the max cash for the good if you sell the last 100 tons that port needs. Give the preceding set of facts if your driving a PSF (600 holds) you would receive in excess of 1.75 million credits for that single trade.
+So if you buy some Narcotics and sell them in a port that is 10 sectors away AND there is NO other port selling Narcotics with in 10 sectors of the port you are selling at, you get 10 x value per ton plus bonuses for supply/demand level. You will get the max cash for the good if you sell the last 100 tons that port needs. Give the preceding set of facts if your driving a PSF (500 holds) you would receive in excess of 1.75 million credits for that single trade.
 
 Supply/demand level of ports resets much like your per hour turn gain. In a speed factor one game a drained port will regenerate its supply/demand for goods in about 20 hours.
 
