@@ -1,7 +1,6 @@
-<!-- TITLE: Irc Chat -->
+<!-- TITLE: IRC Chat -->
 <!-- SUBTITLE: A quick summary of Irc Chat -->
 
-IRC Chat
 Internet Relay Chat (IRC or just chat for short)
 
 IRC is the main means of communication for many web based games and communities and SMR is no exception. IRC is the backbone on which team play as well as socializing is done in SMR. While some players do use voice chat / conferencing to run their operations, IRC still remains a crucial element in game-play. It is recommended that whenever you are going to play SMR you check in with your alliance chat room first. Here your fellow team mates can alert you to dangers, advise you of tasks that you might be able to help with, or simply ask that you stay out of the game as to not spook an enemy trader they are trying to hunt.
