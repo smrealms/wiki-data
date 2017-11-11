@@ -18,7 +18,7 @@ Please note that this Guide is constantly being updated and revised so check bac
 * [Locations](game-guide/locations)
 * [Player Roles](game-guide/player-roles)
 * [Politics And The Ruling Council](game-guide/politics)
-* [Federal Protection](game-guide/protection)
+* [Protection](game-guide/protection)
 * [Races](game-guide/races)
 * [Storyline](game-guide/storyline)
 * [Technologies](game-guide/technologies)
