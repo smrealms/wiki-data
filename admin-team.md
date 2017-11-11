@@ -1,9 +1,7 @@
 <!-- TITLE: Admin Team -->
 <!-- SUBTITLE: Administration Team-->
 
-The following is a list of the Administration team for Space Merchant Realms. They can be contacted on IRC or via the Webboard (or send them a message via wiki)
-If you have any questions or suggestions for them, you can email them at support@smrealms.de. Most queries are answered within 24 hours, but please remain patient if it takes longer.
-
+The following is a list of the Administration team for Space Merchant Realms. Check [here](contact-us) for ways to contact the admin team.
 # Admin Team
 
 | Name	| Position |
