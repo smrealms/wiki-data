@@ -1,7 +1,7 @@
 <!-- TITLE: Weapons -->
 <!-- SUBTITLE: A quick summary of Weapons -->
 
-**Weapons**
+A full list of the current weapons can be found [here](https://www.smrealms.de/weapon_list.php).
 
 One of the most, if not the most important factor in combat or even self-defense is weapon choice. Each weapon in the game has its own unique properties but they all follow the same general rules.
 
@@ -24,4 +24,3 @@ Unlimited Level 1 Weapons
 Note: Power level is not always the same as the attack rating it gives.
 
 Cost: This is how much cash you will need to have on hand to buy the weapon
-A full list of the current weapons in the game can be found here (**INSERT LINK HERE**).
