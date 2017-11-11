@@ -20,6 +20,5 @@ Please note that this Guide is constantly being updated and revised so check bac
 * [Politics And The Ruling Council](game-guide/politics)
 * [Protection](game-guide/protection)
 * [Races](game-guide/races)
-* [Storyline](game-guide/storyline)
 * [Technologies](game-guide/technologies)
 * [Weapons](game-guide/weapons)
