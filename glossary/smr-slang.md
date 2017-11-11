@@ -1,5 +1,5 @@
-<!-- TITLE: Smr Slang -->
-<!-- SUBTITLE: A quick summary of Smr Slang -->
+<!-- TITLE: SMR Slang -->
+<!-- SUBTITLE: A quick summary of SMR Slang -->
 
 # SMR Slang
 
