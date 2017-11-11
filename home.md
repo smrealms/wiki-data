@@ -9,7 +9,6 @@ If you would like to help update the content on this site, please [create an acc
 # Table of Contents
 You can browse all pages in the wiki [here](all).
 
-* [Admin Team](admin-team)
 * [Contact Us](contact-us)
 * [Game Guide](game-guide)
 * [Glossary](glossary)
