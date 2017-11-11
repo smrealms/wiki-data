@@ -1,5 +1,5 @@
 <!-- TITLE: Storyline -->
-<!-- SUBTITLE: The setting for SMR -->
+<!-- SUBTITLE: The world created for SMR -->
 
 
 It is a time of great interstellar turmoil....
@@ -8,3 +8,6 @@ The decline of the Galactic Federation, which served for centuries as a glowing 
 
 Sensing that the Federation has lost its grip on power, the eight known races have split off and formed independent governments. The presidents and their councils guide the flow of weapons and trade in a bid to retain economic control and keep their people safe. Despite these efforts, violence and desperation continues to escalate.
 This is the universe you find yourself in.
+
+# Galactic Post
+The story of SMR continues to evolve through the reporting by Galactic Post writers.
