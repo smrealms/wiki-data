@@ -13,3 +13,4 @@ You can browse all pages in the wiki [here](all).
 * [Game Guide](game-guide)
 * [Glossary](glossary)
 * [Rules](rules)
+* [Storyline](storyline)
