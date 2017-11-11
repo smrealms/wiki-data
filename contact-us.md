@@ -1,5 +1,5 @@
 <!-- TITLE: Contact Us -->
-<!-- SUBTITLE: A quick summary of  -->
+<!-- SUBTITLE: SMR Administration -->
 
 There are several ways to contact the admins of SMR.
 1. You can message an admin in-game, those players will have will have a blue Admin tag attached to their name and they can be found on the current players list if they are online. An example of an admin player would be `Lieutenant 2nd Class Hot MaMa (14) Admin`.
