@@ -23,6 +23,4 @@ Another overlooked cause of death in Fed zones is your attack rating being highe
 As you can tell, traders that have deputized are able to keep more weapons on board, while those traders that have joined the underground must sell off the majority of their weapons to take advantage of Federal Protection. If you are in doubt as to whether or not you are protected, before logging out of the game, click on 'Trader' on the left side of your screen and check your protection status. If you are protected, you will see a message letting you know that you are under Federal Protection. If not, check again for illegal goods or too many weapons on your ship.
 
 # Newbie Protection
-When you start the game, you will have a limited number of "Newbie Turns". While under newbie protection, you will be unable to participate in combat.
-
-Once you run out of newbie turns, your ship can be destroyed in combat. If this happens, you will be given a small number of newbie turns to help you get back on your feet.
+When you start the game, you will have a limited number of "Newbie Turns". While under newbie protection, you will be unable to participate in combat. Once you run out of newbie turns, your ship can be destroyed in combat. If this happens, you will be given a small number of newbie turns to help you get back on your feet.
