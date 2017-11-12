@@ -7,6 +7,7 @@ If you would like to help update the content on this site, please [create an acc
 
 # Important Links
 * [Space Merchant Realms](http://www.smrealms.de)
+* [SMR Forums](https://smrcnn.smrealms.de)
 
 # Table of Contents
 You can browse all pages in the wiki [here](all).
