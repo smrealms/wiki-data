@@ -22,7 +22,6 @@ SMC is a very useful aid to navigation in the SMR universe it was first made aro
 * Step 2: After you have both files in folder / subdirectory in the SMC folder, start SMC (you must close it then start it over again if it was already running). If the map does not load immediately, go to the game menu and load it.
 
 # Using SMC
-http://lotus.smrealms.de/help_files/pics/SMChelp2.gif
 
 To center the map, click a sector so it is selected and press enter or click the blue push-pin button. If you type a sector number into the box to the left of the push-pin button and hit enter, it will center on that sector.
 
@@ -38,13 +37,13 @@ The final section is the place to put in any locations found in the sector. Ther
 
 ## Using the Finger
 
-http://www.mudsdojo.us/finger.jpg
+![Finger](/uploads/finger.jpg "Finger")
 
 To find distances to locations and other points of interest from a particular sector, select the sector then click the "pointing finger" button. This will bring up a small menu that allows you to browse for the closest locations and ports. It will also give you the distance to each location.
 
 ## Trade Route Finder
 
-http://www.mudsdojo.us/routes.jpg
+![Routes](/uploads/routes.jpg "Routes")
 
 To access the trade route finder, go to the travel menu and select trade route finder. Put in the options you want for number of routes listed, list by exp or cash, 3- and 4- port route finding, narrowing by goods and race and then hit "find now". Depending on the options you selected it may take time. The first number listed is sort of an exp-rating system. It is calculated by adding the exp-modifiers and then dividing by the round trip (including 1 for each buy and sell).
 So a "perfect 4" route will have modifiers of 4+4+4+4=16 divided by 8 turns for traveling between sectors + 4 turns for trades. So the exp-factor for a "perfect 4" would be 16/12 or 1.33. For a sense of scale, a "perfect 2" would be 8/8 or 1.00. A perfect 8 would be 32/20 or 1.60. The longer the route, the closer the number gets to 2.00 (this value can never be reached).
