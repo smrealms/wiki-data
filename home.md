@@ -1,10 +1,12 @@
 <!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- SUBTITLE: Welcome to the SMR Wiki! -->
 
 # SMR Wiki
-Welcome to the SMR Wiki!
 
 If you would like to help update the content on this site, please [create an account](login) and then [contact an admin](contact-us) so that we can give you editor permissions.
+
+# Important Links
+* [Space Merchant Realms](http://www.smrealms.de)
 
 # Table of Contents
 You can browse all pages in the wiki [here](all).
