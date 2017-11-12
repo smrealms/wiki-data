@@ -16,4 +16,5 @@ You can browse all pages in the wiki [here](all).
 * [Glossary](glossary)
 * [Rules](rules)
 * [Storyline](storyline)
+* [Tools & Programs](tools)
 * [Tutorials](tutorials)
