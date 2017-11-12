@@ -1,5 +1,5 @@
 <!-- TITLE: Smart Hunting -->
-<!-- SUBTITLE: A quick summary of Smart Hunting -->
+<!-- SUBTITLE: A player-contributed guide -->
 
 By XDemon Aug 13, 2005
 editied by vierafran
