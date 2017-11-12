@@ -10,4 +10,9 @@ Sensing that the Federation has lost its grip on power, the eight known races ha
 This is the universe you find yourself in.
 
 # Galactic Post
-The story of SMR continues to evolve through the reporting by Galactic Post writers.
+
+The Galactic Post is a mock newspaper with user created content in the game. The story of SMR continues to evolve through the reporting by Galactic Post writers. Anyone who is registered and playing in a round of SMR can submit articles. The articles will generally contain references to current events happening in the game as if it was an actual news story. Other examples of Galactic Post content can be short stories, player bios, poetry, or even digital artwork.
+
+Each new round a Galactic Post editor is chosen from volunteers from the player base. The editor has the responsibilities of proofreading, editing, and formatting text using HTML or BBcode tags. The editor also has the option to publish Breaking News in the Read News section of the game.
+
+To view the current edition of the Galactic Post in the game you can find the link below Read News on the left navigation bar. To view past editions feel free to visit the archive by clicking [here](http://smrcnn.smrealms.de/viewforum.php?f=11&sid=f14b4b94b97730805478d77e52ed9056).
