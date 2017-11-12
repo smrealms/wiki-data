@@ -1,4 +1,4 @@
-<!-- TITLE: Successful Op -->
+<!-- TITLE: Guide To Running A Successful Op -->
 <!-- SUBTITLE: A player-contributed guide -->
 
 Written by Ardbeg (Jul 04, 2004)
