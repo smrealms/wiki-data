@@ -9,7 +9,9 @@ IRC is the main means of communication for many web based games and communities 
 # Ways of Connecting to IRC
 
 One of the easiest ways of connecting is via the IRC Chat link on the left panel near the bottom. When you click this it will bring up the rules, at the bottom of the rules page is a button to accept. After you accept the rules a new tab or window will be opened and it will ask you for a nickname to use in chat. You can just click connect and it will attach an SMR- prefix to your current game name. This will take you to the game lobby #smr and an alliance chat room if you are currently in an alliance and the leader has set the room under alliance options.
-Another web based option which uses the same basic applet as the in-game link uses can be found at www.mibbit.com from here you can select the server we use which is the Coldfront network irc.coldfront.net it will also ask you for a nickname and which channels you would like to join.
+
+Another web-based option is the mibbit client. Click [here](https://client02.chat.mibbit.com/?server=irc.theairlock.net&channel=%23smr) to join #smr with mibbit. You will be asked for a nickname before joining.
+
 There are also 3rd party applications to connect to IRC servers. mIRC, xchat, icechat, pidgin, and colloquy for apple users are the most widely used. If you are familiar with any of these than you can simply connect to irc.theairlock.net using them otherwise a good option is to come to chat using the in-game applet and ask someone for help in setting it up.
 
 # Basic IRC Commands
