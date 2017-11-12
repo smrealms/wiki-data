@@ -3,9 +3,7 @@
 
 SMC is a very useful aid to navigation in the SMR universe it was first made around the turn of the century for Space Merchant by a player named Tasmy. Before  SMC there was pen and paper to write down locations and careful studying of galaxy maps to find trade routes. SMC was very revolutionary and took the place as the #1 Space Merchant program away from Rogue's trade calculator. Before Space Merchant went off-line MrSpock (our beloved founder of Space Merchant Realms) was working on an auto-mapper for SMC. 
 
-
-http://www.mudsdojo.us/smc.jpg
-
+![](http://www.mudsdojo.us/smc.jpg)
 
 # Installing SMC
 
