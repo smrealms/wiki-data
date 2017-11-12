@@ -3,7 +3,7 @@
 
 SMC is a very useful aid to navigation in the SMR universe it was first made around the turn of the century for Space Merchant by a player named Tasmy. Before  SMC there was pen and paper to write down locations and careful studying of galaxy maps to find trade routes. SMC was very revolutionary and took the place as the #1 Space Merchant program away from Rogue's trade calculator. Before Space Merchant went off-line MrSpock (our beloved founder of Space Merchant Realms) was working on an auto-mapper for SMC. 
 
-<img src="http://www.mudsdojo.us/smc.jpg">
+![Smc](/uploads/smc.jpg "Smc")
 
 # Installing SMC
 
@@ -13,7 +13,7 @@ SMC is a very useful aid to navigation in the SMR universe it was first made aro
 
 * Step 3: Time to run SMC. If you placed shortcuts just run SMC from your desktop or start menu. Otherwise go to the directory where you installed SMC and run the program SMC (it will have a blue star as an icon). When SMC loads it should have a black screen with cyan letters that say "No game database selected." Thats because there are no maps available. If you had maps you would load them by going to the game menu and selecting "Open Game Universe..." If you want to start a new universe select "New Game Universe..." and you can put in galaxy info and start mapping.<br>
 
-http://www.mudsdojo.us/nomap.jpg
+
 
 ## Installing pre-made SMC maps:
 
