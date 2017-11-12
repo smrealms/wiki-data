@@ -1,5 +1,5 @@
-<!-- TITLE: MGU -->
-<!-- SUBTITLE: Merchant's Guide to the Galaxy -->
+<!-- TITLE: Merchant's Guide to the Universe -->
+<!-- SUBTITLE: A 3rd-party tool -->
 
 MGU is a very useful aid to navigation in the SMR universe it was first made around the turn of the century for Space Merchant by a player named Vladdy and later modified to work with downloadable sector maps by Edgecrusher. Before there was MGU there was some silly program called SMC and before that there was pen and paper to write down locations and careful studying of galaxy maps to find trade routes. 
 
