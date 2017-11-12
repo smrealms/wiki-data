@@ -28,7 +28,7 @@ To center the map, click a sector so it is selected and press enter or click the
 ## Manually Mapping / Editing a Sector
 To edit sector information, click on the sector you wish to edit and click the pencil button or just double-click the sector. This will bring up a window that allows you to edit the contents of a sector. 
 
-http://www.mudsdojo.us/editsector.jpg
+![EditSector](/uploads/editsector.jpg "EditSector")
 
 The top section contains link information. This tells SMC which sectors of the map connect. Clicking the check box next to the warp selection will let you type in the destination of the warp.
 The next section contains port information. Select the port level and race then click to select which goods are bought and sold.
