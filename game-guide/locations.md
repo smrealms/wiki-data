@@ -8,11 +8,13 @@ Ports are places where goods are bought and sold for various prices. Players gai
 In the example shown below, the port is a level 8 port that buys food, precious metals (pm), textiles, circuitry, and weapons (an illegal good), and it sells wood, ore, slaves (an illegal good), machinery, luxuries, and narcotics (an illegal good). You cannot see illegal goods unless your alignment is below -99. Being evil provides both advantages and disadvantages, such as more goods trade, thus more routes but if you are caught trading an illegal good then you will be fined.
 ***(INSERT EXAMPLE HERE)***
 
-A sample port can be found here in the ~~SMR Manual~~.
+A sample port can be found here: https://www.smrealms.de/manual.php?17
 
 Trading at a port is done by clicking the TRADE button and bargaining with the port master. Tips on trading can be found elsewhere in this manual, or by asking a fellow player who has learned the ropes.
 
-Ports can also be raided by clicking the RAID button, but be warned: ports are heavily defended by a dozen laser turrets and thousands of combat drones. Only a fleet of well-armed warships can hope to raid a port successfully, but the payoff is often worth the risk.
+Ports can also be raided by clicking the RAID button, but be warned: ports are heavily defended by laser turrets and thousands of combat drones. Only a fleet of well-armed warships can hope to raid a port successfully, but the payoff is often worth the risk.
+
+See also: [Attacking Ports](combat#ports)
 
 # **Planets**
 
