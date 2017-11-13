@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Game Terms -->
 
 **Alignment**
-Alignment is a positive or negative number that shows a player's tendency to be good or evil or neutral. Good or evil players get access to special weapons and other benefits. Alignment changes go up or down depending on your actions in the game. Attacking players or ports of your own race or ones friendly to your race will lower your alignment. Attacking players or ports that your race is at war with will raise your alignment.
+Alignment is a positive or negative number that shows a player's tendency to be good or evil or neutral. Good or evil players get access to special weapons and other benefits. Alignment changes go up or down depending on your actions in the game. Attacking players or ports of your own race or ones friendly to your race will lower your alignment. Attacking players or ports that your race is at war with will raise your alignment. Trading evil goods can lower alignment if caught, 5 points for being caught. Trading neutral goods and getting searched will raise your alignment 1 point. 
 
 **Alliance**
 Players can join together to form alliances. The benefits of being in an alliance are many, including sharing cash and other resources, mutual protection, and the fact that alliance ships can attack and defend together when they are in the same sector.
@@ -68,10 +68,10 @@ Becoming a deputy at racial head quarters raises a pilot's alignment to 150 poin
 Hardware installed on a ship that scrambles the targeting system of enemy combat drones and reduces the amount of damage done to the ship.
 
 **Experience**
-Points earned or lost during the game. Experience is gained for trading and destroying forces and killing other pilots. Players lose experience points when the ship he is flying is destroyed. Players start with zero experience and can reach 500,000 points. A list of all levels can be found here.
+Points earned or lost during the game. Experience is gained for trading and destroying forces and killing other pilots. Players lose experience points when the ship he is flying is destroyed. Players start with zero experience and can reach 500,000 points. A list of all levels can be found here: https://www.smrealms.de/level_requirements.php
 
 **Evil**
-An alignment lower than99 means that a player is Evil. Evil players are allowed to use special weapons, trade in illegal goods, and collect Underground bounties. If a random search by the Federal Government finds illegal goods on a ship, the goods are confiscated and the pilot gets a cash fine and an alignment increase of 5 points.
+An alignment lower than -99 means that a player is Evil. Evil players are allowed to use special weapons, trade in illegal goods, and collect Underground bounties. If a random search by the Federal Government finds illegal goods on a ship, the goods are confiscated and the pilot gets a cash fine and an alignment decrease of 5 points.
 
 **Federal Government**
 The Federation still has power in some things. It conducts random searches at ports for illegal goods. Areas of space are protected by the Federal government and are safe to park as long as a ship rating is at an acceptable level. Generally a player with an attack rating of 3 or less can park safely under Federal protection. The Trader screen (accessed by the Trader link) will show whether your ship is under protection or not.
@@ -86,10 +86,10 @@ All areas of space are divided into separate area's. Each of these is called a G
 The in-game journal provides entertaining and informative reports of events in the game.
 
 **Gang member**
-Becoming a gang member at the Underground lowers alignment to150 points. This is the opposite of becoming a deputy at a Federal head quarters.
+Becoming a gang member at the Underground lowers alignment to -150 points. This is the opposite of becoming a deputy at a Federal headquarters.
 
 **Generator**
-The building on a planet that provides the shields for planet defense. Each generator supports 100 shields, and a planet can have a maximum of 100 generators.
+The building on a planet that provides the shields for planet defense. Each generator supports 100 shields, and a planet can have a maximum of 25 generators.
 
 **Global Relations**
 The good, bad, or neutral relationship that one race has with another based on Ruling Council actions.
@@ -125,7 +125,7 @@ Refers to a ship being in a sector. Example: That Fury was IS with the fleet at 
 Players use the irc chat program (accessed by the menu link which opens a chat interface) or programs like it to communicate more quickly while playing. IRC chat helps in coordinating alliance actions and it's a great way to meet and make friends in the game. You can download IRC program, or use the chat applet
 
 **Jump Drive**
-Hardware installed on a ship to jump long distances in a single move. The cost to jump is 15 turns, only one warp can be jumped through at a time (you can only jump as far as the next galaxy in one jump), and the accuracy of the jump depends on both the distance and the pilot's experience level.
+Hardware installed on a ship to jump long distances in a single move. The cost to jump is 10+ turns and the accuracy of the jump depends on both the distance and the pilot's experience level.
 
 **Kill**
 When one player destroys another player's ship it is called a kill. Kills are shown in the news and are tallied in the rankings and the Hall of Fame. When you kill another player you may be entitled to collect military payments or bounties.
@@ -161,7 +161,7 @@ Mines can be carried on some ships. They can be dropped in a sector to do damage
 Making an offer that is higher or lower than what the port is offering for goods. Buy low and sell high! Bartering with the port master will often mean better cash and experience in the trade, so always make a counter offer unless your relations with the race are at 1000.
 
 **Neutral**
-An alignment inbetween99 and 99 makes a player Neutral. Neutral players can collect both Federal and Underground bounties and they have the option to become a federal deputy or joining the Underground.
+An alignment inbetween -99 and 99 makes a player Neutral. Neutral players can collect both Federal and Underground bounties and they have the option to become a federal deputy or joining the Underground.
 
 **Newbie Turns**
 How many turns you have under NEWBIE PROTECTION. While under newbie protection you are not able to be attacked, nor hit forces. However, hitting mines will result in the loss of turns depending on the amount of mines in sector. Additionally you are not able to attack or drop forces while under newbie protection. You can leave newbie protection early by going to the Trader screen and clicking "Leave Newbie Protection".
@@ -176,7 +176,7 @@ When the ruling councils of two races have both voted for peace with each other,
 The relationship that a trader has with other races based on trading or raiding ports. Successful trading raises relations with the port's race. Port raids lower a player's personal relations with the port owner's race. There is no maximum personal relations, however they will increase very slowly after the first 500. When you reach a combined total of 1000 it means that negotiation at the port is not necessary- the price offered for the goods is always the best for experience, it takes 2000 for profit however.
 
 **Planet**
-Planets are scattered throughout the universe, usually in non-racial galaxies, and can be used as a landing area. Players build generators, hangars, and turrets as defenses against attack. Planets begin at a construction level of 0.00. As constuction develops, the level increases to a maximum of level 70.00. When players attack and breach a planet's defenses, it is called a planet bust (PB).
+Planets are scattered throughout the universe, usually in non-racial galaxies, and can be used as a landing area. Players build generators, hangars, and turrets as defenses against attack. Planets begin at a construction level of 0.00. As constuction develops, the level increases to a maximum of level 45.00. When players attack and breach a planet's defenses, it is called a planet bust (PB).
 
 **Plot**
 Each ship can plot a course to a particular destination and move there quickly using its onboard course plotter. The plotter is accessed in the Plot a Course link and will accept both a starting and ending sector number. The plotted course will be interrupted and need to be re-plotted if a ship hits mines along the way.
@@ -197,7 +197,7 @@ Player activity is ranked in terms of experience, kills, and deaths.
 A trader's status with another races can influence his ability to trade goods and buy weapons with that race. This can be influenced by the Global Relations that his race has and also his Personal Relations.
 
 **Ruling Council**
-Each race has a ruling political council made up of the top 20 players of that race. Council members vote on war and peace with other races.
+Each race has a ruling political council made up of the top 5 players of that race. Council members vote on war and peace with other races.
 
 **Scanner**
 Hardware installed on a ship that can scan adjacent sectors for ships and forces. Scanners can be used at both local map and current sector. The current sector scan gives more detailed information on the number and type of ships and forces.
@@ -206,19 +206,19 @@ Hardware installed on a ship that can scan adjacent sectors for ships and forces
 Scouts can be carried on some ships and dropped in a sector. It signals its owner when an enemy ship enters and exits the sector where the scout is placed.
 
 **Sector**
-A single unit of space which can contain ports, locations, and planets. Galaxies are made up of between 25 and 484 sectors.
+A single unit of space which can contain ports, locations, and planets. Galaxies are made up of many sectors.
 
 **Shields**
 Shields surround and protect a ship and add to it's defense rating. When in battle with another ship or when hitting mines, a ship's shields are reduced first. When all shields are gone, the armor of a ship is exposed to attack. Shields are purchased at the UNO shop.
 
 **Ships**
-Ships are used for trading and fighting and a variety of other purposes. They fall into three main categories: trade class, hunter class, and capital. Trade ships have lots of cargo holds but few weapons. Hunter class ship are well armed and fast. Capital ships are heavily armed and defended but are usually slow and are used for major attacks on planets and ports. Here is a complete list of ships.  **(INSERT SHIPLIST LINK HERE)**
+Ships are used for trading and fighting and a variety of other purposes. They fall into three main categories: trade class, hunter class, and capital. Trade ships have lots of cargo holds but few weapons. Hunter class ship are well armed and fast. Capital ships are heavily armed and defended but are usually slow and are used for major attacks on planets and ports. Here is a complete list of ships: https://www.smrealms.de/ship_list.php
 
 **SMC (Space Merchant Companion)**
 SMC is a downloadable program that can help players find the most profitable trade routes and the locations to buy items. It has many of the same features as MGU (Merchants Guide to the Universe) and some unique features as well.
 
 **SMR Credits**
-1 **(?)**SMR Credits are awarded for every US Dollar you donate. SMR Credits can be used to purchase maps, name your ship, and many more useful feautures. Also, some special games may require credits to play.
+10 SMR Credits are awarded for every US Dollar you donate. SMR Credits can be used to purchase maps, name your ship, and many more useful feautures. Also, some special games may require credits to play.
 
 **Stack**
 The common name for forces placed in a sector.
@@ -236,7 +236,7 @@ The general term for players in the game who trade.
 The number of actions or moves you can make in the game. Turns are earned each hour based on the speed factor of the ship. A ship's speed is noted in turns-per-hour or TPH. Turns are used to move a ship, make purchases at ports and locations, and do other things in the game.
 
 **Turret**
-A heavy laser cannon used for planet and port defense. Planets have a maximum of 10 turrets and ports have 15 turrets.
+A heavy laser cannon used for planet and port defense. Planets have a maximum of 10 turrets except for Arid Planets having 15 turrets and ports have 6 turrets.
 
 **UNO**
 The shop that sells shields, armor, and cargo holds.
@@ -254,4 +254,4 @@ The ruling council of a race may vote to go to war with another race. When two r
 Warps connect galaxies and are used to travel across the universe. Warps are viewed and accessed in both the local map and current sector. Traveling through a warp uses 5 turns.
 
 **Weapons**
-Weapons are used to battle with other ships and can be bought at the numerous weapon shops located around the universe. Most ships carry at least one weapon. Weapons are ranked by power level 1-5, and there are limits to how many high power weapons a ship can carry. Here**(INSERT WEAPONS LIST LINK HERE)** is a complete list of weapons.
+Weapons are used to battle with other ships and can be bought at the numerous weapon shops located around the universe. Most ships carry at least one weapon. Weapons are ranked by power level 1-5, and there are limits to how many high power weapons a ship can carry. Here is a complete list of weapons: https://www.smrealms.de/weapon_list.php
