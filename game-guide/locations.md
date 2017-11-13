@@ -85,7 +85,13 @@ Banks are generally fairly easy to come across. Most racial galaxies will have 1
 
 What's in the Bank?
 
-Hopefully lots and lots of money. There are 3 parts to the bank: Personal Account(PA), Alliance Account(AA), and Anonymous Accounts(anon). Your personal account is an account that you and only you can access. It is recommended to keep funds in your personal account only if you are not in an alliance. The alliance account is the main use of the banks, and all money made by members of an alliance is expected to be deposited into the alliance account. When you need to buy something you will take the money from the AA when it is time. The third and final section is for anonymous accounts which allow you to share money with someone not in your alliance.
+Hopefully lots and lots of money. There are 3 types of bank accounts:
+
+* Personal Account (PA): An account that only you can access. It is recommended to keep funds in your personal account only if you are not in an alliance.
+* Alliance Account (AA): The alliance account is the main use of the banks, and all money made by members of an alliance is expected to be deposited into the alliance account. When you need to buy something you will take the money from the AA when it is time.
+* Anonymous Accounts (anon): These accounts allow you to share money with someone not in your alliance.
+
+   
 
 # **Bars**
 <img src="https://www.smrealms.de/images/bar.png"><img src="https://www.smrealms.de/images/bar2.png"><img src="https://www.smrealms.de/images/bar3.png"><img src="https://www.smrealms.de/images/bar4.png"><img src="https://www.smrealms.de/images/bar5.png">
