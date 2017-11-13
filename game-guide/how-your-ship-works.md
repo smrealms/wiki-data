@@ -46,7 +46,7 @@ At the bottom of the right hand screen is a list of your ship's Weapons. Weapons
 You can only have one level 5 weapon, two level 4 weapons, 3 level 3 weapons and 4 level two weapons. This is also controlled by your weapon Power.
 
 # **Maneuvering your ship**
-
+![Ship 2](/uploads/ship-2.png "Ship 2")
 Your ship is able to move from sector to sector in the galaxy you are in. You can view the sectors in two ways. In the upper left of the screen, you will see these links:
 Current Sector
 Local Map
@@ -64,4 +64,4 @@ Space Merchant Realms is a turn-based game. Almost everything you do in-game wil
 You gain turns normally over the course of an hour. The number of turns you get per hour (TPH) depends on the type of ship you have and is referred to as ship speed. Each ship has a base TPH value. The TPH of your current ship is shown on the Trader information screen. If the speed of a particular game is greater than 1.0, then the tph is increased accordingly.**
 
 # **Newbie Turns**
-At the start of a game, each player is given 400 newbie turns. You also receive 100 newbie turns when your ship is destroyed. Newbie turns are safe turns that prevent your ship from being attacked or damaged by mines. Having newbie turns also prevents you from attacking other ships or dropping forces in a sector. They are supposed to be used to safely get a new ship after you have been podded and trade at ports for a while without worry of attack. Newbie turns are used up at the same rate as normal turns. If you have newbie turns, they are shown below the normal turns you have in the upper right hand corner of the screen. Once your newbie turns are gone, you are vulnerable to attack and your ship can be damaged by mines. If you want to drop your newbie turns, you can do it under the Trader options.
+At the start of a game, each player is given 250 newbie turns except for newbie class players, they recieve 500 newbie turns. You also receive 100 newbie turns when your ship is destroyed. Newbie turns are safe turns that prevent your ship from being attacked or damaged by mines. Having newbie turns also prevents you from attacking other ships or dropping forces in a sector. They are supposed to be used to safely get a new ship after you have been podded and trade at ports for a while without worry of attack. Newbie turns are used up at the same rate as normal turns. If you have newbie turns, they are shown below the normal turns you have in the upper right hand corner of the screen. Once your newbie turns are gone, you are vulnerable to attack and your ship can be damaged by mines. If you want to drop your newbie turns, you can do it under the Trader options.
