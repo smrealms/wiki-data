@@ -5,7 +5,7 @@
 
 * Each player is allowed to make 1 additional account.
 * A player may not kill their multi (50 points for arranged kill).
-* No existing account may be used as a multi. All multies must be made using new accounts. For the email of the new account, use the email for your first account with a multi tag (exp: MyEmailAddress-SMR-Multi@smrealms.de)
+* No existing account may be used as a multi. All multies must be made using new accounts. For the email of the new account, use the email for your first account with a multi tag (exp: MyAccountName-SMR-Multi@smrealms.de)
 * In order to validate the account, you must contact an admin for the validation code. This is to ensure each player only has 1 account. Individuals who do not notify an admin within 48 hours of creating the account will have their multi banned.
 * Any infractions that occur on one account will result in punishment for both accounts.
 * All veteran players that make a multi will have that multi start out as a veteran. Newbie and Beginner-ranked players will have a newbie multi.
@@ -128,7 +128,7 @@ the offence is very mild (for example usage of a language other than English), o
 other special circumstances are at hand. The amount of stops at lower levels can be decreased if: the offender has been punished multiple times, the offence is especially severe (for example spamming or impersonation of an old and well known member of community (for example Speef or MrSpock)), or other special circumstances are at hand. In extreme cases of severe and/or multiple offences long term bans will be issued. In especially severe cases, including, but not limited to ban hopping in game action will be taken. If you disagree with the action taken against you feel free to complain to the chat admin aka RCK in chat or through email chat@smrealms.de
 
 
-Theairlock Network Rules**(NEED TO DOUBLE CHECK WITH THEAIRLOCKS RULES MAKE SURE NONE HAVE CHAGED)**
+Theairlock Network Rules
 (as of July 28, 2012)
 Basic rules:
 No Harrassment
