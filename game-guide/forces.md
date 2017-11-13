@@ -7,13 +7,15 @@ When a ship enters a sector that contains mines, the ship will hit the mines and
 
 Sometimes no mines will hit a ship entering a mined sector, but the player who enters the sector will ALWAYS get an attack screen as his guns fire on the mine(s).
 
-Hitting mines in a sector costs 3 turns.
+Hitting mines in a sector costs 3 turns, exception being Nijarin ships and Federal ships costing 2 turns. 
 
 Hitting mines will stop your plotted course if you were following your plot computer and you will have to re-plot to your destination.
 
 Hitting mines will uncloak a cloaked ship.
 
 Each mine that hits will do 20 damage.
+
+Nijarin ships take three quarters damage from mines (15 damage).
 
 Federal ships take half damage from mines (10 damage).
 
