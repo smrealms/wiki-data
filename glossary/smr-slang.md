@@ -6,7 +6,7 @@
 **Ship Slang**
 
 ***THIS NEEDS TO BE PUT IN CHART FORM***
-Term	Full Name	Term	Full Name
+Term	Full Name	
 
 FU	Federal Ultimatum 
 DC	Death Cruiser
