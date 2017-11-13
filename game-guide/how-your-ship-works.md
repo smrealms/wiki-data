@@ -8,9 +8,7 @@ CurrentSector.PNG
 
 # **Ship Information**
 On the right hand of your screen, you will see information about your ship. Ship information is grouped into sections. The first group shows the ship type and its basic information.
-**~~ShipInfo.PNG
-In the above example, the type of ship (Advanced Courier Vessel), its attack and defense rating (0/3 ), the shields and armor (50/250; if you notice i'm missing 200 shields, I need to uno!), and its configurable hardware is shown.
-**~~
+![Ship](/uploads/ship.png "Ship")
 
 # **Rating**
 The rating of your ship is represented by a pair of numbers. The first number is the attack rating and indicates how much damage your ship does. Basically, the higher the attack rating the better the damage your ship will do against other ships. That attack rating is calculated like this:
@@ -21,24 +19,24 @@ The second number is the defense rating and shows how much damage your ship can 
 So in the example above, the Federal Ultimatum with 700 shields and 600 armor and 120 combat drones would be: (700 + 600 + (120 * 3)) / 100 = 17
 
 # **Shields and Armor**
-~~ShipInfo.PNG~~
+
 Your ship is designed with a number of shields and armor to protect it from harm. The first number in the pair of numbers shown next to Shields and Armor is the actual amount you have and the second number is the maximum possible for your type of ship. When hitting mines or under attack by another ship, your ship takes damage. It will lose shields first. When all shields are gone, your ship begins to lose armor. If your ship has combat drones, these will absorb damage as well. When all shields and armor and drones are gone, your ship is destroyed. You are placed in an escape pod and sent to your racial Headquarters. You lose all of the cargo and cash that was onboard your ship, and you lose some amount of experience. You will then have to buy a new ship with what money your have saved in the Bank.
 You can repair your damaged ship by buying shields and armor at UNO shops located around the galaxies.
 
 # **CIJSD**
-~~CIJSD.PNG~~
+
 These letter abbreviations and the row of dashes '-' or stars '*' that follow indicate the configurable hardware that can be installed on a ship. The use of these different types of hardware is detailed elsewhere, but here are what the abbreviations stand for:
 C= Cloak I= Illusion Generator J= Jump Drive S= Scanner D= Drone Scrambler
 Not all ships have configurable hardware, and most can only use one or two different types. If you have one of these installed on your ship, it will by shown by a * in the row of dashes that correspond to the letter. In the example above, the star is in the 4th place meaning that the ship is equipped with a scanner.
 
 # **Forces**
-~~Forces.PNG~~
+
 The next group of ship information on the right hand side shows the forces that your ship can carry. Forces are the term for Mines, Combat Drones, and Scouts. Not all ships carry forces.
 Forces [x] Mines : 11/30 [x] Combat : 50/50 Scout : 0/0
 In the above example, the ship has 11 mines out of a maximum of 30 and all 50 combat drones that it can carry. No scouts are allowed on this ship. The [x] is a clickable link that lets you drop one of that type of force into the current sector where you ship is.
 
 # **Cargo Holds**
-~~CargoHolds.PNG~~
+
 Below Forces is Cargo Holds. This shows how many goods your ship can carry. Some ships carry no cargo at all, while others are designed to carry alot of cargo. Cargo Holds is also a clickable link. You can jettison your cargo into space if necessary, but you lose the experience gained from buying it.
 Cargo Holds (60/60) Empty : 60
 In this example the ship has a maximum of 60 cargo holds and can carry 60 units of port goods at a time.
@@ -48,7 +46,7 @@ At the bottom of the right hand screen is a list of your ship's Weapons. Weapons
 You can only have one level 5 weapon, two level 4 weapons, 3 level 3 weapons and 4 level two weapons. This is also controlled by your weapon Power.
 
 # **Maneuvering your ship**
-~~MovementInfo.PNG~~
+
 Your ship is able to move from sector to sector in the galaxy you are in. You can view the sectors in two ways. In the upper left of the screen, you will see these links:
 Current Sector
 Local Map
@@ -57,7 +55,7 @@ Galaxy Map
 More on maneuvering your ship in the next section.
 
 # **Turns**
-~~TraderInfo.PNG~~
+
 This screenshot details turns, cash on hand, alignment and all other trader info on the top right hand side of your screen.
 
 Space Merchant Realms is a turn-based game. Almost everything you do in-game will cost you turns. The number of turns you have is shown in the upper right part of the screen. You are only able to move or act in the game if you have enough turns to do it. **Below is a chart that shows which actions cost you turns and how many.**
