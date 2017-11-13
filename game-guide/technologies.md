@@ -57,7 +57,7 @@ Although this equipment allows players to pretend to be in a different ship than
 
 # **Jump Drive**
 
-The jump drive allows you to jump across several sectors without the need to go through each one. It does cost **15(10?)** turns to use however, so it is best to use when you need to reach a location that is over **15(10?)** sectors away. If the location is exactly **15(10?)** sectors away, you will land exactly where you were aiming, unless you're going to another galaxy. If your location is over **15(10?)** sectors away, there is a random chance of a misjump...leaving you one to eight sectors away from where you were heading. You can use the jump drive to jump from one galaxy to another, however you have a greater chance of misjump.
+The jump drive allows you to jump across several sectors without the need to go through each one. It does cost **10+** turns to use however, so it is best to use when you need to reach a location that is over **10+** sectors away. If the location is exactly **10** sectors away, you will land exactly where you were aiming. If your location is over **10** sectors away, there is a chance of a misjump, larger the misjump the further distance the jump is...leaving you one to eight sectors away from where you were heading. You can use the jump drive to jump from one galaxy to another, however you have a greater chance of misjump.
 
 The jump drive is good for reaching a location that is surrounded by enemy forces, such as a Combat Accessories store.
 
@@ -66,6 +66,6 @@ Also, now with recent changes you can jump more than one galaxy away. This is ve
 
 # **Drone Scrambler**
 
-The Drone Communications Scrambler or DCS is a device used to disrupt coordination of enemy drone attacks. The DCS, when used against ports and planets is able to prevent 25% of the enemy drones from attacking your ship. Against other ships, the DCS reduces drone damage by 33%. It will also prevent 50% of all mine damage to your ship. The DCS is not manually enabled/disabled like other hardware. It is automatically used at all times. It also does not require any turns to use. ***The Drone Scrambler is available only at the Nijarin Hardware shop, which is usually located at the Nijarin Government HQ, or at a Crone Dronfusion***(Alskant?). The price of the DCS is 500,000 credits.
+The Drone Communications Scrambler or DCS is a device used to disrupt coordination of enemy drone attacks. The DCS, when used against ports and planets is able to prevent 25% of the enemy drones from attacking your ship. Against other ships, the DCS reduces drone damage by 33%. It will also prevent 50% of all mine damage to your ship. The DCS is not manually enabled/disabled like other hardware. It is automatically used at all times. It also does not require any turns to use. ***The Drone Scrambler is available only at the Nijarin Hardware shop, which is usually located at the Nijarin Government HQ, or at a Crone Dronfusion***. The price of the DCS is 500,000 credits.
 
 It is important to note that a DCS will not give your teammates any protection against combat drones, even if they are in the sector with you. The effect is only active for the ship with the DCS.
