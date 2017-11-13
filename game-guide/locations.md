@@ -10,7 +10,8 @@ In the example shown below, the port is a level 8 port that buys food, precious 
 ***The Federation searched your ship and illegal goods were found!
 All illegal goods have been removed from your ship and you have been fined 124,320 credits***
 
-A sample port can be found here: https://www.smrealms.de/manual.php?17
+A sample port can be found here: 
+![Port](/uploads/port.png "Port")
 
 Trading at a port is done by clicking the TRADE button and bargaining with the port master. Tips on trading can be found elsewhere in this manual, or by asking a fellow player who has learned the ropes.
 
@@ -49,15 +50,16 @@ Shops are locations where players can buy and sell different types of items besi
 
 While you are exploring the galaxies, you will occasionally come across <img src="https://www.smrealms.de/images/warp.png"> warps. These will take you into a new galaxy. They also cost 5 turns to move through them. Warps always appear in the bottom right hand corner of the move to sector listing.
 
-SMR Manual Link with warp current sector view: http://www.smrealms.de/manual.php?20
-
+SMR Manual Link with warp current sector view: 
+![Warp](/uploads/warp.png "Warp")
 # **Headquarters**
 
 ### **Description**
 
 This is a <img src="https://www.smrealms.de/images/government.gif"> Racial Headquarters Location. This is where you start out in the game. Here, you can deputize and collect bounties/war payments. Spend a few minutes exploring what is available in your Racial Government. The next area is the Federal Beacon. Provided that you have met the requirements for protection, no one else will be able to pod your ship at this location. Next up is your racial ship shop. Note that you can only buy racial ships of the race you have chosen. Last but not least is a hardware shop. Here you can buy your shields, armor, cargo holds, scanner, and racial technology (if supported by your current ship).
 
-This will take you to the SMR Manual Current Sector view of a HeadQuarters: http://www.smrealms.de/manual.php?49
+This will take you to the SMR Manual Current Sector view of a HeadQuarters: 
+![Hq](/uploads/hq.png "Hq")
 
 ### **Bounties**
 
