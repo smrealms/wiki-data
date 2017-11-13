@@ -28,8 +28,6 @@ Planets start out with no buildings at all, but with proper supplies stockpiled,
 * **Turrets** fire heavy laser beams. Each planet can have a maximum of 10 turrets. These laser beams do 250/250 damage. Basically, when they hit an attacking ship they can destroy 250 shields or 250 armor (but not both on the same shot).
 * **Bunkers** protect a planet with heavy-plated armor. Each bunker provides 100 armor.
 
-The construction center shows what goods are stockpiled on a planet and which ones are needed for building each type of defense. Once started, it shows when construction will be completed. Only one building can be constructed at a time.
-
 Planets can serve as a relatively safe place to park your ship, but no planet is 100% safe. Even the strongest planet can can fall to a well organized attacking fleet of warships.
 
 # Ports
