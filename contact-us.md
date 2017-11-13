@@ -2,10 +2,11 @@
 <!-- SUBTITLE: SMR Administration -->
 
 There are several ways to contact the admins of SMR.
-1. **In-game Personal Message**: You can message an admin in-game, those players will have will have a blue Admin tag attached to their name and they can be found on the current players list if they are online. An example of an admin player would be `Lieutenant 2nd Class Hot MaMa (14) Admin`.
-2. **In-game Contact Form**: Another way of contacting the admins is through the contact form in-game on the left side of the page. This is a link that when opened will show an email form where you can send an email to support@smrealms.de through the game.
-3. **On IRC**: The next way you can contact an admin is through chat. By joining #smr through the IRC link in-game or [here](https://client02.chat.mibbit.com/?server=irc.theairlock.net&channel=%23smr) you can message any online admin who is in chat at the time via a personal message by clicking their name. Those online admins will have a ~, & or @ in front of their chat nicknames.
-4. **On the forums**: The last way you can contact an admin is through the [web board forums](https://smrcnn.smrealms.de/), where you can send a personal message to admins once you create an account. Their names are colored in red so that they can be easily distinguished. Contacting them is easy, all you need to do is click one of their names and either PM or email them.
+1. **In-game Personal Message**: You can message an admin in-game. When they are online, you will see them with a blue Admin tag attached to their name on the Current Players list. An example of an admin player would be `Lieutenant 2nd Class Hot MaMa (14) Admin`.
+2. **In-game Contact Form**: You will find the contact form in-game on the left side of the page. This links to a page with a form, which you can fill out and submit. Your submission will be automatically sent to support@smrealms.de.
+3. **On IRC**: By joining #smr through the IRC link in-game or [here](https://client02.chat.mibbit.com/?server=irc.theairlock.net&channel=%23smr) you can message any admin who is in chat via a personal message by clicking their name. Admins will have a ~, & or @ in front of their chat nicknames.
+4. **On the forums**: Once you create an account on the [web board forums](https://smrcnn.smrealms.de/), you can send a personal message to admins. Their names are colored in red so that they can be easily distinguished. Contacting them is easy, all you need to do is click one of their names and either PM or email them.
+5. **On Discord**: You can join the public SMR Discord channel [here](https://discord.gg/8sZartg). In the list of players on the right side of the page, admins will be listed under "Game Admin".
 
 # Admin Team
 Below are the current administrators of Space Merchant Realms
