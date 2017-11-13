@@ -33,14 +33,10 @@ The construction center shows what goods are stockpiled on a planet and which on
 Planets can serve as a relatively safe place to park your ship, but no planet is 100% safe. Even the strongest planet can can fall to a well organized attacking fleet of warships.
 
 # Ports
-TODO: only the combat aspects of ports should be here.
+This section is about attacking ports. For general information about ports, see [Locations: Ports](locations#ports).
 
-Ports are places where goods are bought and sold for various prices. Players gain money and experience by bargaining with port masters for the best possible price. Ports are ranked from level 1 to level 9. Low level ports sell cheaper goods, while high level ports sell more expensive and more profitable goods. Some ports sell illegal goods too, but these can only be traded by those traders who have joined the Underground.
+As ports increase in level, they are able to afford better defenses. If your ship is equipped with a scanner, then when you click the RAID button at a port, you will have the opportunity to see what its defenses are before confirming the attack order.
 
-In the example shown below, the port is a level 8 port that buys food, precious metals (pm), textiles, circuitry, and weapons (an illegal good), and it sells wood, ore, slaves (an illegal good), machinery, luxuries, and narcotics (an illegal good). You cannot see illegal goods unless your alignment is below -99. Being evil provides both advantages and disadvantages, such as more goods trade, thus more routes but if you are caught trading an illegal good then you will be fined.
-
-~~**A sample port can be found here in the SMR Manual.**~~
-
-Trading at a port is done by clicking the TRADE button and bargaining with the port master. Tips on trading can be found elsewhere in this manual, or by asking a fellow player who has learned the ropes.
-
-Ports can also be raided by clicking the RAID button, but be warned: ports are heavily defended by a dozen laser turrets and thousands of combat drones. Only a fleet of well-armed warships can hope to raid a port successfully, but the payoff is often worth the risk.
+**Armor/Shields**: Ports have an equal number of armor and shields, and this number increases with the amount of profit a port has.
+**Combat Drones**: The number of combat drones increases with the port's profit.
+**Turrets**: Ports have 6 turrets. Their accuracy increases with the level of the port.
