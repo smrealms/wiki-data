@@ -18,23 +18,15 @@ Ports can also be raided by clicking the RAID button, but be warned: ports are h
 
 Planets are located in the outer galaxies, occasionally in racial galaxies. They are places to park ships, stockpile trade goods, and store cash. A player may take ownership of a planet and set a password so that other players in their alliance cannot take it. Only players from the owner's alliance may land on the planet. All others must attack and destroy a planet's defenses before landing. Once a planet's defenses are destroyed, a player can land and take ownership of the planet.
 
-Planets start out with no buildings at all, but with proper supplies stockpiled, construction of generators, hangars, and turrets can begin. As more buildings are constructed, the planet's defense level increases. Planets begin at level zero and finish at level 45.
-
-See also: [Attacking Planets](combat#planets)
-
-Generators protect a planet with shields. Each generator can hold 100 shields and planets can have a maximum of 100 generators, or 10,000 shields.
-
-Hangars house and launch combat drones. Each hangar holds 20 drones and planets can have a maximum of 100 hangars, or 2,000 CDs.
-
-Turrets fire heavy laser beams. Each planet can have a maximum of 10 turrets. These laser beams do 250/250 damage. Basically, when they fire at someone they can destroy 250 shields, or 250 armor (but not both on the same shot).
-
-Bunkers protect a planet with heavy-plated armor. Each bunker provides 100 armor.
+Planets start out with no buildings at all, but with proper supplies stockpiled, construction of generators, hangars, and turrets can begin. As more buildings are constructed, the planet's defense level increases. Planets begin at level zero and finish at level 45. Each structure increases the planet's level by 0.33.
 
 The construction center shows what goods are stockpiled on a planet and which ones are needed for building each type of defense. Once started, it shows when construction will be completed. Only one building can be constructed at a time.
 
-Some planets have a bank vault which can store cash. The vault can be accessed by anyone who is parked on the planet. The vault can also be used to bond cash. A bond cannot be touched once it has started and will pay interest on the principal amount when it comes due.
+Some planets have a bank vault which can store cash. The vault can be accessed by anyone who is parked on the planet. The vault can also be used to bond cash. A bond cannot be touched once it has started and will pay interest on the principal amount when it comes due. The interest rate is highest when the planet is level 28.67.
 
 Planets can serve as a relatively safe place to park your ship, but no planet is 100% safe and even level 70 planets can fall to a well organized attacking fleet of warships.
+
+See also: [Attacking Planets](combat#planets)
 
 # **Shops**
 
