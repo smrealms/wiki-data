@@ -1,5 +1,5 @@
 <!-- TITLE: Safe Trading -->
-<!-- SUBTITLE: A user-contributed guide -->
+<!-- SUBTITLE: A player-contributed guide -->
 
 By Gunslinger
 
