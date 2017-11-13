@@ -5,8 +5,10 @@
 
 Ports are places where goods are bought and sold for various prices. Players gain money and experience by bargaining with port masters for the best possible price. Ports are ranked from level 1 to level 9. Low level ports sell cheaper goods, while high level ports sell more expensive and more profitable goods. Some ports sell illegal goods too, but these can only be traded by those traders who have joined the UnderGround and are of evil alignment.
 
-In the example shown below, the port is a level 8 port that buys food, precious metals (pm), textiles, circuitry, and weapons (an illegal good), and it sells wood, ore, slaves (an illegal good), machinery, luxuries, and narcotics (an illegal good). You cannot see illegal goods unless your alignment is below -99. Being evil provides both advantages and disadvantages, such as more goods trade, thus more routes but if you are caught trading an illegal good then you will be fined.
-***(INSERT EXAMPLE HERE)***
+In the example shown below, the port is a level 8 port that buys food, precious metals (pm), textiles, circuitry, and weapons (an illegal good), and it sells wood, ore, slaves (an illegal good), machinery, luxuries, and narcotics (an illegal good). You cannot see illegal goods unless your alignment is below -99. Being evil provides both advantages and disadvantages, such as more goods trade, thus more routes but if you are caught trading an illegal good then you will be fined. An example of being caught is below:
+
+***The Federation searched your ship and illegal goods were found!
+All illegal goods have been removed from your ship and you have been fined 124,320 credits***
 
 A sample port can be found here: https://www.smrealms.de/manual.php?17
 
