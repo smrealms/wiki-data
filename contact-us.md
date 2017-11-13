@@ -35,6 +35,7 @@ We would like to recognize the following people for their contributions to the c
 | --- | --- |
 | Bouncer	| Head Admin, Wiki, Forum, IRC |
 | RCK (Red Cross Knight)	| Head Admin, Wiki, Forum, IRC |
+| Azool	| Head Admin, Wiki, Forum, IRC, Coder |
 | GreyDeath	| General Admin |
 | JettJackson	| General Admin |
 | Holti	| Newbie Help / Facebook Admin |
@@ -45,8 +46,13 @@ We would like to recognize the following people for their contributions to the c
 | EstoyLoco	| Marketing/Newbie Helper Admin |
 | B.O.B.	|  Communication Admin |
 | Siege	| Multi Admin |
+| Trigek	| General Admin |
+| RandyOrsolo	| General Admin |
 | Strike	| General Admin |
 | Jester	| General Admin |
+| DWizz	| General Admin |
 | Blade	| General Admin |
+| OmegaRenegade	| General Admin |
+| Baalzamon	| General Admin |
 | Beausoleil	| General Admin, Wiki |
 | Hugh |	General Admin |
