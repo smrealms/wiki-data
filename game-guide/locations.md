@@ -38,32 +38,26 @@ Planets can serve as a relatively safe place to park your ship, but no planet is
 
 Shops are locations where players can buy and sell different types of items besides trade goods. Many of these items are only available at certain shops.
 
-**~~shipdealer.gif~~** Ships - racial ships are available only in that race's headquarters sector. Other types of ships can be bought at ship shops scattered across the universe.
+<img src="https://www.smrealms.de/images/shipdealer.gif"> Ships - racial ships are available only in that race's headquarters sector. Other types of ships can be bought at ship shops scattered across the universe.
 
-**~~weapon_shop.gif~~** Weapons - there are many different shops that sell weapons.
+<img src="https://www.smrealms.de/images/weapon_shop.png"> Weapons - there are many different shops that sell weapons.
 
-~~**hardware.png**~~ Combat Accessories - this shop exclusively sells mines, combat drones, and scouts
+<img src="https://www.smrealms.de/images/hardware.png"> Combat Accessories - this shop exclusively sells mines, combat drones, and scouts
 
-~~**hardware.png**~~ UNO - this shop sells shields, armor, and cargo holds
+<img src="https://www.smrealms.de/images/hardware.png"> UNO - this shop sells shields, armor, and cargo holds
 
 
 # **Warps**
 
-While you are exploring the galaxies, you will occasionally come across **~~warp.png~~** warps. These will take you into a new galaxy. They also cost 5 turns to move through them. Warps always appear in the bottom right hand corner of the move to sector listing.
+While you are exploring the galaxies, you will occasionally come across <img src="https://www.smrealms.de/images/warp.png"> warps. These will take you into a new galaxy. They also cost 5 turns to move through them. Warps always appear in the bottom right hand corner of the move to sector listing.
 
 SMR Manual Link with warp current sector view: http://www.smrealms.de/manual.php?20
 
 # **Headquarters**
-~~Contents
-1 Description
-1.1 Bounties
-1.1.1 What are bounties?
-1.1.2 Placing a bounty
-1.1.3 Claiming a bounty~~
 
 ### **Description**
 
-This is a ***government.gif*** Racial Headquarters Location. This is where you start out in the game. Here, you can deputize and collect bounties/war payments. Spend a few minutes exploring what is available in your Racial Government. The next area is the Federal Beacon. Provided that you have met the requirements for protection, no one else will be able to pod your ship at this location. Next up is your racial ship shop. Note that you can only buy racial ships of the race you have chosen. Last but not least is a hardware shop. Here you can buy your shields, armor, cargo holds, scanner, and racial technology (if supported by your current ship).
+This is a <img src="https://www.smrealms.de/images/government.gif"> Racial Headquarters Location. This is where you start out in the game. Here, you can deputize and collect bounties/war payments. Spend a few minutes exploring what is available in your Racial Government. The next area is the Federal Beacon. Provided that you have met the requirements for protection, no one else will be able to pod your ship at this location. Next up is your racial ship shop. Note that you can only buy racial ships of the race you have chosen. Last but not least is a hardware shop. Here you can buy your shields, armor, cargo holds, scanner, and racial technology (if supported by your current ship).
 
 This will take you to the SMR Manual Current Sector view of a HeadQuarters: http://www.smrealms.de/manual.php?49
 
@@ -83,7 +77,7 @@ In order to claim a bounty you simply need to go to a racial or federal Headquar
 
 # **Banks**
 
-**~~bank.png~~** (ALSO OTHER BANK ICONS WOULD GO HERE) Banks
+<img src="https://www.smrealms.de/images/bank.png"><img src="https://www.smrealms.de/images/bank2.png"><img src="https://www.smrealms.de/images/bank3.png"><img src="https://www.smrealms.de/images/bank4.png"><img src="https://www.smrealms.de/images/bank5.png">
 
 Where to find a Bank?
 
@@ -94,5 +88,6 @@ What's in the Bank?
 Hopefully lots and lots of money. There are 3 parts to the bank: Personal Account(PA), Alliance Account(AA), and Anonymous Accounts(anon). Your personal account is an account that you and only you can access. It is recommended to keep funds in your personal account only if you are not in an alliance. The alliance account is the main use of the banks, and all money made by members of an alliance is expected to be deposited into the alliance account. When you need to buy something you will take the money from the AA when it is time. The third and final section is for anonymous accounts which allow you to share money with someone not in your alliance.
 
 # **Bars**
+<img src="https://www.smrealms.de/images/bar.png"><img src="https://www.smrealms.de/images/bar2.png"><img src="https://www.smrealms.de/images/bar3.png"><img src="https://www.smrealms.de/images/bar4.png"><img src="https://www.smrealms.de/images/bar5.png">
 
-Just like in life outside of SMR, bars in the game sell drinks to players. Be careful though: drink too much and you might pass out! While hanging around at a bar, denoted by **~~bar.png~~**(**ALSO INSERT OTHER BAR ICONS HERE**), you can also play some blackjack, but a lottery ticket, customize your ship name, or buy a scout notification system to aid you in hunting. After the first few days of the game, players can also purchase galaxy maps at any bar if they don't feel like exploring everything manually.
+Just like in life outside of SMR, bars in the game sell drinks to players. Be careful though: drink too much and you might pass out! While hanging around at a bar, you can also play some blackjack, but a lottery ticket, customize your ship name, or buy a scout notification system to aid you in hunting. After the first few days of the game, players can also purchase galaxy maps at any bar if they don't feel like exploring everything manually.
