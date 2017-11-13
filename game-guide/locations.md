@@ -40,7 +40,7 @@ Shops are locations where players can buy and sell different types of items besi
 
 <img src="https://www.smrealms.de/images/shipdealer.gif"> Ships - racial ships are available only in that race's headquarters sector. Other types of ships can be bought at ship shops scattered across the universe.
 
-<img src="https://www.smrealms.de/images/weapon_shop.png"> Weapons - there are many different shops that sell weapons.
+<img src="https://www.smrealms.de/images/weapon_shop.gif"> Weapons - there are many different shops that sell weapons.
 
 <img src="https://www.smrealms.de/images/hardware.png"> Combat Accessories - this shop exclusively sells mines, combat drones, and scouts
 
