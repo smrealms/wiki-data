@@ -13,7 +13,7 @@ When your ship is attacked, it will return fire automatically (as long as you ha
 Ship to ship combat requires practice. Different players use different strategies and weapon configurations. Try asking other players in the game what they use. Most players are more than willing to help out curious, new players.
 
 # Planets
-Planets are located in the outer galaxies, occasionally you can find planets in neutral galaxies. They are places to park ships, stockpile trade goods, and store cash. A player may take ownership of a planet and set a password so that other players in their alliance cannot take it. Only players from the owner's alliance may land on the planet. All others must attack and destroy a planet's defenses before landing. Once a planet's defenses are destroyed, a player can land and take ownership of the planet.
+This section is about attacking planets. For general information about planets, see [Locations: Planets](locations#planets). 
 
 | Types of planets |
 | --- |
@@ -29,8 +29,6 @@ Planets start out with no buildings at all, but with proper supplies stockpiled,
 * **Bunkers** protect a planet with heavy-plated armor. Each bunker provides 100 armor.
 
 The construction center shows what goods are stockpiled on a planet and which ones are needed for building each type of defense. Once started, it shows when construction will be completed. Only one building can be constructed at a time.
-
-Some planets have a bank vault which can store cash. The vault can be accessed by anyone who is parked on the planet. The vault can also be used to bond cash. A bond cannot be touched once it has started and will pay interest on the principal amount when it comes to term.
 
 Planets can serve as a relatively safe place to park your ship, but no planet is 100% safe. Even the strongest planet can can fall to a well organized attacking fleet of warships.
 
