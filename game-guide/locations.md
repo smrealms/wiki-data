@@ -20,6 +20,8 @@ Planets are located in the outer galaxies, occasionally in racial galaxies. They
 
 Planets start out with no buildings at all, but with proper supplies stockpiled, construction of generators, hangars, and turrets can begin. As more buildings are constructed, the planet's defense level increases. Planets begin at level zero and finish at level 45.
 
+See also: [Attacking Planets](game-guide/combat#planets)
+
 Generators protect a planet with shields. Each generator can hold 100 shields and planets can have a maximum of 100 generators, or 10,000 shields.
 
 Hangars house and launch combat drones. Each hangar holds 20 drones and planets can have a maximum of 100 hangars, or 2,000 CDs.
