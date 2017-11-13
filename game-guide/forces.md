@@ -38,7 +38,7 @@ Combat Drones are very useful as they serve as both defense and offense.
 
 When Combat Drones are on your ship, they are basically robot fighters that attack enemy ships in combat and will defend your ship in an attack. In combat, a random number of Combat Drones launch from your ship and do damage to your opponent. When an enemy ship returns fire it may destroy some of your drones. Drones will also attack mines if you run into them.
 
-When laid in a sector, Combat Drones work much like mines do, but don't automatically explode when an enemy enters the sector. However if you attack any forces in a sector, they will do 20 damage each to your ship.
+When laid in a sector, Combat Drones work much like mines do, but don't automatically explode when an enemy enters the sector. However if you attack any forces in a sector, they will do 2 damage per drone hit to your ship.
 
 You can drop a maximum of 50 combat drones per player in a sector.
 
