@@ -33,6 +33,7 @@ We would like to recognize the following people for their contributions to the c
 
 | Name	| Position |
 | --- | --- |
+| Bouncer	| Head Admin, Wiki, Forum, IRC |
 | RCK (Red Cross Knight)	| Head Admin, Wiki, Forum, IRC |
 | GreyDeath	| General Admin |
 | JettJackson	| General Admin |
@@ -40,6 +41,7 @@ We would like to recognize the following people for their contributions to the c
 | seldum	| General Admin |
 | Jouldax	| General Admin |
 | Prince Valiant	| All-Purpose Admin |
+| Nariis	| Marketing/Newbie Helper Admin |
 | EstoyLoco	| Marketing/Newbie Helper Admin |
 | B.O.B.	|  Communication Admin |
 | Siege	| Multi Admin |
