@@ -37,7 +37,7 @@
 | Pod	| Escape Pod |
 | Vindy	| Vindicator | 
 
-Weapon Slang
+**Weapon Slang**
 
 | Term	| Full Name	|
 | :---: | --- |
