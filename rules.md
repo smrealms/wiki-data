@@ -1,7 +1,8 @@
 <!-- TITLE: Rules -->
 <!-- SUBTITLE: A quick summary of Rules -->
 
-# Multiple Accounts
+# SMR Game Rules
+## Multiple Accounts
 
 * Each player is allowed to make 1 additional account.
 * A player may not kill their multi (50 points for arranged kill).
@@ -11,12 +12,12 @@
 * All veteran players that make a multi will have that multi start out as a veteran. Newbie and Beginner-ranked players will have a newbie multi.
 * Multi-boxing is allowed with your main account and your multi account. This means you can be logged in on both accounts at once, whether it is multiple browsers or multiple devices. 
 
-# Account Sharing
+## Account Sharing
 
 * There is to be no account sharing. No exceptions.
 * All players found guilty of account sharing could receive anywhere between 30 and 80 points
 
-# Harassment
+## Harassment
 
 * Harassment of SMR staff (this includes administrators, webboard mods, IRC mods) is unacceptable and will be dealt with on a case by case basis.
 * Harassment of other players should be dealt with in the following way.
@@ -25,25 +26,25 @@
 * Any harassment done through IRC chat will be dealt with by the IRC officers, and considered a separate case from SMR admins. Should the IRC officers request an ingame ban, it is a request that may be granted.
 
 
-# Swearing
+## Swearing
 
 Swearing both in game and on the webboard are prohibited. Bypassing of the word filter will end in a webboard ban and from 0-50 points.
 
 
-# Arranged Kills
+## Arranged Kills
 
 * The act of engaging in combat with complete knowledge of who will win is illegal and everyone involved will receive 50 points.
 * Kicking a member out from an alliance in order to pod them is also illegal. Should a kick-kill happen the reason for the player's kick from the alliance will be investigated. If the kicking was legitimate, then there will be no repercussion. This clause is subject to change on a case-by-case basis.
 * Leaving an alliance to kill another member and then rejoining is also illegal, and the perpetrator will receive 50 points. This is also the case for alliances with treaties that prohibit podding one another.
 
 
-# Impersonation
+## Impersonation
 
 * Anyone who knowingly impersonates another player or alliance without their prior knowledge and permission will receive up to 20 points.
 * Use of a Trader name that is similar to, or can be confused with a current member of the Administration Team is forbidden.
 
 
-# Bug Abuse
+## Bug Abuse
 
 Includes but is not limited to:
 * Discovering an unintended coded affect or bug in the game that gives you an advantage or an enemy a disadvantage and not reporting the bug.
@@ -52,26 +53,26 @@ Includes but is not limited to:
 * Anyone found guilty of bug abuse will receive anywhere from a warning to 100 points on a case-by-case level.
 
 
-# Ban Hopping
+## Ban Hopping
 
 Offending players are automatically given 10 points for each hop, regardless if the initial ban was unjust or dismissed.
 
 
-# Public Accusation of Cheating
+## Public Accusation of Cheating
 
 * There is to be no public accusation of cheating. Should this occur, the offender will be receiving 25-50 points.
 * Should this take place within the webboard, the offender will receive a webboard ban as well as the points.
 * Any serious accusations of cheating are to be reported directly to an administrator.
 
 
-# Proper Channels of Communication
+## Proper Channels of Communication
 
 If anyone needs to report a problem, immediately [message an administrator](contact-us). If an admin is unavailable, message a Committee member or Chat OP. They will pass on the message.
 
 Any public complaints of an administrator, webboard mod, or chat mod's actions will result in 5-40 points on a case-by-case basis.
 
 
-# Ban Points and Discipline
+## Ban Points and Discipline
 
 | Points | Ban Duration |
 | :---: | --- |
@@ -92,14 +93,14 @@ Points removal: Your account is on probation double the length of your ban. If y
 Webboard ban times are up to the admin/moderator who requested the ban.
 
 
-# Appealing
+## Appealing
 
 Should a member believe that they have wrongly received a ban or points, they can request an admin (in private) to appeal their case. Should this appeal be granted, they will be allowed temporary access to a special area on the webboard to give their side of the case. Any other players who wish to give input can state it to an administrator, who may or may not allow them to give their input as well.
 
 Any public demands for an appeal could add on an additional penalty of 20 points to the previous amount of points or in the case of one player publicly demanding an appeal for another result in a penalty of up to 20 points.
 
 
-# General Inappropriate Behaviour
+## General Inappropriate Behaviour
 
 Although a rule may not be listed, if an action is deemed to be inappropriate then action will be taken at the admins discretion to ensure that SMR is a family friendly, enjoyable and fair place for all present. Extra rules to cover these new offenses will be added as necessary.
 
