@@ -7,7 +7,7 @@ In the following sections, you will get a brief overview of each race and inform
 
 
 # Alskant
-<img src="https://www.smrealms.de/images/race/race2.jpg">
+<img align="center" src="https://www.smrealms.de/images/race/race2.jpg">
 
 **Racial Profile**
 
