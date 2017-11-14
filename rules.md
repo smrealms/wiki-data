@@ -66,8 +66,9 @@ Offending players are automatically given 10 points for each hop, regardless if 
 
 # Proper Channels of Communication
 
-If anyone needs to report a problem, immediately message an administrator. If an admin is unavailable, message a Committee member or Chat OP. They will pass on the message.
-Any public complaints of an administrator, webboard mod, or chat mod's actions will result in 5-40 points on a case to case basis.
+If anyone needs to report a problem, immediately [message an administrator](contact-us). If an admin is unavailable, message a Committee member or Chat OP. They will pass on the message.
+
+Any public complaints of an administrator, webboard mod, or chat mod's actions will result in 5-40 points on a case-by-case basis.
 
 
 # Ban Points and Discipline
