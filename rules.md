@@ -107,7 +107,7 @@ Although a rule may not be listed, if an action is deemed to be inappropriate th
 
 # IRC and Discord Rules
 Players are expected to abide by IRC Network and Discord rules in addition to rules set forth by the SMR administration team.
-## SMR Rules
+## SMR Chat Rules
 * No foul language is allowed. That includes swearing, explicit language, derogatory racial comments, and similar activities.
 * No advertising of sites not related to SMR is allowed. Limited advertisement of online game directories, news publications, and similar sites is accepted.
 * No promotion of illegal activities, including but not limited to illegal drug use, is allowed.
