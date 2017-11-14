@@ -3,19 +3,15 @@
 
 # **Mines**
 
-When a ship enters a sector that contains mines, the ship will hit the mines and an attack screen will be shown to that player as his guns automatically fire on the mines. The attack screen shows the number of mines that hit the ship, the damage done to the ship and the amount of damage the ship's guns did to the mines. The player who hit the mines must click the Current Sector link to view the sector again and see what is there and continue play.
+When a ship enters a sector that contains mines, the ship will hit the mines and an attack screen will be shown to that player as his guns automatically fire on the mines. The attack screen shows the number of mines that hit the ship, the damage done to the ship and the amount of damage the ship's guns did to the mines. The player who hit the mines must click the Current Sector link to view the sector again and see what is there and continue play. You can exit a mined sector safely using the bright Green exit.
 
-Sometimes no mines will hit a ship entering a mined sector, but the player who enters the sector will ALWAYS get an attack screen as his guns fire on the mine(s).
+Some effects of entering a mined sector:
+* Sometimes no mines will hit a ship entering a mined sector, but the player who enters the sector will ALWAYS get an attack screen as his guns fire on the mine(s).
+* Hitting mines costs 3 turns, exception being Nijarin ships and Federal ships costing 2 turns. 
+* Hitting mines will stop your plotted course if you were following your plot computer and you will have to re-plot to your destination.
+* Hitting mines will uncloak a cloaked ship.
 
-Hitting mines in a sector costs 3 turns, exception being Nijarin ships and Federal ships costing 2 turns. 
-
-Hitting mines will stop your plotted course if you were following your plot computer and you will have to re-plot to your destination.
-
-Hitting mines will uncloak a cloaked ship.
-
-You can exit a mined sector safely using the bright Green exit.
-
- #### How mines damage your ship:
+How mines damage your ship:
 * Each mine that hits will do 20 damage.
 * Nijarin ships take three quarters damage from mines (15 damage).
 * Federal ships take half damage from mines (10 damage).
