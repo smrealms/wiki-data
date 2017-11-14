@@ -102,40 +102,42 @@ Any public demands for an appeal could add on an additional penalty of 20 points
 Although a rule may not be listed, if an action is deemed to be inappropriate then action will be taken at the admins discretion to ensure that SMR is a family friendly, enjoyable and fair place for all present. Extra rules to cover these new offenses will be added as necessary.
 
 
-# IRC Chat
-
-Space Merchant Realms players are expected to follow the rules as outlined by the theairlock Network (type /rules via chat)
-
-
-#SMR Rules
-No foul language is allowed. That includes swearing, explicit language, derogatory racial comments, and similar activities.
-No advertising of sites not related to SMR is allowed. Limited advertisement of online game directories, news publications, and similar sites is accepted.
-No promotion of illegal activities, including but not limited to illegal drug use, is allowed.
-No cheating accusations are allowed. That includes, but is not limited to, accusations of having multiple accounts and abusing bugs. The proper action in those cases is an email to multi@smrealms.de in the former one and admin@smrealms.de (or bugs@smrealms.de) in the later.
-No harassment of admins, ops, or regular players is allowed. That includes slandering, name-calling, and similar activites. That also includes actions that have as their sole purpose to annoy admins, ops, or other players.
-Impersonating other players, admins, or ops, past and present, is strictly forbidden. For the purposes of this rule Space Merchant and Space Merchant Realms are considered to be the same game.
-No flooding or spamming is allowed.
-Since the only language that all of the ops speak is English, it is the only language allowed in #smr. If you want to speak other languages feel free to do it in other rooms or in PMs.
-Ban hopping (logging in from another IP after you get banned and similar activities) is striclty forbidden.
-Bots are allowed only with Spock's permission.
-Complaints about kicks/bans are to be made in private(PM, email). Complaints in chat are not allowed.
+# IRC and Discord Rules
+Players are expected to abide by IRC Network and Discord rules in addition to rules set forth by the SMR administration team.
+## SMR Rules
+* No foul language is allowed. That includes swearing, explicit language, derogatory racial comments, and similar activities.
+* No advertising of sites not related to SMR is allowed. Limited advertisement of online game directories, news publications, and similar sites is accepted.
+* No promotion of illegal activities, including but not limited to illegal drug use, is allowed.
+* No cheating accusations are allowed. That includes, but is not limited to, accusations of having multiple accounts and abusing bugs. The proper action in those cases is an email to multi@smrealms.de in the former one and admin@smrealms.de (or bugs@smrealms.de) in the later.
+* No harassment of admins, ops, or regular players is allowed. That includes slandering, name-calling, and similar activites. That also includes actions that have as their sole purpose to annoy admins, ops, or other players.
+* Impersonating other players, admins, or ops, past and present, is strictly forbidden. For the purposes of this rule Space Merchant and Space Merchant Realms are considered to be the same game.
+* No flooding or spamming is allowed.
+* Since the only language that all of the ops speak is English, it is the only language allowed in #smr. If you want to speak other languages feel free to do it in other rooms or in PMs.
+* Ban hopping (logging in from another IP after you get banned and similar activities) is striclty forbidden.
+* Bots are allowed only with Spock's permission.
+* Complaints about kicks/bans are to be made in [private](contact-us) (PM, email). Complaints in chat are not allowed.
 
 
-IRC Disciplinary actions
+## TheAirlock Network Rules
+For up-to-date rules on TheAirlock IRC server, type `/rules` in chat.
+
+Basic rules (as of July 28, 2012):
+* No Harrassment
+* No channels with profanity/offensive/racist material in the name
+* Channel topics with profanity/offensive material must be mode +s
+* No public or private channels that trade in warez or sexually related content
+* No nicks that can be taken as profanity, sexual, racist or warez related
+* No public channels or solicitations that advertise IRC Networks or redirect users. If you wish to redirect users in your channel with a topic, please +s the channel
+* Bots: Warez/Torrent/Filesharing bots are not welcome
+* Bot OWNERS you are RESPONSIBLE for the function/behavior of your bot
+
+## Discord Rules
+For up-to-date rules for Discord usage, please see the [community guidelines](https://discordapp.com/guidelines).
+
+## IRC Disciplinary actions
 There are 4 kinds of disciplinary action: a verbal warning, a kick, a short term ban (normally 24 hours), and a long term ban (up to life time). Disciplinary actions should start with the lowest level and continue to the highest. Normally, only the first 3 levels will be used with only 1 stop at each of the 2 lower levels. The amount of stops at lower levels can be increased if:
-the offender is a newer chat user,
-the offence is very mild (for example usage of a language other than English), or
-other special circumstances are at hand. The amount of stops at lower levels can be decreased if: the offender has been punished multiple times, the offence is especially severe (for example spamming or impersonation of an old and well known member of community (for example Speef or MrSpock)), or other special circumstances are at hand. In extreme cases of severe and/or multiple offences long term bans will be issued. In especially severe cases, including, but not limited to ban hopping in game action will be taken. If you disagree with the action taken against you feel free to complain to the chat admin aka RCK in chat or through email chat@smrealms.de
+* The offender is a newer chat user
+* The offence is very mild (for example usage of a language other than English)
+* Other special circumstances are at hand.
 
-
-Theairlock Network Rules
-(as of July 28, 2012)
-Basic rules:
-No Harrassment
-No channels with profanity/offensive/racist material in the name
-Channel topics with profanity/offensive material must be mode +s
-No public or private channels that trade in warez or sexually related content
-No nicks that can be taken as profanity, sexual, racist or warez related
-No public channels or solicitations that advertise IRC Networks or redirect users. If you wish to redirect users in your channel with a topic, please +s the channel
-Bots: Warez/Torrent/Filesharing bots are not welcome
-Bot OWNERS you are RESPONSIBLE for the function/behavior of your bot
+The amount of stops at lower levels can be decreased if: the offender has been punished multiple times, the offence is especially severe (for example spamming or impersonation of an old and well known member of community (for example Speef or MrSpock)), or other special circumstances are at hand. In extreme cases of severe and/or multiple offences long term bans will be issued. In especially severe cases, including, but not limited to ban hopping in game action will be taken. If you disagree with the action taken against you please [contact an admin](contact-us).
