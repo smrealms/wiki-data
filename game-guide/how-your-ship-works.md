@@ -45,7 +45,10 @@ In the above example, the ship has 11 mines out of a maximum of 30 and all 50 co
 # **Cargo Holds**
 
 Below Forces is Cargo Holds. This shows how many goods your ship can carry. Some ships carry no cargo at all, while others are designed to carry alot of cargo. Cargo Holds is also a clickable link. You can jettison your cargo into space if necessary, but you lose the experience gained from buying it.
-Cargo Holds (60/60) Empty : 60
+```
+Cargo Holds (60/60)
+Empty : 60
+```
 In this example the ship has a maximum of 60 cargo holds and can carry 60 units of port goods at a time.
 
 # **Weapons**
