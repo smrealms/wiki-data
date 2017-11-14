@@ -139,7 +139,12 @@ For up-to-date rules for Discord usage, please see the [community guidelines](ht
 ## IRC Disciplinary actions
 There are 4 kinds of disciplinary action: a verbal warning, a kick, a short term ban (normally 24 hours), and a long term ban (up to life time). Disciplinary actions should start with the lowest level and continue to the highest. Normally, only the first 3 levels will be used with only 1 stop at each of the 2 lower levels. The amount of stops at lower levels can be increased if:
 * The offender is a newer chat user
-* The offence is very mild (for example usage of a language other than English)
-* Other special circumstances are at hand.
+* The offence is very mild (for example, usage of a language other than English)
+* Other special circumstances are at hand
 
-The amount of stops at lower levels can be decreased if: the offender has been punished multiple times, the offence is especially severe (for example, spamming or impersonation of an old and well known member of community), or other special circumstances are at hand. In extreme cases of severe and/or multiple offences long term bans will be issued. In especially severe cases, including, but not limited to ban hopping in game action will be taken. If you disagree with the action taken against you please [contact an admin](contact-us).
+The amount of stops at lower levels can be decreased if:
+* The offender has been punished multiple times
+* The offence is especially severe (for example, spamming or impersonation of an old and well known member of community)
+* Other special circumstances are at hand
+
+In extreme cases of severe and/or multiple offences long term bans will be issued. In especially severe cases, including, but not limited to ban hopping in game action will be taken. If you disagree with the action taken against you please [contact an admin](contact-us).
