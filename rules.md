@@ -86,8 +86,9 @@ Any public complaints of an administrator, webboard mod, or chat mod's actions w
 |175-199 | 480 days (16 months) |
 |200+ | Indefinite Ban |
 
-Points removal: Your account is on probation double the length of your ban. If you ban was 2 days, then you are on probation for 4 days after that. Once you are no longer on probation, you will lose 1 point every week after that.
-Webboard Ban times are up to the admin/moderator who requested the ban.
+Points removal: Your account is on probation double the length of your ban. If your ban was 2 days, then you are on probation for 4 days after that. Once you are no longer on probation, you will lose 1 point every week after that.
+
+Webboard ban times are up to the admin/moderator who requested the ban.
 
 
 # Appealing
