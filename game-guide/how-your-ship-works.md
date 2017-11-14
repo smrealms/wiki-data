@@ -32,7 +32,14 @@ Not all ships have configurable hardware, and most can only use one or two diffe
 # **Forces**
 
 The next group of ship information on the right hand side shows the forces that your ship can carry. Forces are the term for Mines, Combat Drones, and Scouts. Not all ships carry forces.
-Forces [x] Mines : 11/30 [x] Combat : 50/50 Scout : 0/0
+
+```
+Forces
+[x] Mines : 11/30
+[x] Combat : 50/50
+Scout : 0/0
+```
+
 In the above example, the ship has 11 mines out of a maximum of 30 and all 50 combat drones that it can carry. No scouts are allowed on this ship. The [x] is a clickable link that lets you drop one of that type of force into the current sector where you ship is.
 
 # **Cargo Holds**
@@ -43,6 +50,7 @@ In this example the ship has a maximum of 60 cargo holds and can carry 60 units 
 
 # **Weapons**
 At the bottom of the right hand screen is a list of your ship's Weapons. Weapons Open : 6 This ship currently has no weapons, but can arm itself with a total of 6.
+
 You can only have one level 5 weapon, two level 4 weapons, 3 level 3 weapons and 4 level two weapons. This is also controlled by your weapon Power.
 
 # **Maneuvering your ship**
