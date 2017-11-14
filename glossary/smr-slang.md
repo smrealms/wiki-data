@@ -5,38 +5,37 @@
 
 **Ship Slang**
 
-***THIS NEEDS TO BE PUT IN CHART FORM***
-Term	Full Name	
-
-FU	Federal Ultimatum 
-DC	Death Cruiser
-ATM	Alskant Trade Master
-EoS	Eater of Souls	
-Rav	Ravager
-HBC	Human Border Cruiser	
-Cara	Carapace
-Dev	Devestator	
-ITAC	Ik'Thorne Advanced Carrier
-MS	MotherShip	
-Dessy	Destroyer
-TAC	Thevian Assault Craft
-DM	Dark Mirage
-BR	Blockade Runner	
-FW	Federal Warrant
-BC	Battle Cruiser	
-PT	Planetary Trader
-ACV	Advanced Courier Vessel	
-IST	Inter-Stellar Trader
-PF	Planetary Freighter
-PSF	Planetary Super Freighter	
-US	Unarmed Scout
-NMV	Newbie Merchant Vessel	
-Levi	Leviathan
-Jugg	Juggernaut	
-FO	Favored Offspring
-SMS	Spooky Midnight Special	
-Pod	Escape Pod
-Vindy	Vindicator
+| Term	| Full Name	|
+| :---: | --- |
+| FU	| Federal Ultimatum |
+| DC	| Death Cruiser |
+| ATM	| Alskant Trade Master |
+| EoS	| Eater of Souls	|
+| Rav	| Ravager |
+| HBC	| Human Border Cruiser	|
+| Cara	| Carapace |
+| Dev	| Devestator	|
+| ITAC	| Ik'Thorne Advanced Carrier |
+| MS	| MotherShip	 |
+| Dessy	| Destroyer |
+| TAC	| Thevian Assault Craft |
+| DM	| Dark Mirage |
+| BR	| Blockade Runner	 |
+| FW	| Federal Warrant |
+| BC	| Battle Cruiser	|
+| PT	| Planetary Trader |
+| ACV	| Advanced Courier Vessel	 |
+| IST	| Inter-Stellar Trader |
+| PF	| Planetary Freighter |
+| PSF	| Planetary Super Freighter	 |
+| US	| Unarmed Scout |
+| NMV	| Newbie Merchant Vessel	 |
+| Levi	| Leviathan |
+| Jugg	| Juggernaut	 |
+| FO	| Favored Offspring |
+| SMS	| Spooky Midnight Special	|
+| Pod	| Escape Pod |
+| Vindy	| Vindicator | 
 
 Weapon Slang
 
