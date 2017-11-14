@@ -120,7 +120,7 @@ Players are expected to abide by IRC Network and Discord rules in addition to ru
 * Complaints about kicks/bans are to be made in [private](contact-us) (PM, email). Complaints in chat are not allowed.
 
 
-## TheAirlock Network Rules
+## TheAirlock IRC Network Rules
 For up-to-date rules on TheAirlock IRC server, type `/rules` in chat.
 
 Basic rules (as of July 28, 2012):
