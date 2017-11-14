@@ -13,21 +13,19 @@ Hitting mines will stop your plotted course if you were following your plot comp
 
 Hitting mines will uncloak a cloaked ship.
 
-Each mine that hits will do 20 damage.
-
-Nijarin ships take three quarters damage from mines (15 damage).
-
-Federal ships take half damage from mines (10 damage).
-
-If you run into mines (you enter a sector and they attack), and you have shields, the mines will always stop when you no longer have shields.
-
-If you attack mines (you are already in sector, and instead of moving, you fire on the mines), and you have shields left, the damage from mines will wrap around and do armor damage too.
+How mines can damage your ship:
+* Each mine that hits will do 20 damage.
+* Nijarin ships take three quarters damage from mines (15 damage).
+* Federal ships take half damage from mines (10 damage).
+* If you run into mines (you enter a sector and they attack), and you have shields, the mines will always stop when you no longer have shields.
+* If you attack mines (you are already in sector, and instead of moving, you fire on the mines), and you have shields left, the damage from mines will wrap around and do armor damage too.
 
 You can exit a mined sector safely using the bright Green exit.
 
 When you hit mines and get the attack screen, click Current Sector to see what or who is in sector with you. Often times as you fly around in your ship, you hit a single mine left behind by a trader or hunter who was recently in the area. When you look at the current sector, there are no mines left because you just shot them or they crashed against your hull. So you can then continue on to your destination.
 
-When you enter a sector with a large number of mines, your guns will destroy some of them, some will blow up on your ship, and the rest will be left sitting in the sector untouched. The current sector view will reveal the mines that are left and you will see your choices of exits. Back out of a mined sector the way you came in using the bright GREEN exit, and you will move safely. If you try going out using a non-green exit, your ship does not move and you hit the remaining mines in the sector. This can be useful, however, because using the non-green exit "clears the way" in that direction and that exit then becomes bright green and thus safe to move toward. If your ship can withstand the damage of doing this you can pass through a mined sector in this way.
+Helpful hints:
+> When you enter a sector with a large number of mines, your guns will destroy some of them, some will blow up on your ship, and the rest will be left sitting in the sector untouched. The current sector view will reveal the mines that are left and you will see your choices of exits. Back out of a mined sector the way you came in using the bright GREEN exit, and you will move safely. If you try going out using a non-green exit, your ship does not move and you hit the remaining mines in the sector. This can be useful, however, because using the non-green exit "clears the way" in that direction and that exit then becomes bright green and thus safe to move toward. If your ship can withstand the damage of doing this you can pass through a mined sector in this way.
 
 Remember: the Green exit is always the safe way out of a mined sector, and clicking a non-green exit turns that exit into the new Green exit.
 
