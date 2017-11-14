@@ -39,19 +39,20 @@
 
 Weapon Slang
 
-Term	Full Name	
-HHG	Holy Hand Grenade	
-PPL	Planetary Pulse Laser
-HPL	Huge Pulse Laser	
-LPL	Large Pulse Laser
-SEMF	Salvene EM Flux Cannon	
-CBD	Creonti "Big Daddy"
-BMTL	Big mamma Torpedo launcher	
-TSD	Thevian Shield Dispencer
-TL	Torpedo Launcher	
-WQSV	WQ Shield Vaporizers
-HHD	Human Harmonic Disruptor	
-HPT	Human Photon Torpedo
-PT	Photon Torpedo	
-LJT	Little Junior Torpedo
-ILL	Insanely Larger Laser
+| Term	| Full Name	|
+| :---: | --- |
+| HHG	| Holy Hand Grenade	|
+| PPL	| Planetary Pulse Laser	|
+| HPL	| Huge Pulse Laser	|
+| LPL	| Large Pulse Laser	|
+| SEMF	| Salvene EM Flux Cannon		|
+| CBD	| Creonti "Big Daddy"	|
+| BMTL	| Big mamma Torpedo launcher		|
+| TSD	| Thevian Shield Dispencer	|
+| TL	| Torpedo Launcher		|
+| WQSV	| WQ Shield Vaporizers	|
+| HHD	| Human Harmonic Disruptor		|
+| HPT	| Human Photon Torpedo	|
+| PT	| Photon Torpedo		|
+| LJT	| Little Junior Torpedo	|
+| ILL	| Insanely Larger Laser	|
