@@ -7,7 +7,7 @@ In the following sections, you will get a brief overview of each race and inform
 
 
 # Alskant
-![Alskant](/uploads/alskant.png "Alskant")
+<img src="https://www.smrealms.de/images/race/race2.jpg">
 
 **Racial Profile**
 
@@ -19,7 +19,7 @@ Alskant start with +250 relations with all races.
 
 
 # Creonti
-![Creonti](/uploads/creonti.png "Creonti")
+<img src="https://www.smrealms.de/images/race/race3.jpg">
 
 **Racial Profile**
 
@@ -30,7 +30,7 @@ The Creonti are an introverted race that has little to do with the other races, 
 All Creonti ships can support a scanner, except for the Medium Cargo Hulk. No other technology can be mounted.
 
 # Human
-![Human](/uploads/human.png "Human")
+<img src="https://www.smrealms.de/images/race/race4.jpg">
 
 **Racial Profile**
 
@@ -43,7 +43,7 @@ Humans have the special technology of the jump drive. This allows a ship to jump
 The Humans are one of the best utility races in the universe. The Border Cruiser can quickly deploy a minefield to deter the curious, and the Destroyer can stock planets with both goods and combat drones. This makes players of the Human race vital for any alliance that plans to control planet galaxies.
 
 # Ik'Thorne
-![Ikthorne](/uploads/ikthorne.png "Ikthorne")
+<img src="https://www.smrealms.de/images/race/race5.jpg">
 
 **Racial Profile**
 
@@ -55,7 +55,7 @@ The specialty of the Ik'Thorne race is the use of combat drones. Instead of depe
 
 
 # Nijarin
-![Nijarin](/uploads/nijarin.png "Nijarin")
+<img src="https://www.smrealms.de/images/race/race9.jpg">
 
 **Racial Profile**
 
@@ -66,7 +66,7 @@ The Nijarin are a race of six-limbed reptilian creatures. The Nijarin race has e
 Heavy firepower and reduced damage taken from combat drones, at the expense of defenses.
 
 # Salvene
-![Salvene](/uploads/salvene.png "Salvene")
+<img src="https://www.smrealms.de/images/race/race6.jpg">
 
 **Racial Profile**
 
@@ -77,7 +77,7 @@ This race of quadripeds has a strong focus on conquest. They are not concerned w
 The Salvene race thrives on deception. Because of their small stature, the Salvene have developed the technology of Illusion Generators. These generators allow them to mask the appearance of their ships. All of their ships that cost credits can support an illusion generator. They can pose as a helpless escape pod, a massive warbird, or anything in between. This forces players to carefully consider the true strength of a Salvene opponent before beginning a fight. However, a decent scanner is able to see through the illusion.
 
 # Thevian
-![Thevian](/uploads/thevian.png "Thevian")
+<img src="https://www.smrealms.de/images/race/race7.jpg">
 
 **Racial Profile**
 
@@ -88,7 +88,7 @@ The strong focus on reputation is what distinguishes Thevian culture from most o
 The Thevian ignore most of the current technology and focus on mainly speed. They make sure that their ships are the fastest in the universe, capable of running circles around the hunters and war ships of the other races. When it comes to zipping around the galaxy early on, the Thevian are the best.
 
 # WQ Human
-![Wq Human](/uploads/wq-human.png "Wq Human")
+<img src="https://www.smrealms.de/images/race/race8.jpg">
 
 **Racial Profile**
 
