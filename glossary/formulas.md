@@ -1,7 +1,7 @@
 <!-- TITLE: Various Formulae -->
 <!-- SUBTITLE: A quick summary of Various Formulae -->
 
-**Combat**
+# Combat
 
 **Weapons**
 
@@ -86,7 +86,7 @@ If player bumped mines: Accuracy = Accuracy / Sector->Connections^0.6
 **Launched** = RoundUp(TotalMinesOnStack * XvsX / 100);
 
 
-**Experience**
+# Experience
 
 **Loss On Death**
 
@@ -121,7 +121,7 @@ Note: CDs count as a total of 2 damage each and 3 armour, so CDs/20 for their co
 
 
 
-**Trading**
+# Trading
 
 **Ports**
 
@@ -159,7 +159,7 @@ For every 10 goods of tier 1 you trade, then the supply/demand of tier 2 goods w
 
 
 
-**Movement**
+# Movement
 
 **Sectors**
 **Turns** = 1
@@ -179,7 +179,7 @@ Jump Formula Spreadsheet**(INSERT LINK HERE?)**
 
 
 
-**Planets**
+# Planets
 
 **Inhabitable**
 
