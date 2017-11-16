@@ -37,8 +37,8 @@ Can also be found at: Google Docs Spreadsheet**(INSERT LINK?)**
 
 **Planet vs Player** = BaseAccuracy + Planet->Level / 2 - BaseAccuracy * PlayerLevelAccuracyMod(TargetPlayer)
 
-
-**Combat Drones**
+# Forces
+## Combat Drones
 
 BaseAccuracy = 3
 
@@ -65,13 +65,12 @@ Damage = 1
 **Planet vs Player** = 100
 
 
-**Forces**
-
+(???)
 Damage = 2
 **Forces vs Player** = BaseAccuracy + Random(3,54)
 
 
-**Mines**
+## Mines
 
 Sector->Connections = Number of connections the sector has, including warps.
 TOTAL_ENEMY_MINES_MODIFIER = 25
@@ -88,7 +87,7 @@ If player bumped mines: Accuracy = Accuracy / Sector->Connections^0.6
 
 # Experience
 
-**Loss On Death**
+## Loss On Death
 
 **Player % **= Max(0, 12 + (WeaponPlayer->Level + (TargetPlayer->Level - WeaponPlayer->Level)) * 0.25)
 Exp Loss Spreadsheet**(INSERT LINK?)**
@@ -100,7 +99,7 @@ Exp Loss Spreadsheet**(INSERT LINK?)**
 **Forces %** = 30
 
 
-**Gain**
+## Gain
 
 **Player Kill %** = 0.04875 + 0.03 * (TargetPlayer->Level - WeaponPlayer->Level) / max(TargetPlayer->Level, WeaponPlayer->Level)
 
@@ -113,7 +112,7 @@ Exp Loss Spreadsheet**(INSERT LINK?)**
 **Force Damage** = Round(TotalDamage / 20)
 
 
-**Attack/Defence Rating**
+# Attack/Defence Rating
 
 **Attack Rating** = (Shield Damage + Armour Damage) / 40
 **Defence Rating** = (Shields + Armour) / 100
