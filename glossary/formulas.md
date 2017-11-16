@@ -120,28 +120,27 @@ Note: CDs count as a total of 2 damage each and 3 armour, so CDs/20 for their co
 
 
 
-# Trading
 
-**Ports**
+# Ports
 
-**Upgrading**
+## Upgrading
 
 Cost To Upgrade = Port->Level * 1,000,000
 Upgrade Credits Added On Buy = Min(Goods * 1,000, BuyPrice)
 Upgrade Credits Added On Sell = 0
 
-**Downgrading**
+## Downgrading
 
 Number Of Downgrade Chances = RoundDown(DamageDone / 200)
 Downgrade Successful = Random(1,100) <= 3
 
-**Looting**
+## Looting
 
 ```
 Start Credits = (Port->Level - 1) * 2,000,000
 ```
 
-**Restocking**
+## Restocking
 
 **Tier 1**
 150 * game speed per hour.
