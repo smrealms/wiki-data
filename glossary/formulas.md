@@ -18,7 +18,7 @@ PlayerAccuracy = BaseAccuracy + BaseAccuracy * PlayerLevelAccuracyMod(WeaponPlay
 
 **Player vs Forces** = PlayerAccuracy
 **Player vs Port** = PlayerAccuracy - BaseAccuracy * PortLevel/50
-**Player vs Planet **= PlayerAccuracy - BaseAccuracy * PlanetLevel/350
+**Player vs Planet** = PlayerAccuracy - BaseAccuracy * PlanetLevel/350
 
 GetMR(Ship) = round( 700 - ( ( Ship->Shields +Ship->Armour +Ship->CDs*3 )/25 +( Ship->CargoHolds/100 -Ship->Speed*5 +Ship->Hardpoints*5 +Ship->CDs/5 ) ) )
 
@@ -105,7 +105,7 @@ Exp Loss Spreadsheet**(INSERT LINK?)**
 
 **Player Damage** = Round(TotalDamage / 4)
 
-**Port Damage **= Round(TotalDamage / 20)
+**Port Damage** = Round(TotalDamage / 20)
 
 **Planet Damage** = Round(TotalDamage / 20)
 
@@ -160,10 +160,10 @@ For every 10 goods of tier 1 you trade, then the supply/demand of tier 2 goods w
 # Movement
 
 **Sectors**
-**Turns** = 1
+Turns = 1
 
 **Warps**
-**Turns** = 5
+Turns = 5
 
 **Jumping**
 
@@ -186,7 +186,7 @@ This is equivalent to between 1d 1h18m 45s and 7d 2h35m 25s.
 
 
 
-**Federal Space**
+# Federal Space
 
 **Relations**
 
