@@ -63,7 +63,7 @@ The jump drive is good for reaching a location that is surrounded by enemy force
 
 Also, now with recent changes you can jump more than one galaxy away. This is very useful to bypass an enemy minefield. This is risky though because it costs more turns to jump and an even higher misjump chance than just one galaxy being jumped!
 
-[Jump Formula Spreadsheet](https://docs.google.com/spreadsheets/d/1QCp7sfXHFfePiLLrYIosSW_xnRrzhLtvE1fFUJE9SQA/edit#gid=2) 
+[Jump Formula Spreadsheet](https://docs.google.com/spreadsheets/d/1fjNYXspvtVpIiEX6qyoZOVkotHEv4JrLgS6WJAMhi34/edit#gid=2) 
 
 # **Drone Scrambler**
 
