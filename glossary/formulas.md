@@ -173,7 +173,7 @@ TurnsPerSector = 0.65
 MinimumTurnsToJump = 10
 **TurnsToJump** = Max(MinimumTurnsToJump, Round(TurnsToWalk * TurnsPerSector))
 **Max Misjump **= Max(0, Round( (TurnsToWalk - TurnsToJump) * TurnsDiffFactor / (1 + Player->Level * PerLevelFactor) ) )
-[Jump Formula Spreadsheet](https://docs.google.com/spreadsheets/d/1QCp7sfXHFfePiLLrYIosSW_xnRrzhLtvE1fFUJE9SQA/edit#gid=2) 
+[Jump Formula Spreadsheet](https://docs.google.com/spreadsheets/d/1fjNYXspvtVpIiEX6qyoZOVkotHEv4JrLgS6WJAMhi34/edit#gid=2) 
 
 
 
