@@ -26,7 +26,7 @@ PVPAccuracy = PlayerAccuracy - BaseAccuracy * PlayerLevelAccuracyMod(TargetPlaye
 MRDiff = (Max(0,GetMR(TargetShip) - GetMR(WeaponShip))/MR_FACTOR)/100
 
 **Player vs Player** = PVPAccuracy - BaseAccuracy * MRDiff
-Can also be found at: Google Docs Spreadsheet**(INSERT LINK?)**
+[Player vs Player](https://docs.google.com/spreadsheets/d/12ZeNG1SEZQO8_CRH8B9PqXWBzIUsniaJKeNcDZXuwx4/)
 
 
 **Port**
@@ -50,8 +50,7 @@ DroneAccuracy = BaseAccuracy + (Random(3,54) + Random(WeaponPlayer->Level / 2, W
 **Player vs Player** = Max(0,Min(100, DroneAccuracy - BaseAccuracy * MRDiff ))
 **Player vs Forces** = BaseAccuracy + Random(3,54)
 **Launched** = RoundUp(TotalCDs * XvsX / 100);
-Can also be found at: Google Docs Spreadsheet**(INSERT LINK?)**
-
+[Combat Drones](https://docs.google.com/spreadsheets/d/1dsqV54aAHA4zBcJL66AhUb8HHTyephK9d6m950YKRok/edit#gid=0)
 
 **Port**
 
@@ -90,7 +89,7 @@ If player bumped mines: Accuracy = Accuracy / Sector->Connections^0.6
 ## Loss On Death
 
 **Player % **= Max(0, 12 + (WeaponPlayer->Level + (TargetPlayer->Level - WeaponPlayer->Level)) * 0.25)
-Exp Loss Spreadsheet**(INSERT LINK?)**
+[Exp Loss Spreadsheet](https://docs.google.com/spreadsheets/d/191rpH8zFT3_BYNLVbUWSmZudV6mR3IseyYintfQwn5o/edit#gid=0)
 
 **Port %** = 31 - PortLevel
 
@@ -173,7 +172,7 @@ TurnsPerSector = 0.65
 MinimumTurnsToJump = 10
 **TurnsToJump** = Max(MinimumTurnsToJump, Round(TurnsToWalk * TurnsPerSector))
 **Max Misjump **= Max(0, Round( (TurnsToWalk - TurnsToJump) * TurnsDiffFactor / (1 + Player->Level * PerLevelFactor) ) )
-[Jump Formula Spreadsheet](https://docs.google.com/spreadsheets/d/1fjNYXspvtVpIiEX6qyoZOVkotHEv4JrLgS6WJAMhi34/edit#gid=2) 
+[Jump Formula Spreadsheet](https://docs.google.com/spreadsheets/d/1fjNYXspvtVpIiEX6qyoZOVkotHEv4JrLgS6WJAMhi34/) 
 
 
 
