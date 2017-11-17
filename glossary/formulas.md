@@ -135,9 +135,9 @@ Downgrade Successful = Random(1,100) <= 3
 
 ## Looting
 
-```
+
 Start Credits = (Port->Level - 1) * 4,600,000
-```
+
 
 ## Restocking
 
