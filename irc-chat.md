@@ -9,6 +9,9 @@ Chat is the backbone on which team play as well as socializing is done in SMR. I
 * Direct link: discord.me/smrealms
 * **Join Chat** link on the in-game left panel
 
+## Autopilot for alliance channels
+Coming soon...
+
 # IRC
 ## Ways of Connecting to IRC
 
@@ -28,3 +31,4 @@ Be advised that we are part of a very large IRC network and your preferred name 
 Other commands are also available via nickserv and chanserv you can get an idea of these by typing /nickserv help and /chanserv help respectively.
 
 ## Caretaker for alliance channels
+Coming soon...
