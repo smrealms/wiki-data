@@ -150,6 +150,8 @@ Start Credits = (Port->Level - 1) * 4,600,000
 **Tier 3**
 70 * game speed per hour.
 
+[Restocking Speed Calculator](https://docs.google.com/spreadsheets/d/1vE6MfEHBiWdPR3_QgFaeJ_O-ICaClTclb-vu5E8ZqPk/)
+
 **Restock By Trading**
 
 For every 10 goods of tier 1 you trade, then the supply/demand of tier 2 goods will increase by 9 each. When trading tier 2 goods it will restock tier 3 instead and tier 3 do not restock anything.
