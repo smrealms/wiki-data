@@ -50,7 +50,7 @@ DroneAccuracy = BaseAccuracy + (Random(3,54) + Random(WeaponPlayer->Level / 2, W
 **Player vs Player** = Max(0,Min(100, DroneAccuracy - BaseAccuracy * MRDiff ))
 **Player vs Forces** = BaseAccuracy + Random(3,54)
 **Launched** = RoundUp(TotalCDs * XvsX / 100);
-[Combat Drones Combat Calculator](https://docs.google.com/spreadsheets/d/1dsqV54aAHA4zBcJL66AhUb8HHTyephK9d6m950YKRok/edit#gid=0)
+[Combat Drones Attack Formula](https://docs.google.com/spreadsheets/d/1dsqV54aAHA4zBcJL66AhUb8HHTyephK9d6m950YKRok/edit#gid=0)
 
 **Port**
 
