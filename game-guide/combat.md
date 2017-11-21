@@ -37,4 +37,4 @@ As ports increase in level, they are able to afford better defenses. If your shi
 
 **Armor/Shields**: Ports have an equal number of armor and shields, and this number increases with the amount of profit a port has.
 **Combat Drones**: The number of combat drones increases with the port's profit.
-**Turrets**: Ports have 6 turrets. Their accuracy increases with the level of the port.
+**Turrets**: Ports have 6 turrets at all levels. Their accuracy increases with the level of the port.
