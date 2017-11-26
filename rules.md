@@ -4,9 +4,10 @@
 # SMR Game Rules
 ## Multiple Accounts
 
-* Each player is allowed to make 1 additional account.
-* A player may not kill their multi (50 points for arranged kill).
-* No existing account may be used as a multi. All multies must be made using new accounts. For the email of the new account, use the email for your first account with a multi tag (exp: MyAccountName-SMR-Multi@smrealms.de)
+* Each player is allowed to make 1 additional account ("multi").
+* A player may not kill their multi (50 ban points for arranged kill).
+* No existing account may be used as a multi. All multies must be made using new accounts.
+* For the email of the new account, use the email for your first account with a multi tag (exp: MyAccountName-SMR-Multi@smrealms.de)
 * In order to validate the account, you must contact an admin for the validation code. This is to ensure each player only has 1 account. Individuals who do not notify an admin within 48 hours of creating the account will have their multi banned.
 * Any infractions that occur on one account will result in punishment for both accounts.
 * All veteran players that make a multi will have that multi start out as a veteran. Newbie and Beginner-ranked players will have a newbie multi.
