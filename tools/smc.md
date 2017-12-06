@@ -7,7 +7,7 @@ SMC is a very useful aid to navigation in the SMR universe it was first made aro
 
 # Installing SMC
 
-* Step 1: Download the SMC.zip file from [http://lotus.smrealms.de/dl/smc_2.zip, here]. This is the most up-to-date version which includes support for the Nijarin race. You can put this file anywhere; you shouldn't need it again after you have unpacked it.
+* Step 1: Download the [smc-2.zip](/uploads/smc-2.zip). This is the most up-to-date version which includes support for the Nijarin race. You can put this file anywhere; you shouldn't need it again after you have unpacked it.
 
 * Step 2: Unzip the file to a directory of your choice a folder on the desktop works well but you can put it anywhere you like as long as you remember where (it is important later). You may also want to manually create a shortcut for the executable file and place it on your desktop / quick launch / start menu. 
 
