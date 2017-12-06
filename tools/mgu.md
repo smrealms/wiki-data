@@ -7,7 +7,7 @@ MGU is a very useful aid to navigation in the SMR universe it was first made aro
 
 ## Installing MGU
 
-* Step 1: Download the MGU.zip file from the SMR webboard, where the newest version is provided under the '3rd party applications' section. 
+* Step 1: Download MGU file from the [SMR webboard](https://smrcnn.smrealms.de/viewtopic.php?f=32&t=10970)
 
 * Step 2: Unzip the file to a directory of your choice.
 
