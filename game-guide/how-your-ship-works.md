@@ -72,13 +72,12 @@ At the bottom of the right hand screen is a list of your ship's Weapons. Weapons
 You can only have one level 5 weapon, two level 4 weapons, 3 level 3 weapons and 4 level two weapons. This is also controlled by your weapon Power.
 
 # **Maneuvering your ship**
+Your ship is able to move from sector to sector in the galaxy you are in. In the upper left of the screen, you will see these links:
 ![Ship 2](/uploads/ship-2.png "Ship 2")
-Your ship is able to move from sector to sector in the galaxy you are in. You can view the sectors in two ways. In the upper left of the screen, you will see these links:
 
-Current Sector
-Local Map
-Plot a Course
-Galaxy Map
+**Current Sector**: Displays only the directly connecting sectors and displays all information about the current sector.
+**Local Map**: Displays a larger grid of sectors, but does not show detailed information about the current sector.
+**Galaxy Map**: Displays all sectors in the galaxy, but cannot be used for navigation.
 
 # **Turns**
 
