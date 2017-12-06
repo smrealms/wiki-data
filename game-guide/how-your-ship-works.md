@@ -35,7 +35,7 @@ You can repair your damaged ship by buying shields and armor at UNO shops locate
 These letter abbreviations and the row of dashes '-' or stars '*' that follow indicate the configurable hardware that can be installed on a ship. The use of these different types of hardware is detailed elsewhere, but here are what the abbreviations stand for:
 
 |   |   |
-| - | - |
+| :-: | - |
 | C | Cloak |
 | I | Illusion Generator
 | J | Jump Drive |
