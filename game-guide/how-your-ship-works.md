@@ -11,7 +11,7 @@ On the right hand of your screen, you will see information about your ship. Ship
 # **Rating**
 The rating of your ship is represented by a pair of numbers. The first number is the attack rating and indicates how much damage your ship does. Basically, the higher the attack rating the better the damage your ship will do against other ships. That attack rating is calculated like this:
 
-Attack Rating = INT(((armor dmg + shield dmg)/40) + (drones/50))
+**Attack Rating** = INT(((armor dmg + shield dmg)/40) + (drones/50))
 
 So for example, a Federal Ultimatum with Holy Hand Grenade, Salvene EM Flux Cannon x3, Creonti "Big Daddy" x2, Torpedo Launcher and 120 Combat Drones would be:
 
@@ -19,7 +19,7 @@ INT(((750 + 600)/40) + (120/50)) = 36
 
 The second number is the defense rating and shows how much damage your ship can withstand. Again, the higher the number, the more damage you can take. It's calculated like this:
 
-(# of Armor + # of Shield + (# of drones * 3)) / 100
+**Defense Rating** = (# of Armor + # of Shield + (# of drones * 3)) / 100
 
 So in the example above, the Federal Ultimatum with 700 shields and 600 armor and 120 combat drones would be:
 
