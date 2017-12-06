@@ -2,9 +2,7 @@
 <!-- SUBTITLE: A quick summary of How Your Ship Works -->
 
 
-**How your ship works**
 There are many different types of ships, but they all work in the same basic way. Each ship is equipped with shields and armor for protection against attack. Most ships have weapons and cargo holds, and some have configurable hardware. Each ship has a "speed" measured in turns per hour. They all can move from sector to sector using the local map or using the current sector view and all ships have a course plotter. This section will give you information on how your ship works for these basic functions.
-CurrentSector.PNG
 
 # **Ship Information**
 On the right hand of your screen, you will see information about your ship. Ship information is grouped into sections. The first group shows the ship type and its basic information.
@@ -12,11 +10,20 @@ On the right hand of your screen, you will see information about your ship. Ship
 
 # **Rating**
 The rating of your ship is represented by a pair of numbers. The first number is the attack rating and indicates how much damage your ship does. Basically, the higher the attack rating the better the damage your ship will do against other ships. That attack rating is calculated like this:
+
 Attack Rating = INT(((armor dmg + shield dmg)/40) + (drones/50))
-So for example, a Federal Ultimatum with Holy Hand Grenade, Salvene EM Flux Cannon x3, Creonti "Big Daddy" x2, Torpedo Launcher and 120 Combat Drones would be: INT(((750+600)/40)+(120/50)) = 36
+
+So for example, a Federal Ultimatum with Holy Hand Grenade, Salvene EM Flux Cannon x3, Creonti "Big Daddy" x2, Torpedo Launcher and 120 Combat Drones would be:
+
+INT(((750 + 600)/40) + (120/50)) = 36
+
 The second number is the defense rating and shows how much damage your ship can withstand. Again, the higher the number, the more damage you can take. It's calculated like this:
+
 (# of Armor + # of Shield + (# of drones * 3)) / 100
-So in the example above, the Federal Ultimatum with 700 shields and 600 armor and 120 combat drones would be: (700 + 600 + (120 * 3)) / 100 = 17
+
+So in the example above, the Federal Ultimatum with 700 shields and 600 armor and 120 combat drones would be:
+
+(700 + 600 + (120 * 3)) / 100 = 17
 
 # **Shields and Armor**
 
@@ -26,7 +33,13 @@ You can repair your damaged ship by buying shields and armor at UNO shops locate
 # **CIJSD**
 
 These letter abbreviations and the row of dashes '-' or stars '*' that follow indicate the configurable hardware that can be installed on a ship. The use of these different types of hardware is detailed elsewhere, but here are what the abbreviations stand for:
-C= Cloak I= Illusion Generator J= Jump Drive S= Scanner D= Drone Scrambler
+
+| C | Cloak |
+| I | Illusion Generator
+| J | Jump Drive |
+| S | Scanner |
+| D | Drone Scrambler |
+
 Not all ships have configurable hardware, and most can only use one or two different types. If you have one of these installed on your ship, it will by shown by a * in the row of dashes that correspond to the letter. In the example above, the star is in the 4th place meaning that the ship is equipped with a scanner.
 
 # **Forces**
@@ -59,11 +72,11 @@ You can only have one level 5 weapon, two level 4 weapons, 3 level 3 weapons and
 # **Maneuvering your ship**
 ![Ship 2](/uploads/ship-2.png "Ship 2")
 Your ship is able to move from sector to sector in the galaxy you are in. You can view the sectors in two ways. In the upper left of the screen, you will see these links:
+
 Current Sector
 Local Map
 Plot a Course
 Galaxy Map
-More on maneuvering your ship in the next section.
 
 # **Turns**
 
