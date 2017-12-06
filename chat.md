@@ -10,7 +10,7 @@ Chat is the backbone on which team play as well as socializing is done in SMR. I
 * **Join Chat** link on the in-game left panel
 
 ## Autopilot for alliance channels
-Autopilot connects the SMR game server with Discord. When invited to a private Discord server for your alliance, Autopilot can be used to enhance your coordination and efficiency. To invite Autopilot to your server, simply type `.invite` in the [public SMR discord channel](https://discord.me/smrealms), and then follow the instructions.
+**Autopilot** connects the SMR game server with Discord. When invited to a private Discord server for your alliance, Autopilot can be used to enhance your coordination and efficiency. To invite Autopilot to your server, simply type `.invite` in the [public SMR discord channel](https://discord.me/smrealms), and then follow the instructions.
 
 # IRC
 ## Ways of Connecting to IRC
