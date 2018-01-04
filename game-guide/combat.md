@@ -18,8 +18,8 @@ This section is about attacking planets. For general information about planets, 
 | Types of planets |
 | --- |
 | <img src="https://www.smrealms.de/images/planet1.png" /> Terran |
-| <img src="https://www.smrealms.de/images/planet2.png" /> Dwarf |
-| <img src="https://www.smrealms.de/images/planet3.png" /> Arid |
+| <img src="https://www.smrealms.de/images/planet3.png" /> Dwarf |
+| <img src="https://www.smrealms.de/images/planet2.png" /> Arid |
 
 Planets start out with no buildings at all, but with proper supplies stockpiled, construction of generators, hangars, and turrets can begin. As more buildings are constructed, the planet's defense level increases. 
 
