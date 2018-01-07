@@ -33,4 +33,8 @@ Be advised that we are part of a very large IRC network and your preferred name 
 Other commands are also available via nickserv and chanserv you can get an idea of these by typing /nickserv help and /chanserv help respectively.
 
 ## Caretaker for alliance channels
-Coming soon...
+**Caretaker** is an IRC bot that connects the SMR game server. This is useful for alliances that want to continue using IRC instead of Discord. When invited to your alliance IRC channel, Caretaker can be used to enhance your coordination and efficiency.
+
+To invite Caretaker to your server, join your alliance IRC channel as an op and type `/autoconnect on`. Then go to the Alliance Stats page in-game and enter your channel name in the `IRC Channel` field.
+
+More coming soon...
