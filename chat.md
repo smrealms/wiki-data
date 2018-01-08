@@ -31,7 +31,7 @@ To set this up, you will need to do the following:
 ## Ways of Connecting to IRC
 * Direct link: [mibbit web client](https://client02.chat.mibbit.com/?server=irc.theairlock.net&channel=%23smr) 
 * **Join Chat** link on the in-game left panel
-* 
+
 If you use the in-game chat link, you can just click connect and it will attach an SMR- prefix to your current game name. This will take you to the game lobby `#smr` and an alliance chat room if you are currently in an alliance and the leader has set the room under alliance options.
 
 There are also 3rd party applications to connect to IRC servers. mIRC, xchat, icechat, pidgin, and colloquy for apple users are the most widely used. If you are familiar with any of these than you can simply connect to irc.theairlock.net using them otherwise a good option is to come to chat using the in-game applet and ask someone for help in setting it up.
