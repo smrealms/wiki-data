@@ -18,7 +18,7 @@ Once Autopilot has connected to your server, type `.help` for a list of availabl
 The [widget](https://blog.discordapp.com/add-the-discord-widget-to-your-site-d45ffcd718c6) for your alliance Discord server can be added to your Alliance Message of the Day page. Having the widget accessible on a prominent game page makes it much easier for your teammates to join your server.
 
 To set this up, you will need to do the following:
-1. In your Discord App, go to your `Server Settings` and then on that screen select the `Widget` link.
+1. In your Discord App, go to `Server Settings` and then on that screen select the `Widget` link.
 2. Toggle `Enable Server Widget` to the On position.
 3. OPTIONAL: If you'd like people to be able to join your server through the widget, set an `Instant Invite Channel`; otherwise, the widget will be for display only. 
 4. Click the `Copy` button to the right of the `Server ID` field.
