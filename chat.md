@@ -14,7 +14,14 @@ Chat is the backbone on which team play as well as socializing is done in SMR. I
 
 Once Autopilot has connected to your server, type `.help` for a list of available commands.
 
-## Alliance Discord widget
+### Alliance Discord commands
+This describes how to set the `Discord Channel ID` alliance option.
+
+Before you can use Autopilot's commands on your server, it must be linked to a specific channel. To do this, simply type `.game` in the channel you want to link, and Autopilot will provide the instructions. Alternatively (if you have Discord Developer Mode enabled), you can get the channel ID by right-clicking on the channel you want to link and select `Copy ID`.
+
+### Alliance Discord widget
+This describes how to set the `Discord Server ID` alliance option.
+
 The [widget](https://blog.discordapp.com/add-the-discord-widget-to-your-site-d45ffcd718c6) for your alliance Discord server can be added to your Alliance Message of the Day page. Having the widget accessible on a prominent game page makes it much easier for your teammates to join your server.
 
 To set this up, you will need to do the following:
@@ -22,7 +29,7 @@ To set this up, you will need to do the following:
 2. Toggle `Enable Server Widget` to the On position.
 3. OPTIONAL: If you'd like people to be able to join your server through the widget, set an `Instant Invite Channel`; otherwise, the widget will be for display only. 
 4. Click the `Copy` button to the right of the `Server ID` field.
-5. Log into SMR and go to `Alliance`-> `Options`->`Change Alliance Stats` and then paste the ID you copied into the `Server ID` input box.
+5. Log into SMR and go to `Alliance`-> `Options`->`Change Alliance Stats` and then paste the ID you copied into the `Discord Server ID` input box.
 6. Click the `Change` button for it to take effect, and then verify that it displays correctly on your Alliance Message of the Day page.
 
 **Warning:** If you set the `Instant Invite Channel`, then anyone who can see your widget will be able to join your server. If you are worried about security, but still want to use this feature, then you may want to make a separate channel with limited permissions for players to initially join.
