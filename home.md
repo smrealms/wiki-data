@@ -20,3 +20,7 @@ You can browse all pages in the wiki [here](all).
 * [Storyline](storyline)
 * [Tools & Programs](tools)
 * [Tutorials](tutorials)
+
+# Social Media
+* [SMR Twitter](https://twitter.com/smrealms)
+* [SMR Facebook Group](https://www.facebook.com/Space-Merchant-Realms-141119552570252/)
