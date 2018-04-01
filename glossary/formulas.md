@@ -12,7 +12,7 @@ WeaponPlayer = Player currently shooting.
 TargetPlayer = Player currently being shot at.
 MR_FACTOR = 15
 
-PlayerLevelAccuracyMod(Player) = (Player->Level*Player->Level/60 + Player->Level/2 + 2) / 100
+PlayerLevelAccuracyMod(Player) = (Player->Level * Player->Level/60 + Player->Level/2 + 2) / 100
 
 PlayerAccuracy = BaseAccuracy + BaseAccuracy * PlayerLevelAccuracyMod(WeaponPlayer);
 
@@ -20,7 +20,7 @@ PlayerAccuracy = BaseAccuracy + BaseAccuracy * PlayerLevelAccuracyMod(WeaponPlay
 **Player vs Port** = PlayerAccuracy - BaseAccuracy * PortLevel/50
 **Player vs Planet** = PlayerAccuracy - BaseAccuracy * PlanetLevel/350
 
-GetMR(Ship) = round( 700 - ( ( Ship->Shields +Ship->Armour +Ship->CDs*3 )/25 +( Ship->CargoHolds/100 -Ship->Speed*5 +Ship->Hardpoints*5 +Ship->CDs/5 ) ) )
+GetMR(Ship) = round( 700 - ( ( Ship->Shields +Ship->Armour +Ship->CDs * 3 )/25 +( Ship->CargoHolds/100 -Ship->Speed * 5 +Ship->Hardpoints * 5 +Ship->CDs/5 ) ) )
 
 PVPAccuracy = PlayerAccuracy - BaseAccuracy * PlayerLevelAccuracyMod(TargetPlayer) / 2
 MRDiff = (Max(0,GetMR(TargetShip) - GetMR(WeaponShip))/MR_FACTOR)/100
