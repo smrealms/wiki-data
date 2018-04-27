@@ -51,7 +51,8 @@ Includes but is not limited to:
 * Discovering an unintended coded affect or bug in the game that gives you an advantage or an enemy a disadvantage and not reporting the bug.
 * Reporting a bug, but continue to use reported bug to one's advantage.
 * Using a known/reported bug that has been clear identified or announced.
-* Anyone found guilty of bug abuse will receive anywhere from a warning to 100 points on a case-by-case level.
+
+Anyone found guilty of bug abuse will receive anywhere from a warning to 100 points on a case-by-case level.
 
 
 ## Ban Hopping
