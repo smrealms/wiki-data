@@ -18,6 +18,8 @@ Below are the current administrators of Space Merchant Realms
 | Travdan |  Coder |
 | Curufir |	Coder |
 | Hot MaMa |  All-Purpose Admin |
+| Nika | General Admin |
+| Graknon | General Admin |
 
 
 # Community Contributors
