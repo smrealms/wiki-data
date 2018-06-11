@@ -21,9 +21,9 @@
 ## Harassment
 
 * Harassment of SMR staff (this includes administrators, webboard mods, IRC mods) is unacceptable and will be dealt with on a case by case basis.
-* Harassment of other players should be dealt with in the following way.
-* Players found guilty of this offense will be given between 0 and 20 points.
-* Player being harassed should put the offending player on their Black List ingame to prevent further harassment.
+* Harassment of other players should be dealt with in the following way:
+    * Players found guilty of this offense will be given between 0 and 20 points.
+    * Player being harassed should put the offending player on their Black List ingame to prevent further harassment.
 * Any harassment done through IRC chat will be dealt with by the IRC officers, and considered a separate case from SMR admins. Should the IRC officers request an ingame ban, it is a request that may be granted.
 
 
