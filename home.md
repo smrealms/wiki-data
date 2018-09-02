@@ -1,7 +1,7 @@
 <!-- TITLE: Space Merchant Realms Wiki -->
 <!-- SUBTITLE: Welcome to the SMR Wiki! -->
 
-# SMR Wiki
+# Contributing
 
 If you would like to help update the content on this site, please [create an account](login) and then [contact an admin](contact-us) so that we can give you editor permissions.
 
