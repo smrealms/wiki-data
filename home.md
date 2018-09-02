@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
+<!-- TITLE: Space Merchant Realms Wiki -->
 <!-- SUBTITLE: Welcome to the SMR Wiki! -->
 
 # SMR Wiki
