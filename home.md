@@ -8,6 +8,7 @@ If you would like to help update the content on this site, please [create an acc
 # Important Links
 * [Space Merchant Realms](http://www.smrealms.de)
 * [SMR Forums](https://smrcnn.smrealms.de)
+* [SMR Discord Server](https://discord.me/smrealms)
 
 # Table of Contents
 You can browse all pages in the wiki [here](all).
@@ -24,3 +25,7 @@ You can browse all pages in the wiki [here](all).
 # Social Media
 * [SMR Twitter](https://twitter.com/smrealms)
 * [SMR Facebook Group](https://www.facebook.com/Space-Merchant-Realms-141119552570252/)
+
+# Community
+Space Merchants Realms is part of a larger gaming community.
+* [PBBG.com](https://pbbg.com/) - This is a great site to explore new games and meet people who play other PBBG's (persistent browser-based games). They also host an active [forum](https://discourse.pbbg.com/) and [Discord server](https://discord.gg/KvwaEqC).
