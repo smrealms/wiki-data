@@ -14,16 +14,18 @@ The rating of your ship is represented by a pair of numbers. The first number is
 **Attack Rating** = Attack Rating = round((Armor Damage+ Shield Damage + 2 * Combat Drones) / 40)
 
 So for example, a Federal Ultimatum with Holy Hand Grenade, Salvene EM Flux Cannon x3, Creonti "Big Daddy" x2, Torpedo Launcher and 120 Combat Drones would be:
-Shield | Armor | Weapon
-300    | 0     | HHG
-115    | 50    | SEMFC
-115    | 50    | SEMFC
-115    | 50    | SEMFC
-0      | 250   | CBD
-0      | 250   | CBD
-0      | 175   | TL
 
-645    | 825   | Totals
+|Shield | Armor | Weapon|
+|-------|-------|-------|
+|300    | 0     | HHG   |
+|115    | 50    | SEMFC |
+|115    | 50    | SEMFC |
+|115    | 50    | SEMFC |
+|0      | 250   | CBD   |
+|0      | 250   | CBD   |
+|0      | 175   | TL    |
+|-------|-------|-------|
+|645    | 825   | Totals|
 
 Calculation:
 Round((825 + 645 + 2 * 120) / 40)
