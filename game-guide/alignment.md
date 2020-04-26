@@ -7,7 +7,7 @@ Alignment is a key factor in this game and represents your standing with the Gal
 
 ## Ship Restrictions
 
-You need at least 150 alignment to buy Federal ships, or -150 to purchase Underground ships.
+You need at least 100 alignment to buy Federal ships, or -100 to purchase Underground ships.
 
 ## Weapon Restrictions
 
