@@ -46,7 +46,7 @@ Knowing how to use a scanner and using it often will save your ship time and tim
 
 # **Cloak**
 
-The Cloaking device hides the pilots ships from other ships in sector with them. Being Cloaked doesn't mean that you are truly invincible, just that anyone who is the same level as yourself or has a lower level can not attack you.*** A cloaked ship in a sector with out anyone else in it will show a "Shadow" in the current sector screen***. Cloak is only effective against someone who is a lower level than the cloaked ship. A level 20 person can hide from a level 19 person, but be seen by a level 21 person. A cloaked person In Sector with an alliance mate that is not cloaked can still be attacked with their ally, although they can not be targetted themselves. If you enter a sector an are uncloaked, another ship in that sector can pull up an attack screen on you even if you recloak.
+The Cloaking device hides the pilots ships from other ships in sector with them. Being Cloaked doesn't mean that you are truly invisible, just that anyone who has less experience points cannot examine or attack you.  This can be used to great effect but it has several limitations. If you forget to enable your cloak you can be seen. If you hit mines you will decloak. If you attack anything you will decloak. You will be decloaked if an alliance mate in your sector fires upon something or is fired upon. Your ship shows up on scans while cloaked. Also, being in sector with a cloaked ship you cannot see will generate a warning if there are no other ships around.
 
 
 # **Illusion Generator**
@@ -59,6 +59,10 @@ Although this equipment allows players to pretend to be in a different ship than
 
 The jump drive allows you to jump across several sectors without the need to go through each one. It does cost **10+** turns to use however, so it is best to use when you need to reach a location that is over **10+** sectors away. If the location is exactly **10** sectors away, you will land exactly where you were aiming. If your location is over **10** sectors away, there is a chance of a misjump, larger the misjump the further distance the jump is...leaving you one to eight sectors away from where you were heading. You can use the jump drive to jump from one galaxy to another, however you have a greater chance of misjump.
 
+Even with misjumps a jump drive is a turn efficient way to travel long distances.  You will save up to 20% of your turns by using it to travel more than 10 sectors. Keep this in mind when you encounter long trade routes.
+
+Mines present a great hazard to jump drive use. If you jump in to a sector containing hostile mines you will hit them. Further, you cannot jump out of a sector that contains hostile mines. Once you have jumped in to a mined sector you will either have to move to an adjacent sector, which requires hitting them again, or destroy them in order to jump back out. Be very caution of mines when using a jump drive.
+
 The jump drive is good for reaching a location that is surrounded by enemy forces, such as a Combat Accessories store.
 
 Also, now with recent changes you can jump more than one galaxy away. This is very useful to bypass an enemy minefield. This is risky though because it costs more turns to jump and an even higher misjump chance than just one galaxy being jumped!
@@ -67,6 +71,6 @@ Also, now with recent changes you can jump more than one galaxy away. This is ve
 
 # **Drone Scrambler**
 
-The Drone Communications Scrambler or DCS is a device used to disrupt coordination of enemy drone attacks. The DCS, when used against ports and planets is able to prevent 25% of the enemy drones from attacking your ship. Against other ships, the DCS reduces drone damage by 33%. It will also prevent 50% of all mine damage to your ship. The DCS is not manually enabled/disabled like other hardware. It is automatically used at all times. It also does not require any turns to use. ***The Drone Scrambler is available only at the Nijarin Hardware shop, which is usually located at the Nijarin Government HQ, or at a Crone Dronfusion***. The price of the DCS is 500,000 credits.
+The Drone Communications Scrambler or DCS is a device used to disrupt coordination of enemy drone attacks. The DCS, when used against ports and planets is able to prevent 25% of the enemy drones from attacking your ship. Against other ships, the DCS reduces drone damage by 33%. It will also prevent 25% of all mine damage to your ship. The DCS is not manually enabled/disabled like other hardware. It is automatically used at all times. It also does not require any turns to use. ***The Drone Scrambler is available only at the Nijarin Hardware shop, which is usually located at the Nijarin Government HQ, or at a Crone Dronfusion***. The price of the DCS is 500,000 credits.
 
 It is important to note that a DCS will not give your teammates any protection against combat drones, even if they are in the sector with you. The effect is only active for the ship with the DCS.
