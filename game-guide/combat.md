@@ -20,13 +20,17 @@ This section is about attacking planets. For general information about planets, 
 | <img src="https://www.smrealms.de/images/planet1.png" /> Terran |
 | <img src="https://www.smrealms.de/images/planet3.png" /> Dwarf |
 | <img src="https://www.smrealms.de/images/planet2.png" /> Arid |
+| <img src="https://www.smrealms.de/images/planet4.png" /> Defense World |
+| <img src="https://www.smrealms.de/images/planet5.png" /> Protoplanet |
 
-Planets start out with no buildings at all, but with proper supplies stockpiled, construction of generators, hangars, and turrets can begin. As more buildings are constructed, the planet's defense level increases. 
+Planets start out with no buildings at all. Construction of buildings can begin once proper supplies are stockpiled. Every three structures adds one point to the planet level. 
 
 * **Generators** protect a planet with shields. Each generator can hold 100 shields.
 * **Hangars** house and launch combat drones. Each hangar holds 20 drones.
 * **Turrets** fire heavy laser beams. Each planet can have a maximum of 10 turrets. These laser beams do 250/250 damage. Basically, when they hit an attacking ship they can destroy 250 shields or 250 armor (but not both on the same shot).
 * **Bunkers** protect a planet with heavy-plated armor. Each bunker provides 100 armor.
+* **Weapon Mount** these buildings allows a player to mount ship based weapons on the planet.
+* **Radar Station** improves the accuracy of mounted weapons.
 
 Planets can serve as a relatively safe place to park your ship, but no planet is 100% safe. Even the strongest planet can can fall to a well organized attacking fleet of warships.
 
