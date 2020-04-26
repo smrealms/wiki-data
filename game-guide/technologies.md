@@ -46,7 +46,7 @@ Knowing how to use a scanner and using it often will save your ship time and tim
 
 # **Cloak**
 
-The Cloaking device hides the pilots ships from other ships in sector with them. Being Cloaked doesn't mean that you are truly invisible, just that anyone who has less experience points cannot examine or attack you.  This can be used to great effect but it has several limitations. If you forget to enable your cloak you can be seen. If you hit mines you will decloak. If you attack anything you will decloak. You will be decloaked if an alliance mate in your sector fires upon something or is fired upon. Your ship also shows up on scans while cloaked. Also, being in sector with a cloaked ship you cannot see will generate a warning if there are no other ships around.
+The Cloaking device hides the pilots ships from other ships in sector with them. Being Cloaked doesn't mean that you are truly invisible, just that anyone who has less experience points cannot examine or attack you.  This can be used to great effect but it has several limitations. If you forget to enable your cloak you can be seen. If you hit mines you will decloak. If you attack anything you will decloak. You will be decloaked if an alliance mate in your sector fires upon something or is fired upon. Your ship shows up on scans while cloaked. Also, being in sector with a cloaked ship you cannot see will generate a warning if there are no other ships around.
 
 
 # **Illusion Generator**
