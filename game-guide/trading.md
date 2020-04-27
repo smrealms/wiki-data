@@ -14,7 +14,7 @@ Tier #2 Textiles, Machinery, Circuitry and Weapons
 Tier #3 Computers, Luxuries and Narcotics
 
 
-As you trade at a port you reduce the supply of the port by the number of holds on your ship. Tier one goods start at 6000, Tier two at 5000 and Tier three at 4000. If you purchase a tier one good and the supply of a tier two good is less than max you will add 25% of you holds traded to the supple of any and all tier two goods that are not at their max. The same thing occurs when trading tier two goods, you increase the supply of tier three goods.
+As you trade at a port you reduce the supply of the port by the number of holds on your ship. Tier one goods start at 6000, Tier two at 5000 and Tier three at 4000. If you purchase a tier one good and the supply of a tier two good is less than max you will add 90% of you holds traded to the supple of any and all tier two goods that are not at their max. The same thing occurs when trading tier two goods, you increase the supply of tier three goods.
 
 You can not trade "evil" goods unless your alignment is less than -100 Evil goods are Slaves, Weapons and Narcotics.
 
