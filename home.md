@@ -3,7 +3,7 @@
 
 # Contributing
 
-The content in this wiki is maintained by the community. If you would like to contribute, please [create an account](login) and then [contact an admin](contact-us) so that we can give you editor permissions.
+The content on this site is maintained by the community. If you would like to contribute, please [create an account](login) and then [contact an admin](contact-us) so that we can give you editor permissions.
 
 # Important Links
 * [Space Merchant Realms](http://www.smrealms.de)
