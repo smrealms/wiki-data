@@ -104,7 +104,7 @@ Finding a route is a matter of finding ports with good distance numbers.  It's a
 
 Download an SMR file using the button on the lower left panel after you have the galaxy fully explored.  Use The Lazy Trader to open the SMR file you downloaded and use the trade routes function to compute routes.  You will have to configure which goods you can trade depending on your alignment and which races you can trade with depending on your relations.
 
-The Lazy Trader can be found at [the game guide page for it](https://wiki.smrealms.de/tools/lazy-trader)
+The Lazy Trader can be found at [the game guide page for it](https://wiki.smrealms.de/tools/lazy-trader).
 
 ## Trade Ships
 
