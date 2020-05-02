@@ -34,7 +34,7 @@ Every good at every port his a distance factor attached to it.  The distance fac
 
 Each good has a supply amount.  Tier 1 goods cap at 6000, tier 2 at 5000, and tier 3 at 4000.  Buying or selling a good reduces its supply.  When the port is out of supplies you can no longer trade that good at that port.  Profit margins also get tighter as supplies get lower.
 
-Goods regenerate in two ways.  First, goods regenerate passively over time.  Tier 1 goods at 150 &middot; game speed, tier 2 at 100 &middot; game speed, and tier 3 at 50 &middot; game speed.  Second, trading a lower tier good increase the supply of the next tier by 90% of the amount traded.  Tier 1 goods traded will add 90% of the amount traded to tier 2.  Same with tier 2 and 3.  Tier 3 goods traded do not regenerate anything.
+Goods regenerate in two ways.  First, goods regenerate passively over time.  Tier 1 goods at 150 &times; game speed, tier 2 at 100 &times; game speed, and tier 3 at 50 &times; game speed.  Second, trading a lower tier good increases the supply of the next tier by 90% of the amount traded.  Tier 1 goods traded will add 90% of the amount traded to tier 2.  Same with tier 2 and 3.  Tier 3 goods traded do not regenerate anything.
 
 Every port has a level between 1 and 9.  Ports level up primarily through goods being purchased there.  Levels can only be removed through port raids.  Ports can trade a number and type of goods depending on the port level as shown below:
 
