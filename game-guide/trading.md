@@ -108,7 +108,7 @@ The Lazy Trader can be found at [the game guide page for it](https://wiki.smreal
 
 ## Trade Ships
 
-The essence of a trade ship is its ability to move goods.  It's not just how many fit in the hold at once.  It's how many can be transported.  This value can be referred to as *trade power*.  It can be measured by multiplying the number of cargo holds by the turn rate.  Calculate for many vessels to produce a chart like this:
+The efficiency of a trade ship depends on both its size (number of cargo holds) and its speed. For example: A slow ship with lots of cargo holds may be good, but a ship with fewer cargo holds may be better if it is much faster. This can be referred to as *trade power*.  It is measured by multiplying the number of cargo holds by the turn rate.  Calculate for many vessels to produce a chart like this:
 
 |Ship|Cargo|Turn Rate|Trade Power|
 |----|-----|---------|-----------|
