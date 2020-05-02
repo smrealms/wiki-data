@@ -59,7 +59,6 @@ Ideal Sell Price = 0.08 &middot; (Sell Value &middot; Cargo) &middot; (Distance 
 
 These are the equations the game uses to calculate ideal buy and sell prices.  Take note the distance factor is the only exponential value.  This feature gives it more control over the equation than the rest of the values.  Though each of the variables can strongly affect prices.
 
-There are a few limits in code that have been stripped out of the equations as they are.  The stock amount over stock max fraction will be between 0 and 1.  Relations are capped at 1000.  The rest variables are limited by game behavior but not explicitly hard coded.
 
 It is possible, by using the equations above, to calculate the perfect value for each transaction.  It is an incredibly effective method to increase experience and profit earlier in the game.  It is also dangerously distracting to sit in a defenseless trade ship while keying in supply and relation numbers for every trade.  Experiment at your own risk.
 
