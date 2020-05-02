@@ -64,7 +64,7 @@ It is possible, by using the equations above, to calculate the perfect value for
 
 ## Experience Mechanics
 
-Experience Gain = (Cargo Holds / 13) &middot; Distance Factor
+Experience Gain = (Cargo Holds / 13) &times; Distance Factor
 
 Moving goods with a greater distance factor is a huge part of gaining experience.  The person who moves the most goods along the longest route will usually end up with the most.
 
