@@ -76,7 +76,7 @@ Every player has two types of relation numbers for each race.  There are persona
 
 Racial ruling councils are made up with the top 5 experience players from that race.  Each of the 5 members are able to vote to adjust relations with another race each day.  Each of those votes adds or subtracts 15 political relations from one other race.  
 
-The highest experience council member one with 150+ alignment is made president.  The president has the power to call or veto votes.  Votes can trigger war, which sets political relations with another race to -400, or peace, which sets political relations with another race to 300.  While the president holds more power in this regard, the majority on the council ultimately has more authority.
+The highest experience council member with 150+ alignment is made president.  The president has the power to call or veto votes.  Votes can trigger war, which sets political relations with another race to -400, or peace, which sets political relations with another race to 300.  While the president holds more power in this regard, the majority on the council ultimately has more authority.
 
 The war and peace votes don't matter as much as you may think.  Any race that gets to -300 is considered to be at war.  Any race that gets to 300 is considered to be at peace.  The declaration doesn't have to happen via a vote called by the president.
 
