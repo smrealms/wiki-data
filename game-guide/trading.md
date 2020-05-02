@@ -55,7 +55,7 @@ While a level 9 port will trade every tier 2 and tier 3 good, one tier 1 good wi
 ## Profit Mechanics
 
 Ideal Buy Price = 0.03 &times; (Buy Value &times; Cargo) &times; (Distance Factor ^ 1.3) &times; (2 - (Stock Amount / Stock Max)) &times; (3 - 2 &times; (Relations / 1000))  
-Ideal Sell Price = 0.08 &middot; (Sell Value &middot; Cargo) &middot; (Distance Factor ^ 1.3) &middot; (1 + (Stock Amount / Stock Max)) &middot; (1 + 2 &middot; (Relations / 1000))
+Ideal Sell Price = 0.08 &times; (Sell Value &times; Cargo) &times; (Distance Factor ^ 1.3) &times; (1 + (Stock Amount / Stock Max)) &times; (1 + 2 &times; (Relations / 1000))
 
 These are the equations the game uses to calculate ideal buy and sell prices.  Take note the distance factor is the only exponential value.  This feature gives it more control over the equation than the rest of the values.  Though each of the variables can strongly affect prices.
 
