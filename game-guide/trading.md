@@ -92,7 +92,7 @@ Also take note that effective relations are personal plus political.  Your counc
 
 ## Overhead Costs
 
-Federal protection costs no credits but you have to get there.  Overhead to a trader is a matter of turns.  How far do I have to go to get from safety to my route?  How far do I have to go to get back?  Do I have to go out of my way to get to the bank?
+Federal protection costs no credits but you have to spend turns to get there, which can impact your trading efficiency. How far do you have to go to get from safety to your route?  How far do you have to go to return to a Federal protection after you are done trading?  Do you have to go out of my way to get to the bank?
 
 While overhead values are usually small they will influence ship selection.  If you have to spend 20 turns to trade every day or two that is two hours worth of turns at 10tph or five hours at 4tph.  In that scenario you don't just spend less time getting there.  You use the saved time to trade and turn a profit.
 
