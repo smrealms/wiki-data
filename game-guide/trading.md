@@ -96,7 +96,7 @@ Federal protection costs no credits but you have to spend turns to get there, wh
 
 While overhead values are usually small they will influence ship selection.  If you have to spend 20 turns to trade every day or two that is two hours worth of turns at 10tph or five hours at 4tph.  In that scenario you don't just spend less time getting there.  You use the saved time to trade and turn a profit.
 
-Those of you with stronger math skills will have a nagging idea of the slower ship taking longer to build turns, making less trips, and coming out equal.  The concept is correct but it clashes with the limitations of routes.  Namely supply.  There are very few scenarios where you can show up to a route and trade 500 turns out with 500 cargo holds.
+Those of you with stronger math skills will have a nagging idea of the slower ship taking longer to build turns, making fewer trips, and coming out equal.  The concept is correct but it clashes with the limitations of routes.  Namely supply.  There are very few scenarios where you can show up to a route and trade 500 turns with 500 cargo holds.
 
 ## Finding a Trade Route
 
