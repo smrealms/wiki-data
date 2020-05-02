@@ -68,7 +68,7 @@ Experience Gain = (Cargo Holds / 13) &times; Distance Factor
 
 Moving goods with a greater distance factor is a huge part of gaining experience.  The person who moves the most goods along the longest route will usually end up with the most experience. **Remember**: the "distance factor" is not the distance you traveled, but the distance to the nearest port that has a complementary trade for the good you are buying or selling.
 
-Experience is also tricky because of the bartering process.  There is an ideal price that must be guessed quite accurately in order to get full experience.  But the port will offer you a price that, if your relations are not at least 1000, will not be optimal.  Guessing the correct value is incredibly difficult due to the number of variables used in the process.  Most people opt simply to work their relations up as fast as possible.
+Experience is also tricky because of the bartering process.  There is an ideal price that must be guessed quite accurately in order to get full experience.  However, if your relations are 1000 or above, then the port will give you the best price without needing to barter.  Guessing the correct value is difficult due to the number of variables used in the calculation.  Most people opt simply to work their relations up as fast as possible.
 
 ## Relations
 
