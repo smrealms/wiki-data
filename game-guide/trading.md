@@ -196,7 +196,7 @@ The Deep-Spacer is an excellent general purpose trader as well as the top jump r
 
 The Deal-Maker is the strongest cloaked trader in the game.  You will not see them often but they fill a fun niche when the game allows for it.
 
-The trade master is a misnomer.  It is a bad choice for trading.  It's true purpose is alliance support.  Those roles be covered in a different guide.
+The Trade-Master is a misnomer.  It is surprisingly a bad choice for trading.  It's true purpose is alliance support.  Those roles are covered in a different guide.
 
 ## Further Ship Considerations
 
