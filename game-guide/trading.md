@@ -287,7 +287,7 @@ The current hall of fame is an absolute goldmine for espionage.  Covering it ful
 
 Trading often means dealing with forces.  Scouts send a message to their owner when a ship passes through.  Combat drones provide armor and deal damage.  Mines deal damage and interrupt you with a combat screen when you enter a sector.
 
-Scouts can be the greatest ship saving tool for a trader.  Place them at the entrance to the galaxy where you're trading.  Place them in key places along your route.  You will get a message when someone is coming for you.  That's your air raid warning telling you to take cover.
+Scouts can be the greatest ship saving tool for a trader.  Place them at the entrance to the galaxy where you're trading.  Place them in key sectors along your route.  You will get a message when someone is coming for you.  That's your air raid warning telling you to take cover.
 
 Scouts are also the front line tool of hunters.  They will stick them anywhere they think people are trading.  Scout drones permit them to accurately map when and where you are trading or even where you seek safe haven.  Depending on the circumstance you may want to spend the turns shooting them down.  No matter what, understand they have alerted someone to your whereabouts.
 
