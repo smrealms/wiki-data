@@ -212,7 +212,7 @@ A well configured illusion generator may confuse someone for just long enough to
 
 This can't be said enough.  Longer routes allows higher distance factors which helps everything about trading in a major way.
 
-Longer distance factors directly multipliers the number of credits like so:
+Trade profit increases very quickly with increasing distance factors:
 
 |Distance Number|Multiplier|
 |---------------|----------|
