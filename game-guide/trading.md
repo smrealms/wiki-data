@@ -192,7 +192,7 @@ Alskant ships are the strongest traders in the game.  Every single one of their 
 
 The Trip-Maker is your mid tier trader.  It is the strongest trader in the game and a death trap with 350 total defenses.  Get in it quickly, trade until people start hunting, and move on to a larger ship before you get podded.
 
-The deep spacer is an excellent general purpose trader as well as the top jump route trader in the game.  This is a common ship to see Alskant traders in because it's usually the best choice.
+The Deep-Spacer is an excellent general purpose trader as well as the top jump route trader in the game.  This is a common ship to see Alskant traders in because it's often the best choice.
 
 The deal maker is the strongest cloaked trader in the game.  You will not see them often but they fill a fun niche when the game allows for it.
 
