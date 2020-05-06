@@ -279,7 +279,7 @@ Stealing has more serious ramifications beyond being caught.  Where a normal tra
 
 Hunters are human.  That's one of the things that makes this game interesting.  The problem is this is a trading guide which means we are prey.  You are the prey and you will be hunted by people who learn and adopt new tactics as time goes on.  When caught off guard you will most likely lose your ship in a hail of weapons fire.
 
-One of the simplest ways hunters search for prey is watching the experiene of other players.  Experience is only gained from certain actions.  And trading is the only one that causes it to steadily trickle in.  The amounts of experience you gain give clues as to how large your ship is and where you may be trading.  It is nearly impossible to trade without others knowing it.
+One of the simplest ways hunters search for prey is watching the experience of other players.  Experience is only gained from certain actions, and trading has an obvious signature.  The amount of experience you gain give clues as to how large your ship is and where you may be trading.  It is nearly impossible to trade without others knowing it.
 
 The current player list is fundamental tool for hunters and traders alike.  The count at the top is the number of players who have loaded or refreshed a page in the past 10 minutes.  The list of players are those who have moved in the same time period.  These are a good indicator of people being around but not perfectly accurate.  It is possible to leave the current player list open for much longer than 10 minutes.  You never know who is watching.
 
