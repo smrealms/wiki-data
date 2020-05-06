@@ -175,7 +175,7 @@ The best mid tier for half the races is a Merchant Vessel.  The few others liste
 
 Dangerous routes are best handled by a ship with a lot of defenses (shields and armor). The PSF and PF are the best options for this.  A cloaked SF is sometimes also appropriate but that is circumstantial.
 
-Long routes over about 13 in length are best traded with a jump ship.  The speed of an ACV helps more than you may think.  An IST has forces to help keep it in one piece.
+Long routes over about 13 distance are best traded with a jump ship.  The speed of an ACV makes it the most efficient ship for this purpose; however, an IST has forces that help make trading a bit safer.
 
 A freighter is amazing when you aren't going to be shot at.  Use caution.
 
