@@ -246,7 +246,7 @@ The effective way to use dumping is to keep good supplies nearly topped off.  Th
 
 ## Smuggling
 
-All ships are checked for illegal goods at random and it is possible to avoid under the right circumstances.  A port checks 15% of ships for illegal goods by default.  It is possible to reduce the chance by 16%.  There is a 4% reduction for each illegal good, up to 3 max, a port trades.  There is also a 4% reduce in chance when flying an evil aligned ship (Thief, Assassin, Death Cruiser).
+All ships are checked for illegal goods at random, but it is possible to reduce how frequently this occurs.  A port checks 15% of ships for illegal goods by default.  It is possible to reduce the chance by 16%.  There is a 4% reduction for each illegal good a port trades, up to 3 max.  There is also a 4% reduction when flying an evil aligned ship (Thief, Assassin, Death Cruiser).
 
 When you get caught smuggling the goods are confiscated and you are fined by the port authorities.  Smuggling fines are based on the sell value of cargo and the port level.  Smuggling fines can be very expensive.  You also lose 5 alignment points when you are captured.
 
