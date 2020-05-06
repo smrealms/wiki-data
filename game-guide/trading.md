@@ -173,7 +173,7 @@ This chart contains all of the more efficient ships along any non Alskant upgrad
 
 The best mid tier for half the races is a Merchant Vessel.  The few others listed here are also cost effective.  Thevians should be mindful that an Expediter cannot mount any weapons to shoot forces with.
 
-Dangerous routes are best handled by a ship with a lot of hit points.  The PSF and PF are the options for this.  A cloaked SF is sometimes also appropriate but that is circumstantial.
+Dangerous routes are best handled by a ship with a lot of defenses (shields and armor). The PSF and PF are the best options for this.  A cloaked SF is sometimes also appropriate but that is circumstantial.
 
 Long routes over about 13 in length are best traded with a jump ship.  The speed of an ACV helps more than you may think.  An IST has forces to help keep it in one piece.
 
