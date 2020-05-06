@@ -194,7 +194,7 @@ The Trip-Maker is your mid tier trader.  It is the strongest trader in the game 
 
 The Deep-Spacer is an excellent general purpose trader as well as the top jump route trader in the game.  This is a common ship to see Alskant traders in because it's often the best choice.
 
-The deal maker is the strongest cloaked trader in the game.  You will not see them often but they fill a fun niche when the game allows for it.
+The Deal-Maker is the strongest cloaked trader in the game.  You will not see them often but they fill a fun niche when the game allows for it.
 
 The trade master is a misnomer.  It is a bad choice for trading.  It's true purpose is alliance support.  Those roles be covered in a different guide.
 
