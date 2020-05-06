@@ -285,7 +285,7 @@ The current player list is a fundamental tool for hunters and traders alike.  Th
 
 The current hall of fame is an absolute goldmine for espionage.  Covering it fully would require a separate guide.  For the scope of this section just be aware of it and take a look to get an idea of what is there.
 
-Trading often means dealing with forces.  Scouts send a message to their own when a ship passes through.  Combat drones provide armor and deal damage.  Mine deal damage and interrupt you with a combat screen when you enter a sector.
+Trading often means dealing with forces.  Scouts send a message to their owner when a ship passes through.  Combat drones provide armor and deal damage.  Mines deal damage and interrupt you with a combat screen when you enter a sector.
 
 Scouts can be the greatest ship saving tool for a trader.  Place them at the entrance to the galaxy where you're trading.  Place them in key places along your route.  You will get a message when someone is coming for you.  That's your air raid warning telling you to take cover.
 
