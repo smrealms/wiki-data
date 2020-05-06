@@ -281,7 +281,7 @@ Hunters are human.  That's one of the things that makes this game interesting.  
 
 One of the simplest ways hunters search for prey is watching the experience of other players.  Experience is only gained from certain actions, and trading has an obvious signature.  The amount of experience you gain give clues as to how large your ship is and where you may be trading.  It is nearly impossible to trade without others knowing it.
 
-The current player list is fundamental tool for hunters and traders alike.  The count at the top is the number of players who have loaded or refreshed a page in the past 10 minutes.  The list of players are those who have moved in the same time period.  These are a good indicator of people being around but not perfectly accurate.  It is possible to leave the current player list open for much longer than 10 minutes.  You never know who is watching.
+The current player list is a fundamental tool for hunters and traders alike.  The count at the top is the number of players who have loaded or refreshed a page in the past 10 minutes.  The list of players are those who have moved in the same time period.  These are a good indicator of people being around but not perfectly accurate.  It is possible to leave the current player list open for much longer than 10 minutes.  You never know who is watching.
 
 The current hall of fame is an absolute goldmine for espionage.  Covering it fully would require a separate guide.  For the scope of this section just be aware of it and take a look to get an idea of what is there.
 
