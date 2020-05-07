@@ -98,6 +98,8 @@ While overhead values are usually small they will influence ship selection.  If 
 
 Those of you with stronger math skills will have a nagging idea of the slower ship taking longer to build turns, making fewer trips, and coming out equal.  The concept is correct but it clashes with the limitations of routes.  Namely supply.  There are very few scenarios where you can show up to a route and trade 500 turns with 500 cargo holds.
 
+There is also a noteworthy overhead to buying and selling goods.  Each transaction costs one turn.  For this reason it is always most efficient to trade one type of good at a time
+
 ## Finding a Trade Route
 
 Finding a route is a matter of finding ports with good distance numbers.  It's an incredible amount of work to do it by hand so players have built applications to compute the routes for us. 
@@ -105,6 +107,8 @@ Finding a route is a matter of finding ports with good distance numbers.  It's a
 Download an SMR file using the button on the lower left panel after you have the galaxy fully explored.  Use The Lazy Trader to open the SMR file you downloaded and use the trade routes function to compute routes.  You will have to configure which goods you can trade depending on your alignment and which races you can trade with depending on your relations.
 
 The Lazy Trader can be found at [the game guide page for it](https://wiki.smrealms.de/tools/lazy-trader).
+
+Also realize that scouting the galaxy costs quite a few turns.  Alliances are able to share maps which means the task can be split and the burden reduced.  This is a heavily team based game even when you're trading.
 
 ## Trade Ships
 
@@ -155,19 +159,19 @@ Note: I have intentionally left a good number of ships out of these charts for t
 
 ## Ship Selection
 
-|Ship|Cargo|Turn Rate|Trade Power|Credits|Credits/T.P.|Total Health|Combat Drones|Scouts|Mines|S|C|I|J|S|
-|----|-----|---------|-----------|-------|------------|------------|-------------|------|-----|-|-|-|-|-|
-|Freighter|250|10|2500|5791393|2317|600|0|0|0|Y|N|N|N|N|
-|Planetary Trader|300|8|2400|5983335|2493|760|10|5|15|Y|N|Y|N|N|
-|Advanced Courier Vessel|235|10|2350|556740|2366|500|0|0|0|Y|N|N|Y|N|
-|Planetary Freighter|450|5|2250|6115028|2718|1350|0|5|15|Y|N|N|N|N|
-|Inter-Stellar Trader|300|7|2100|5914159|2816|670|15|5|25|Y|N|N|Y|N|
-|Stellar Freighter|225|9|2025|7008455|3461|650|0|10|15|Y|Y|N|N|N|
-|Planetary Super Freighter|500|4|2000|6235792|3118|1950|0|5|50|Y|N|N|N|N|
-|Leviathan|240|7|1680|122251|668|800|0|25|100|Y|N|N|N|N|
-|Expediter|180|9|1680|1272250|785|850|0|0|0|Y|N|N|N|N|
-|Merchant Vessel|170|9|1530|825408|539|620|15|5|5|Y|N|N|N|N|
-|Drudge|250|6|1500|875683|584|955|10|0|10|Y|N|Y|N|N|
+|Ship|Cargo|Turn Rate|Trade Power|Credits|Total Health|Combat Drones|Scouts|Mines|S|C|I|J|S|
+|----|-----|---------|-----------|-------|------------|-------------|------|-----|-|-|-|-|-|
+|Freighter|250|10|2500|5791393|600|0|0|0|Y|N|N|N|N|
+|Planetary Trader|300|8|2400|5983335|760|10|5|15|Y|N|Y|N|N|
+|Advanced Courier Vessel|235|10|2350|556740|500|0|0|0|Y|N|N|Y|N|
+|Planetary Freighter|450|5|2250|6115028|1350|0|5|15|Y|N|N|N|N|
+|Inter-Stellar Trader|300|7|2100|5914159|670|15|5|25|Y|N|N|Y|N|
+|Stellar Freighter|225|9|2025|7008455|650|0|10|15|Y|Y|N|N|N|
+|Planetary Super Freighter|500|4|2000|6235792|1950|0|5|50|Y|N|N|N|N|
+|Leviathan|240|7|1680|122251|800|0|25|100|Y|N|N|N|N|
+|Expediter|180|9|1680|1272250|850|0|0|0|Y|N|N|N|N|
+|Merchant Vessel|170|9|1530|825408|620|15|5|5|Y|N|N|N|N|
+|Drudge|250|6|1500|875683|955|10|0|10|Y|N|Y|N|N|
 
 This chart contains all of the more efficient ships along any non Alskant upgrade path.  Regardless of your starting ship the most effective mid tier trader is usually a Merchant Vessel.  The most effective top tier ship will depend highly upon you and the route you mean to trade.
 
@@ -271,9 +275,11 @@ If you enter a port with an evil aligned ship you will have the option to steal 
 |8|2|
 |9|1|
 
-When caught stealing goods you will be fined.  Theft fines are based on the number of and base price of goods involved.  It is usually a few thousand credits.  You also lose 5 relation points with the race that owns the port.
+When caught stealing goods you will be fined.  Theft fines are based on the ports best price for the goods being stolen.  Because this is the buying side fines are not significant.  You also lose 5 relation points with the race that owns the port.
 
 Stealing has more serious ramifications beyond being caught.  Where a normal trade would build relations stealing does not.  This, in combination with lost relations when you are caught, makes theft a terrible idea when relations are below 1000.  Further, stolen goods do not regenerate higher tier goods.  This can cause your routes to drain early and severely shorten profits.  These effects limit the scenarios where stealing is efficient in terms of profit.
+
+Also remember authorities may remove credits directly from your bank if you haven't got enough to cover the fine.
 
 ## Hazards
 
