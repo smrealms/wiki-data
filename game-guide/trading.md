@@ -54,8 +54,8 @@ While a level 9 port will trade every tier 2 and tier 3 good, one tier 1 good wi
 
 ## Profit Mechanics
 
-Ideal Buy Price = 0.03 &times; (Buy Value &times; Cargo) &times; (Distance Factor ^ 1.3) &times; (2 - (Stock Amount / Stock Max)) &times; (3 - 2 &times; (Relations / 1000))  
-Ideal Sell Price = 0.08 &times; (Sell Value &times; Cargo) &times; (Distance Factor ^ 1.3) &times; (1 + (Stock Amount / Stock Max)) &times; (1 + 2 &times; (Relations / 1000))
+Ideal Buy Price = 0.0315 &times; (Buy Value &times; Cargo) &times; (Distance Factor ^ 1.3) &times; (2 - (Stock Amount / Stock Max)) &times; (3 - 2 &times; (Relations / 1000))  
+Ideal Sell Price = 0.084 &times; (Sell Value &times; Cargo) &times; (Distance Factor ^ 1.3) &times; (1 + (Stock Amount / Stock Max)) &times; (1.2 + 1.8 &times; (Relations / 1000))
 
 These are the equations the game uses to calculate ideal buy and sell prices.  Take note the distance factor is the only exponential value.  This feature gives it more control over the equation than the rest of the values.  Though each of the variables can strongly affect prices.
 
@@ -168,7 +168,7 @@ Note: I have intentionally left a good number of ships out of these charts for t
 |Inter-Stellar Trader|300|7|2100|5914159|670|15|5|25|Y|N|N|Y|N|
 |Stellar Freighter|225|9|2025|7008455|650|0|10|15|Y|Y|N|N|N|
 |Planetary Super Freighter|500|4|2000|6235792|1950|0|5|50|Y|N|N|N|N|
-|Leviathan|240|7|1680|122251|800|0|25|100|Y|N|N|N|N|
+|Leviathan|240|7|1680|1122251|800|0|25|100|Y|N|N|N|N|
 |Expediter|180|9|1680|1272250|850|0|0|0|Y|N|N|N|N|
 |Merchant Vessel|170|9|1530|825408|620|15|5|5|Y|N|N|N|N|
 |Drudge|250|6|1500|875683|955|10|0|10|Y|N|Y|N|N|
@@ -231,7 +231,7 @@ The longer the route, the more each good is worth in terms of credits.
 
 If experience is what you're after, here are some sample values per trade at each distance:
 
-|Route Length|100 Cargo XP|200 Cargo XP|300 Cargo XP|
+|Distance Number|100 Cargo XP|200 Cargo XP|300 Cargo XP|
 |------------|------------|------------|------------|
 |1|8|15|23
 |2|15|31|46
@@ -297,6 +297,6 @@ Scouts can be the greatest ship saving tool for a trader.  Place them at the ent
 
 Scouts are also the front line tool of hunters.  They will stick them anywhere they think people are trading.  Scout drones permit them to accurately map when and where you are trading or even where you seek safe haven.  Depending on the circumstance you may want to spend the turns shooting them down.  No matter what, understand they have alerted someone to your whereabouts.
 
-Mines can be a defensive tool for a trader.  Place one at the ports you are trading.  Hunters entering the sector to fire upon you will hit the mine.  The damage is useless but it causes them to have to load one extra pae before being able to target you.  Sometimes that's enough to survive.
+Mines can be a defensive tool for a trader.  Place one at the ports you are trading.  Hunters entering the sector to fire upon you will hit the mine.  The damage is useless but it causes them to have to load one extra page before being able to target you.  Sometimes that's enough to survive.
 
 Mines are also used in the same fashion by hunters.  Understand they don't want you to die to the mines.  They don't get any money or experience from that.  But they will lay one or two along your escape route if they can anticipate it.  This will slow you down while running back to safety and may land you in a pod.  Be ready to hit them and keep going when the time is right.
