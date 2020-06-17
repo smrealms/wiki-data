@@ -21,4 +21,5 @@ Please note that this Guide is constantly being updated and revised so check bac
 * [Protection](game-guide/protection)
 * [Races](game-guide/races)
 * [Technologies](game-guide/technologies)
+* [Trading](game-guide/trading)
 * [Weapons](game-guide/weapons)
