@@ -300,3 +300,51 @@ Scouts are also the front line tool of hunters.  They will stick them anywhere t
 Mines can be a defensive tool for a trader.  Place one at the ports you are trading.  Hunters entering the sector to fire upon you will hit the mine.  The damage is useless but it causes them to have to load one extra page before being able to target you.  Sometimes that's enough to survive.
 
 Mines are also used in the same fashion by hunters.  Understand they don't want you to die to the mines.  They don't get any money or experience from that.  But they will lay one or two along your escape route if they can anticipate it.  This will slow you down while running back to safety and may land you in a pod.  Be ready to hit them and keep going when the time is right.
+
+### Experience Efficiency
+
+It is useful to look at experience gain rates in terms of route distance.  To do so we combine the experience formula:
+
+Experience = Cargo &times; Distance / 13
+
+with the length cost of the route:
+
+Turns = 2 &times; Distance + 4
+
+Which gets us this monstrosity:
+
+XP Efficiency = 4 &times; Cargo &times; Distance / 13 &times; 2 &times; Distance + 4
+
+Where the experience factor in the numerator is being multiplied by 4 because we make 4 trades per circuit about the trade route.  Final unit is experience per cargo turn.  Feeding data in to that equation gives us the following table:
+
+|Route distance|XP/cargoturn|increase over last amount|
+|-|-|-|
+|1|0.0513|inf.|
+|2|0.0769|50%|
+|3|0.0923|20%|
+|4|0.1026|11%|
+|5|0.1099|7%|
+|6|0.1154|5%|
+|7|0.1197|4%|
+|8|0.1231|3%|
+|9|0.1259|2%|
+|10|0.1282|2%|
+
+And the following chart:
+
+![](https://wiki.smrealms.de/uploads/experienceEfficiency.png "")
+
+The takeaway is experience returns diminish sharply on route length.  Increases beyond a 13x distance are less than 1%.  Longer routes are still more efficient and more valuable but the difference becomes less and less as they grow.
+
+Experience efficiency can also be multiplied by trade power to easily derive experience per hour values:
+
+|Route distance|PSF XP/hr|PF XP/hr|Freighter XP/hr|
+|-|-|-|-|
+|1|103|115|128|
+|2|154|173|192|
+|3|185|208|231|
+|4|205|231|256|
+|5|220|247|275|
+|6|231|260|288|
+
+Put in to words, a Freighter on a perfect 3x will generate experience at the same rate as a Planetary Freighter on a perfect 4x or a Planetary Super Freighter on a perfect 6x.  This is only for time spent trading.  In practice, the faster ship will perform better because they are less affected by overhead turn loss.
