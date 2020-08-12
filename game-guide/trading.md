@@ -301,7 +301,7 @@ Mines can be a defensive tool for a trader.  Place one at the ports you are trad
 
 Mines are also used in the same fashion by hunters.  Understand they don't want you to die to the mines.  They don't get any money or experience from that.  But they will lay one or two along your escape route if they can anticipate it.  This will slow you down while running back to safety and may land you in a pod.  Be ready to hit them and keep going when the time is right.
 
-### Experience Efficiency
+## Experience Efficiency
 
 It is useful to look at experience gain rates in terms of route distance.  To do so we combine the experience formula:
 
@@ -349,9 +349,7 @@ Experience efficiency can also be multiplied by trade power to easily derive exp
 
 Put in to words, a Freighter on a perfect 3x will generate experience at the same rate as a Planetary Freighter on a perfect 4x or a Planetary Super Freighter on a perfect 6x.  This is only for time spent trading.  In practice, the faster ship will perform better because they are less affected by overhead turn loss.
 
-
-
-### Profit Efficiency
+## Profit Efficiency
 
 We can also look at cash profits as a per turn rate.  It's simpler to start by assuming relations and stocks are max:
 
@@ -383,3 +381,17 @@ Returns diminish and the curve flattens out as with experience.  Increases beyon
 |8|0.3527|7%|
 |9|0.3737|6%|
 |10|0.3928|5%|
+
+A longer route is always more effective.  But as the routes get longer that extra sector means less in terms of turn efficiency.
+
+## Jump Trade Efficiency
+
+Jump drives save turns on trips longer than 10 sectors.  They use about 80% of the turns, on average, required to make trips longer than 15 sectors.  This makes a noticable difference on long routes:
+
+![](https://wiki.smrealms.de/uploads/jumpExperienceEfficiency.png "")
+
+And the profit chart:
+
+![](https://wiki.smrealms.de/uploads/jumpProfitEfficiency.png "")
+
+The efficiency boost from the jump drive is significant.  In perspective, an ADS or ACV on a route 15 or more sectors long has an effective trade power of 3000.  That's as good as it gets.
