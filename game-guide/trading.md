@@ -348,3 +348,38 @@ Experience efficiency can also be multiplied by trade power to easily derive exp
 |6|231|260|288|
 
 Put in to words, a Freighter on a perfect 3x will generate experience at the same rate as a Planetary Freighter on a perfect 4x or a Planetary Super Freighter on a perfect 6x.  This is only for time spent trading.  In practice, the faster ship will perform better because they are less affected by overhead turn loss.
+
+
+
+### Profit Efficiency
+
+We can also look at cash profits as a per turn rate.  It's simpler to start by assuming relations and stocks are max:
+
+Ideal Buy Price = 0.0315 &times; (Buy Value &times; Cargo) &times; (Distance Factor ^ 1.3) &times; 1 &times; 1  
+Ideal Sell Price = 0.084 &times; (Sell Value &times; Cargo) &times; (Distance Factor ^ 1.3) &times; 2 &times; 3
+
+And remember turns per route trip:  
+Turns = 2 &times; Distance + 4
+
+Profit efficiency is sell minus buy over turns spent.  We can throw out the value &times; cargo and clean up a bit:
+
+Profit Eff. = ((0.504 &times; D^1.3) - (0.0315 &times; d^1.3)) / (2 &times; D + 4)
+
+In terms of credits per turn per cargo per value.  Charting that over a range of common distances gives us this chart:
+
+![](https://wiki.smrealms.de/uploads/profitEfficiency.png "")
+
+Returns diminish and the curve flattens out as with experience.  Increases beyond 20x are worth less than 2%.
+
+|Route distance|Credits/cargovalueturn|increase over last amount|
+|-|-|-|
+|1|0.0788|inf.|
+|2|0.1454|85%|
+|3|0.1971|36%|
+|4|0.2388|21%|
+|5|0.2735|15%|
+|6|0.3033|11%|
+|7|0.3294|9%|
+|8|0.3527|7%|
+|9|0.3737|6%|
+|10|0.3928|5%|
