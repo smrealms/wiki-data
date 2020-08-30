@@ -11,12 +11,12 @@ There are several ways to contact the admins of SMR.
 # Admin Team
 Below are the current administrators of Space Merchant Realms
 
-| Name	| Position |
-| --- | --- |
-| MrSpock	 | Owner/Founder |
-| Travdan |  Coder |
-| Hot MaMa |  All-Purpose Admin |
-| Nika | General Admin |
+| Name	| Position | Years Active |
+| --- | --- | --- |
+| MrSpock	 | Owner/Founder | 2003- |
+| Travdan |  Coder | 2017- |
+| Hot MaMa |  All-Purpose Admin | 2017- |
+| Nika | General Admin | 2018- |
 
 
 # Community Contributors
@@ -26,14 +26,15 @@ We would like to recognize the following people for their contributions to the c
 | Name |	Contribution |
 | --- | --- |
 | Page | LazyTrader |
+| Edgecrusher | MGU |
 | kinky	 | Beta Team |
 | Freon22	 | CSS/Template Design |
 
 # Past Admins
 
-| Name	| Position |
-| --- | --- |
-| Graknon | General Admin |
+| Name	| Position | Years Active |
+| --- | --- | --- |
+| Graknon | General Admin | 2018 |
 | Page |	Coder |
 | Curufir |	Coder |
 | Bouncer	| Head Admin, Wiki, Forum, IRC |
