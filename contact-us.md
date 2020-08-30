@@ -14,12 +14,9 @@ Below are the current administrators of Space Merchant Realms
 | Name	| Position |
 | --- | --- |
 | MrSpock	 | Owner/Founder |
-| Page |	Coder |
 | Travdan |  Coder |
-| Curufir |	Coder |
 | Hot MaMa |  All-Purpose Admin |
 | Nika | General Admin |
-| Graknon | General Admin |
 
 
 # Community Contributors
@@ -28,6 +25,7 @@ We would like to recognize the following people for their contributions to the c
 
 | Name |	Contribution |
 | --- | --- |
+| Page | LazyTrader |
 | kinky	 | Beta Team |
 | Freon22	 | CSS/Template Design |
 
@@ -35,6 +33,9 @@ We would like to recognize the following people for their contributions to the c
 
 | Name	| Position |
 | --- | --- |
+| Graknon | General Admin |
+| Page |	Coder |
+| Curufir |	Coder |
 | Bouncer	| Head Admin, Wiki, Forum, IRC |
 | RCK (Red Cross Knight)	| Head Admin, Wiki, Forum, IRC |
 | Azool	| Head Admin, Wiki, Forum, IRC, Coder |
