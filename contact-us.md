@@ -13,10 +13,10 @@ Below are the current administrators of Space Merchant Realms
 
 | Name	| Position | Years Active |
 | --- | --- | --- |
-| MrSpock	 | Owner/Founder | 2003- |
-| Travdan |  Coder | 2017- |
-| Hot MaMa |  All-Purpose Admin | 2017- |
-| Nika | General Admin | 2018- |
+| MrSpock	 | Owner/Founder | 2003– |
+| Travdan |  Coder | 2017– |
+| Hot MaMa |  All-Purpose Admin | 2017– |
+| Nika | General Admin | 2018– |
 
 
 # Community Contributors
