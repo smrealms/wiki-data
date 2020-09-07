@@ -361,7 +361,7 @@ Turns = 2 &times; Distance + 4
 
 Profit efficiency is sell minus buy over turns spent.  We can throw out the value &times; cargo and clean up a bit:
 
-Profit Eff. = ((0.504 &times; D^1.3) - (0.0315 &times; d^1.3)) / (2 &times; D + 4)
+Profit Eff. = ((0.504 &times; D^1.3) - (0.0315 &times; D^1.3)) / (2 &times; D + 4)
 
 In terms of credits per turn per cargo per value.  Charting that over a range of common distances gives us this chart:
 
