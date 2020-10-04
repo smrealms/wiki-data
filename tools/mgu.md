@@ -11,7 +11,7 @@ MGU is a very useful aid to navigation in the SMR universe it was first made aro
 
 * Step 2: Install the newest version of the .Net framework that is provided by Microsoft.
 
-* Step 4: Run the MGU.exe program.
+* Step 3: Run the MGU.exe program.
 
 
 ## Installing pre-made MGU maps
