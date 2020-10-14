@@ -7,6 +7,7 @@ Below are some user-contributed tutorials. Please keep in mind they are based on
 * [A Guide To Running a Successful Op](tutorials/successful-op) by Ardbeg
 * [Smart Trading](tutorials/smart-trading) by XDemonX, edited by vierafran
 * [Smart Hunting](tutorials/smart-hunting) by XDemonX, edited by vierafran
+* [For Those New to Operations](tutorials/newbie-op)
 
 # Video Tutorials
 * SMR Boot Camp by Snake
