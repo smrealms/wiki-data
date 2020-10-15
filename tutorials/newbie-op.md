@@ -25,7 +25,7 @@ A bit of the why behind those rules:
 
 ### What to do when you die:
 Ask the op leader if you’re returning.  If the op is nearly over you may just be done.  If it’s still going on a while you’ll need to buy a new ship, arm it, and return to the group.  
-You should make a note of the locations you need to re-arm.  Bank, ship dealer, uno/drones, any special equipment you need, and weapon shops.  You should also know ahead of time how much money it takes to get all those things.  And you should end up with 3-4 million extra so you can keep repairing.  This planning is an underrated time saver.
+You should make a note of the locations you need to re-arm.  Bank, ship dealer, uno/drones, any special equipment you need, and weapon shops.  You should also know ahead of time how much money it takes to get all those things.  And you should end up with 3-4 million extra so you can keep repairing.  This planning is an underrated time saver. It is often helpful to make a note of important locations in your "Stored Destinations" on the "Plot A Course" page.
 
 ### How to be the trigger: 
 Count how many ships your group has.  Sit with the target at the current sector screen.  Wait for ships to be present and repaired.  Fire when you have all your ships and they are sufficiently repaired.
