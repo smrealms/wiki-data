@@ -20,7 +20,7 @@ Following these three rules will lead to the correct action in nearly all situat
 
 A bit of the why behind those rules:
  - Ports and planets are big and have a lot of firepower.  Time must be taken to assess/repair damaged ships between shots.  To keep order an op leader will designate a single person responsible for firing.  This person is colloquially called a trigger.
- - Operations are a structured form of group combat.  The key word there is group.  If you find your way in to combat all by yourself you’re likely do die.  The safest place to be is with your alliance mates.  Op leaders will often set a flag on their sector that indicates position.  Use the local map to watch it.
+ - Operations are a structured form of group combat.  The key word there is group.  If you find your way into combat all by yourself you’re likely to die.  The safest place to be is with your alliance mates.  Op leaders will often set a flag on their sector that indicates position.  Use the local map to watch it.
  - The op leader needs to have tactical control.  He or she will need to order groups or individual ships to move to positions or complete tasks vital to operational success.  A tactical blunder made as a group will usually be more successful than a cunning move executed as an individual.
 
 ### What to do when you die:
