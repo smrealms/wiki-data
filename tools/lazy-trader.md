@@ -1,7 +1,7 @@
 <!-- TITLE: Lazy Trader -->
 <!-- SUBTITLE: A third-party tool -->
 
-Download from the [SMR Web Board](https://smrcnn.smrealms.de/viewtopic.php?f=68&t=9452).
+Download the latest .jar file from [GitHub: TheLazyTrader releases](https://github.com/smrealms/TheLazyTrader/releases).
 
 It's a java application, so you will need java to be able to run it. You can get java at: http://www.java.com Once java is installed it should be as simple as double-clicking the file and it will run just like a .exe (except it should work on all operating systems) Note: On some distributions of linux you can't just click to run it and will instead have to use the terminal command `java -jar TheLazyTrader.X.X.X.jar` from the same working directory as the .jar (Changing the x's to the version you have)
 
