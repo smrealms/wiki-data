@@ -1,9 +1,9 @@
 <!-- TITLE: Lazy Trader -->
 <!-- SUBTITLE: A third-party tool -->
 
-Download the latest .jar file from [GitHub: TheLazyTrader releases](https://github.com/smrealms/TheLazyTrader/releases).
+Download the latest .exe (Windows-only) or .jar (cross-platform) file from [GitHub: TheLazyTrader releases](https://github.com/smrealms/TheLazyTrader/releases).
 
-It's a java application, so you will need java to be able to run it. You can get java at: http://www.java.com Once java is installed it should be as simple as double-clicking the file and it will run just like a .exe (except it should work on all operating systems) Note: On some distributions of linux you can't just click to run it and will instead have to use the terminal command `java -jar TheLazyTrader.X.X.X.jar` from the same working directory as the .jar (Changing the x's to the version you have)
+It's a java application, so you will need java to be able to run it. You can get java at: http://www.java.com. Once java is installed it should be as simple as double-clicking the file and it will run just like a .exe (except it should work on all operating systems). Note: On some distributions of linux you can't just click to run it and will instead have to use the terminal command `java -jar TheLazyTrader.X.X.X.jar` from the same working directory as the .jar (Changing the x's to the version you have).
 
 For Mac OS X it may be necessary to change the default Java to version 6 (the latest) from version 5. To do this go to `/Applications/Utilities/Java/Java Preferences.app` and move Java SE 6 to the top.
 
