@@ -5,10 +5,10 @@
 ## Multiple Accounts
 
 * Each player is allowed to make 1 additional account ("multi").
-* A player may not kill their multi (50 ban points for arranged kill).
 * No existing account may be used as a multi. All multies must be made using new accounts.
-* For the email of the new account, use the login for your first account with a multi tag (example: MyAccountName-Multi@smrealms.de)
-* In order to validate the account, you must contact an admin for the validation code. This is to ensure each player only has 1 account. Individuals who do not notify an admin within 48 hours of creating the account will have their multi banned.
+* For the email of the new account, use the login for your first account with a multi tag and the @smrealms.de domain (example: MyLogin-multi@smrealms.de).
+* In order to validate the account, you must contact an admin for the validation code. This is to ensure each player only has 1 account. Individuals who do not notify an admin within 48 hours of creating the account will have their multi disabled.
+* A player may not intentionally engage in combat with their multi (50 ban points for arranged kill).
 * Any infractions that occur on one account will result in punishment for both accounts.
 * All veteran players that make a multi will have that multi start out as a veteran. Newbie and Beginner-ranked players will have a newbie multi.
 * Multi-boxing is allowed with your main account and your multi account. This means you can be logged in on both accounts at once, whether it is multiple browsers or multiple devices. 
