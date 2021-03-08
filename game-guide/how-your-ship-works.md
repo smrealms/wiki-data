@@ -1,6 +1,12 @@
-<!-- TITLE: How Your Ship Works -->
-<!-- SUBTITLE: A quick summary of How Your Ship Works -->
-
+---
+title: How Your Ship Works
+description: A quick summary of How Your Ship Works
+published: 1
+date: 2021-03-08T01:39:25.918Z
+tags: 
+editor: markdown
+dateCreated: 2021-02-25T08:50:31.813Z
+---
 
 There are many different types of ships, but they all work in the same basic way. Each ship is equipped with shields and armor for protection against attack. Most ships have weapons and cargo holds, and some have configurable hardware. Each ship has a "speed" measured in turns per hour. They all can move from sector to sector using the local map or using the current sector view and all ships have a course plotter. This section will give you information on how your ship works for these basic functions.
 
@@ -103,7 +109,21 @@ This screenshot details turns, cash on hand, alignment and all other trader info
 
 Space Merchant Realms is a turn-based game. Almost everything you do in-game will cost you turns. The number of turns you have is shown in the upper right part of the screen. You are only able to move or act in the game if you have enough turns to do it. **Below is a chart that shows which actions cost you turns and how many.**
 
-**Turn Cost Activity 1 turn Moving from one sector to another. 1 turn Landing on a Planet. 1 turn Buying or Selling goods. 1 turn Dumping cargo. 1 turn Cloaking. 1 turn running into a single mine. 3 turns Attacking a trader. 3 turns Attacking a port. 3 turns Attacking a planet. 3 turns Attacking forces. 5 turns Moving through a galaxy warp. 10+ turns Using a jump drive. This is based on how far the jump is and if you want to jump more than one galaxy.
+| Turn Cost | Activity |
+|-------|-------|
+| 1 turn |Moving from one sector to another|
+| 1 turn |Landing on a Planet|
+| 1 turn |Buying or Selling goods|
+| 1 turn |Dumping cargo|
+| 1 turn |Cloaking|
+| 1 turn |Running into a single mine|
+| 2 turns |Attacking a port (all participants)|
+| 3 turns |Attacking a trader|
+| 3 turns |Attacking a planet|
+| 3 turns* |Attacking forces (except Federal ships and ships with Drone Scramblers)|
+| 5 turns |Moving through a galaxy warp|
+| 10+ turns |Using a jump drive (dependent on jump distance)|
+
 You gain turns normally over the course of an hour. The number of turns you get per hour (TPH) depends on the type of ship you have and is referred to as ship speed. Each ship has a base TPH value. The TPH of your current ship is shown on the Trader information screen. If the speed of a particular game is greater than 1.0, then the tph is increased accordingly.**
 
 # **Newbie Turns**
