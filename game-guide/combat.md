@@ -13,7 +13,7 @@ When your ship is attacked, it will return fire automatically (as long as you ha
 Ship to ship combat requires practice. Different players use different strategies and weapon configurations. Try asking other players in the game what they use. Most players are more than willing to help out curious, new players.
 
 # Planets
-This section is about attacking planets. For general information about planets, see [Locations: Planets](locations#planets). 
+This section is about attacking planets. For general information about planets, see [Locations: Planets](/game-guide/locations#planets). 
 
 | Types of planets |
 | --- |
@@ -35,7 +35,7 @@ Planets start out with no buildings at all. Construction of buildings can begin 
 Planets can serve as a relatively safe place to park your ship, but no planet is 100% safe. Even the strongest planet can can fall to a well organized attacking fleet of warships.
 
 # Ports
-This section is about attacking ports. For general information about ports, see [Locations: Ports](locations#ports).
+This section is about attacking ports. For general information about ports, see [Locations: Ports](/game-guide/locations#ports).
 
 As ports increase in level, they are able to afford better defenses. If your ship is equipped with a scanner, then when you click the RAID button at a port, you will have the opportunity to see what its defenses are before confirming the attack order.
 

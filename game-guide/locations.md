@@ -17,7 +17,7 @@ Trading at a port is done by clicking the TRADE button and bargaining with the p
 
 Ports can also be raided by clicking the RAID button, but be warned: ports are heavily defended by laser turrets and thousands of combat drones. Only a fleet of well-armed warships can hope to raid a port successfully, but the payoff is often worth the risk.
 
-See also: [Attacking Ports](combat#ports)
+See also: [Attacking Ports](/game-guide/combat#ports)
 
 # **Planets**
 
@@ -31,7 +31,7 @@ Some planets have a bank vault which can store cash. The vault can be accessed b
 
 Planets can serve as a relatively safe place to park your ship, but no planet is 100% safe and even high level planets can fall to a well organized attacking fleet of warships.
 
-See also: [Attacking Planets](combat#planets)
+See also: [Attacking Planets](/game-guide/combat#planets)
 
 # **Shops**
 
@@ -45,7 +45,7 @@ Shops are locations where players can buy and sell different types of items besi
 
 <img src="https://www.smrealms.de/images/hardware.png"> UNO - this shop sells shields, armor, and cargo holds
 
-<img src="https://www.smrealms.de/images/hardware.png"> [CIJSD](how-your-ship-works#CIJSD) accessory shops will also share this icon.
+<img src="https://www.smrealms.de/images/hardware.png"> [CIJSD](/game-guide/how-your-ship-works#CIJSD) accessory shops will also share this icon.
 
 
 # **Warps**

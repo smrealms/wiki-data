@@ -3,7 +3,7 @@
 
 # Contributing
 
-The content on this site is maintained by the community. If you would like to contribute, please [create an account](login) and then [contact an admin](contact-us) so that we can give you editor permissions.
+The content on this site is maintained by the community. If you would like to contribute, please [create an account](/login) and then [contact an admin](/contact-us) so that we can give you editor permissions.
 
 # Important Links
 * [Space Merchant Realms](http://www.smrealms.de)
@@ -11,16 +11,16 @@ The content on this site is maintained by the community. If you would like to co
 * [SMR Discord Server](https://discord.me/smrealms)
 
 # Table of Contents
-You can browse all pages in the wiki [here](all).
+You can browse all pages in the wiki [here](/all).
 
-* [Chat Servers](chat)
-* [Contact Us](contact-us)
-* [Game Guide](game-guide)
-* [Glossary](glossary)
-* [Rules](rules)
-* [Storyline](storyline)
-* [Tools & Programs](tools)
-* [Tutorials](tutorials)
+* [Chat Servers](/chat)
+* [Contact Us](/contact-us)
+* [Game Guide](/game-guide)
+* [Glossary](/glossary)
+* [Rules](/rules)
+* [Storyline](/storyline)
+* [Tools & Programs](/tools)
+* [Tutorials](/tutorials)
 
 # Social Media
 * [SMR Twitter](https://twitter.com/smrealms)

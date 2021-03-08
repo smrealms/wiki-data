@@ -69,7 +69,7 @@ Offending players are automatically given 10 points for each hop, regardless if 
 
 ## Proper Channels of Communication
 
-If anyone needs to report a problem, immediately [message an administrator](contact-us). If an admin is unavailable, message a Committee member or Chat OP. They will pass on the message.
+If anyone needs to report a problem, immediately [message an administrator](/contact-us). If an admin is unavailable, message a Committee member or Chat OP. They will pass on the message.
 
 Any public complaints of an administrator, webboard mod, or chat mod's actions will result in 5-40 points on a case-by-case basis.
 
@@ -120,7 +120,7 @@ Players are expected to abide by IRC Network and Discord rules in addition to ru
 * Since the only language that all of the ops speak is English, it is the only language allowed in #smr. If you want to speak other languages feel free to do it in other rooms or in PMs.
 * Ban hopping (logging in from another IP after you get banned and similar activities) is striclty forbidden.
 * Bots are allowed only with Spock's permission.
-* Complaints about kicks/bans are to be made in [private](contact-us) (PM, email). Complaints in chat are not allowed.
+* Complaints about kicks/bans are to be made in [private](/contact-us) (PM, email). Complaints in chat are not allowed.
 
 
 ## TheAirlock IRC Network Rules
@@ -150,4 +150,4 @@ The amount of stops at lower levels can be decreased if:
 * The offence is especially severe (for example, spamming or impersonation of an old and well known member of community)
 * Other special circumstances are at hand
 
-In extreme cases of severe and/or multiple offences long term bans will be issued. In especially severe cases, including, but not limited to ban hopping in game action will be taken. If you disagree with the action taken against you please [contact an admin](contact-us).
+In extreme cases of severe and/or multiple offences long term bans will be issued. In especially severe cases, including, but not limited to ban hopping in game action will be taken. If you disagree with the action taken against you please [contact an admin](/contact-us).

@@ -22,6 +22,6 @@ Below are some user-contributed tutorials. Please keep in mind they are based on
   - [Part 2 - Basic game controls](/uploads/boot-camp/part2.html)
   - [Part 3 - Movement and exploration](/uploads/boot-camp/part3.html)
   - [Part 4 - Trading](/uploads/boot-camp/part4.html)
-  - [Part 5 - Buying hardware, ships, and Fed explained](uploads/boot-camp/part5.html)
+  - [Part 5 - Buying hardware, ships, and Fed explained](/uploads/boot-camp/part5.html)
   - [Part 6 - Getting help](/uploads/boot-camp/part6.html)
   - [Part 7 - Banking, scanning, and mines](/uploads/boot-camp/part7.html)

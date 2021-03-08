@@ -80,7 +80,7 @@ The highest experience council member with 150+ alignment is made president.  Th
 
 The war and peace votes don't matter as much as you may think.  Any race that gets to -300 is considered to be at war.  Any race that gets to 300 is considered to be at peace.  The declaration doesn't have to happen via a vote called by the president. Instead, it can happen slowly over time by the daily relations votes by council members. 
 
-There is a [section on political councils for more detailed information.](https://wiki.smrealms.de/game-guide/politics)
+There is a [section on political councils for more detailed information.](/game-guide/politics)
 
 Relations are very important to trading.  It is nearly impossible to turn a profit at a port when your relations are low.  If you are on the council it is imperative that you vote.  Either vote to improve relations with the races who own the ports you trade.  Or vote to reduce relations with others who are sapping your routes.  Remembering to look at the council screen daily is an important part of trading.
 
@@ -106,7 +106,7 @@ Finding a route is a matter of finding ports with good distance numbers.  It's a
 
 Download an SMR file using the button on the lower left panel after you have the galaxy fully explored.  Use The Lazy Trader to open the SMR file you downloaded and use the trade routes function to compute routes.  You will have to configure which goods you can trade depending on your alignment and which races you can trade with depending on your relations.
 
-The Lazy Trader can be found at [the game guide page for it](https://wiki.smrealms.de/tools/lazy-trader).
+The Lazy Trader can be found at [the game guide page for it](/tools/lazy-trader).
 
 Also realize that scouting the galaxy costs quite a few turns.  Alliances are able to share maps which means the task can be split and the burden reduced.  This is a heavily team based game even when you're trading.
 
@@ -332,7 +332,7 @@ Where the experience factor in the numerator is being multiplied by 4 because we
 
 And the following chart:
 
-![](https://wiki.smrealms.de/uploads/experienceEfficiency.png "")
+![](/uploads/experienceEfficiency.png "")
 
 The takeaway is experience returns diminish sharply on route length.  Increases beyond a 13x distance are less than 1%.  Longer routes are still more efficient and more valuable but the difference becomes less and less as they grow.
 
@@ -365,7 +365,7 @@ Profit Eff. = ((0.504 &times; D^1.3) - (0.0315 &times; D^1.3)) / (2 &times; D + 
 
 In terms of credits per turn per cargo per value.  Charting that over a range of common distances gives us this chart:
 
-![](https://wiki.smrealms.de/uploads/profitEfficiency.png "")
+![](/uploads/profitEfficiency.png "")
 
 Returns diminish and the curve flattens out as with experience.  Increases beyond 20x are worth less than 2%.
 
@@ -388,10 +388,10 @@ A longer route is always more effective.  But as the routes get longer that extr
 
 Jump drives save turns on trips longer than 10 sectors.  They use about 80% of the turns, on average, required to make trips longer than 15 sectors.  This makes a noticable difference on long routes:
 
-![](https://wiki.smrealms.de/uploads/jumpExperienceEfficiency.png "")
+![](/uploads/jumpExperienceEfficiency.png "")
 
 And the profit chart:
 
-![](https://wiki.smrealms.de/uploads/jumpProfitEfficiency.png "")
+![](/uploads/jumpProfitEfficiency.png "")
 
 The efficiency boost from the jump drive is significant.  In perspective, an ADS or ACV on a route 15 or more sectors long has an effective trade power of 3000.  That's as good as it gets.
