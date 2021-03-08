@@ -1,5 +1,12 @@
-<!-- TITLE: Alignment -->
-<!-- SUBTITLE: A quick summary of Alignment -->
+---
+title: Alignment
+description: A quick summary of Alignment
+published: 1
+date: 2021-03-08T01:31:47.682Z
+tags: 
+editor: markdown
+dateCreated: 2021-02-25T08:50:08.146Z
+---
 
 # Alignment
 
@@ -11,4 +18,4 @@ You need at least 100 alignment to buy Federal ships, or -100 to purchase Underg
 
 ## Weapon Restrictions
 
-Alignment also plays a role in how many weapons you may safely have on your ship and still receive [Federal Protection](protection#federal-protection).
+Alignment also plays a role in how many weapons you may safely have on your ship and still receive [Federal Protection](/game-guide/protection#federal-protection).
