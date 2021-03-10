@@ -1,8 +1,8 @@
 ---
 title: Map Design Considerations
 description: 
-published: 1
-date: 2021-03-10T20:14:26.750Z
+published: 0
+date: 2021-03-10T20:17:15.338Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-10T20:14:26.750Z
