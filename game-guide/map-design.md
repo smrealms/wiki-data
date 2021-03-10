@@ -2,13 +2,18 @@
 title: Map Design Considerations
 description: 
 published: 1
-date: 2021-03-10T20:16:44.959Z
+date: 2021-03-10T20:24:56.708Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-10T20:16:44.959Z
 ---
 
 # Map Design Considerations
+
+> This page relates to the "Universe Generator" Admin Tool. It is not relevant to normal gameplay.
+{.is-info}
+
+
 ## Intro
 This is an archive of core concepts that should be considered when designing maps.  The estimated normal values may be totally useless depending on the context of the game and what you're trying to design.  They're just there to provide a ball park where balance may be found under average conditions.
 
