@@ -1,5 +1,12 @@
-<!-- TITLE: Forces -->
-<!-- SUBTITLE: A quick summary of Forces -->
+---
+title: Forces
+description: A quick summary of Forces
+published: 1
+date: 2021-03-10T01:07:16.271Z
+tags: 
+editor: markdown
+dateCreated: 2021-02-25T08:50:26.963Z
+---
 
 # **Mines**
 
@@ -7,9 +14,10 @@ When a ship enters a sector that contains mines, the ship will hit the mines and
 
 Some effects of entering a mined sector:
 * Sometimes no mines will hit a ship entering a mined sector, but the player who enters the sector will ALWAYS get an attack screen as his guns fire on the mine(s).
-* Hitting mines costs 3 turns, exception being Nijarin ships and Federal ships costing 2 turns. 
+* Hitting mines costs up to 3 turns.  The cost is always 1 turn less for Nijarin ships and Federal ships. 
 * Hitting mines will stop your plotted course if you were following your plot computer and you will have to re-plot to your destination.
 * Hitting mines will uncloak a cloaked ship.
+
 
 How mines damage your ship:
 * Each mine that hits will do 20 damage.
@@ -17,6 +25,12 @@ How mines damage your ship:
 * Federal ships take half damage from mines (10 damage).
 * If you run into mines (you enter a sector and they attack), and you have shields, the mines will always stop when you no longer have shields.
 * If you attack mines (you are already in sector, and instead of moving, you fire on the mines), and you have shields left, the damage from mines will wrap around and do armor damage too.
+
+Some further detail on the math behind mines:
+* Hitting a stack containing less than 10 mines costs 1 turn, 11 to 24 mines costs 2 turns, and 25 or more mines costs 3 turns.
+* The portion of the mine stack you hit is affected by how many connections there are to the mined sector
+* If it's a dead end sector you hit all the mines not avoided by other factors.  If there are 2 connections you take 66% of that.  With 3 connectors it's 52%.  With 4 it's 44%.  And with 5 it's 38%.  Warps count as one connector.
+* The odds favor higher level players hitting less mines.
 
 Helpful hints:
 > When you hit mines and get the attack screen, click Current Sector to see what or who is in sector with you. Often times as you fly around in your ship, you hit a single mine left behind by a trader or hunter who was recently in the area. When you look at the current sector, there are no mines left because you just shot them or they crashed against your hull. So you can then continue on to your destination.
