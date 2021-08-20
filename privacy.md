@@ -2,7 +2,7 @@
 title: Privacy Policy
 description: 
 published: 1
-date: 2021-08-20T18:32:23.963Z
+date: 2021-08-20T18:47:52.783Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-20T17:49:17.497Z
@@ -49,7 +49,7 @@ We will make every effort possible to ensure that your Personal Data is stored s
 Should you wish to delete your Personal Data from our Service, please [contact us](#contact-us) so that we may fulfill your request.
 
 # Links to Other Websites
-Space Merchant Realms may contain links to other websites that are not operated by us. If You click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+Space Merchant Realms may contain links to other websites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 # Changes to this Privacy Policy
 We may update this Privacy Policy from time to time. We will notify you by email and/or a prominent notice on our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
