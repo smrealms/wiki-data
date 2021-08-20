@@ -1,5 +1,12 @@
-<!-- TITLE: Space Merchant Realms Wiki -->
-<!-- SUBTITLE: Welcome to the SMR Wiki! -->
+---
+title: Space Merchant Realms Wiki
+description: Welcome to the SMR Wiki!
+published: 1
+date: 2021-08-20T16:41:11.189Z
+tags: 
+editor: markdown
+dateCreated: 2021-02-25T08:49:44.386Z
+---
 
 # Contributing
 
@@ -17,6 +24,7 @@ You can browse all pages in the wiki [here](/all).
 * [Contact Us](/contact-us)
 * [Game Guide](/game-guide)
 * [Glossary](/glossary)
+* [Privacy Policy](/privacy)
 * [Rules](/rules)
 * [Storyline](/storyline)
 * [Tools & Programs](/tools)
