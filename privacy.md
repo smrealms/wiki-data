@@ -2,7 +2,7 @@
 title: Privacy Policy
 description: 
 published: 1
-date: 2021-08-20T17:49:17.497Z
+date: 2021-08-20T18:32:23.963Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-20T17:49:17.497Z
@@ -18,9 +18,6 @@ This Privacy Policy describes our policies and procedures on the collection, use
 When registering for an account with Space Merchant Realms, you will be asked to provide us with the following personally identifiable information that can be used to contact or identify you:
 * E-mail address
 
-### Usage Data
-Usage Data is collected automatically when playing Space Merchant Realms. This may include information such as your IP address, browser type, browser version, the time and date of your visit, and other diagnostic data.
-
 ### Registration from Third-Party Social Media Services
 Space Merchant Realms allows you to create an account and log in through the following Third-party Social Media Services:
 * Google
@@ -28,6 +25,9 @@ Space Merchant Realms allows you to create an account and log in through the fol
 * Twitter
 
 If you decide to register through a Third-Party Social Media Service, we will also collect the unique ID associated with your Social Media Account.
+
+### Usage Data
+Usage Data is collected automatically when playing Space Merchant Realms. This may include information such as your IP address, browser type, browser version, the time and date of your visit, and other diagnostic data.
 
 ### Tracking Technologies and Cookies
 We use Cookies and similar tracking technologies to ensure the proper functioning of Space Merchant Realms. They help to authenticate users, prevent fraudulent use, and to remember choices you make between pages.
@@ -45,6 +45,8 @@ We **will not share** any personal information with any other entity for any pur
 Space Merchant Realms will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy.
 
 We will make every effort possible to ensure that your Personal Data is stored securely. Please bear in mind that no method of electronic storage is ever 100% secure.
+
+Should you wish to delete your Personal Data from our Service, please [contact us](#contact-us) so that we may fulfill your request.
 
 # Links to Other Websites
 Space Merchant Realms may contain links to other websites that are not operated by us. If You click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
