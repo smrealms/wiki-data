@@ -1,0 +1,470 @@
+<!--
+title: Enhanced Weapons
+description: extracting value from enhanced weapons
+published: 0
+date: 2022-03-18T00:42:38.369Z
+tags: 
+editor: ckeditor
+dateCreated: 2022-03-18T00:42:38.369Z
+-->
+
+<h1>Enhanced Weapons and You</h1>
+<h4>How I Learned to Love the ++Nuke</h4>
+<h2>Intro</h2>
+<p>Enhanced weapons can be very powerful but some of them are utter crap. &nbsp;This means, like everything else SMR, we're rolling the dice by spending turns on them. &nbsp;Is it worth it to repeatedly go out and check for enhanced weapons if the bar is nearby? &nbsp;Probably. &nbsp;And do you spend turns to check it when it's in another galaxy? &nbsp;I don't know, probably not, are we Thevian or Creonti?</p>
+<p>The point of my rambling is this: through some trial and error, and a bit of reading the game code, some tricks have been found to streamline the hunt for enhanced weapons. &nbsp;This is current as of game 145.</p>
+<h2>Important Meaty Details</h2>
+<p>The tip, in credits, required to unlock information about an enhanced weapon is based on the type of weapon and the enhancement level. &nbsp;This is the largest meaty bit in this tutorial. &nbsp;It means that you can spend credits guessing and, once you've narrowed down the amount where the bartender spills the beans, narrow down the type and enhancement to one of a few options. &nbsp;This is important later in the game, when money is limitless, because it allows you to spend money to save turns. &nbsp;There is a table below, sorted by credit cost, that can be used to reference the weapon back from the tip cost.</p>
+<p>There is a 6 hour timeout on the enhanced weapon events. &nbsp;If we tip the man at 04:00, that weapon will be available until 10:00.</p>
+<p>There is a 5 hour timer on opening new events. &nbsp;If we tip at 04:00, every person who tips will get the same tip until 09:00.</p>
+<p>All bars give the same tip during an event. &nbsp;If you get info on a ++HHG in the Alskant galaxy, you're going to get the same tip out in Sombrero or Manton.</p>
+<p>The events are triggered by tipping the bartender. &nbsp;If nobody tips any bartenders from 05:00 until 23:00, no events were generated and no enhanced weapons were available.</p>
+<p>For each 100 events:</p>
+<ul>
+  <li>40 will be single plus enhanced for damage</li>
+  <li>40 will be single plus enhanced for accuracy</li>
+  <li>20 will be double plus enhanced</li>
+</ul>
+<h2>Enhanced Weapon Signature Table</h2>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <td>weapon</td>
+        <td>tip signature</td>
+      </tr>
+      <tr>
+        <td>+Small Laser</td>
+        <td>4501</td>
+      </tr>
+      <tr>
+        <td>+Projectile Cannon Lvl 1</td>
+        <td>4751</td>
+      </tr>
+      <tr>
+        <td>+Shield Disruptor</td>
+        <td>6501</td>
+      </tr>
+      <tr>
+        <td>++Small Laser</td>
+        <td>6751</td>
+      </tr>
+      <tr>
+        <td>++Projectile Cannon Lvl 1</td>
+        <td>7126</td>
+      </tr>
+      <tr>
+        <td>+Nijarin Ion Pulse Phaser</td>
+        <td>7501</td>
+      </tr>
+      <tr>
+        <td>+Thevian Rail Gun</td>
+        <td>7751</td>
+      </tr>
+      <tr>
+        <td>+Projectile Cannon Lvl 2</td>
+        <td>7751</td>
+      </tr>
+      <tr>
+        <td>+Ik-Thorne Rapid Fire Cannon</td>
+        <td>9626</td>
+      </tr>
+      <tr>
+        <td>+Anti-Ship Missile</td>
+        <td>9626</td>
+      </tr>
+      <tr>
+        <td>++Shield Disruptor</td>
+        <td>9751</td>
+      </tr>
+      <tr>
+        <td>+Anti-Ship Missile (Heat-Seeking)</td>
+        <td>10001</td>
+      </tr>
+      <tr>
+        <td>++Nijarin Ion Pulse Phaser</td>
+        <td>11251</td>
+      </tr>
+      <tr>
+        <td>++Thevian Rail Gun</td>
+        <td>11626</td>
+      </tr>
+      <tr>
+        <td>++Projectile Cannon Lvl 2</td>
+        <td>11626</td>
+      </tr>
+      <tr>
+        <td>++Ik-Thorne Rapid Fire Cannon</td>
+        <td>14438</td>
+      </tr>
+      <tr>
+        <td>++Anti-Ship Missile</td>
+        <td>14438</td>
+      </tr>
+      <tr>
+        <td>++Anti-Ship Missile (Heat-Seeking)</td>
+        <td>15001</td>
+      </tr>
+      <tr>
+        <td>+Ik-Thorne Accoustic Jammer</td>
+        <td>17001</td>
+      </tr>
+      <tr>
+        <td>+Projectile Cannon Lvl 3</td>
+        <td>18626</td>
+      </tr>
+      <tr>
+        <td>+Laser</td>
+        <td>19751</td>
+      </tr>
+      <tr>
+        <td>+Anti-Ship Missile (Guided)</td>
+        <td>21001</td>
+      </tr>
+      <tr>
+        <td>+WQ Human Flechette Cannon</td>
+        <td>22251</td>
+      </tr>
+      <tr>
+        <td>+Advanced Shield Disruptor</td>
+        <td>22501</td>
+      </tr>
+      <tr>
+        <td>+Alskant Anti-Shield System</td>
+        <td>23001</td>
+      </tr>
+      <tr>
+        <td>+Salvene Frag Missile</td>
+        <td>23251</td>
+      </tr>
+      <tr>
+        <td>+Ik-Thorne Cluster Missile</td>
+        <td>23501</td>
+      </tr>
+      <tr>
+        <td>+Torpedo Launcher</td>
+        <td>23501</td>
+      </tr>
+      <tr>
+        <td>+Human Space Shotgun</td>
+        <td>23626</td>
+      </tr>
+      <tr>
+        <td>+Creonti Particle Cannon</td>
+        <td>24751</td>
+      </tr>
+      <tr>
+        <td>+Thevian Flux Missile</td>
+        <td>24876</td>
+      </tr>
+      <tr>
+        <td>+Salvene Flux Resonator</td>
+        <td>25001</td>
+      </tr>
+      <tr>
+        <td>+Projectile Cannon Lvl 4</td>
+        <td>25501</td>
+      </tr>
+      <tr>
+        <td>++Ik-Thorne Accoustic Jammer</td>
+        <td>25501</td>
+      </tr>
+      <tr>
+        <td>+Alskant Pulse-Fist Missile</td>
+        <td>26751</td>
+      </tr>
+      <tr>
+        <td>++Projectile Cannon Lvl 3</td>
+        <td>27938</td>
+      </tr>
+      <tr>
+        <td>+Large Laser</td>
+        <td>29501</td>
+      </tr>
+      <tr>
+        <td>+Nijarin Ion Disrupter</td>
+        <td>29501</td>
+      </tr>
+      <tr>
+        <td>++Laser</td>
+        <td>29626</td>
+      </tr>
+      <tr>
+        <td>++Anti-Ship Missile (Guided)</td>
+        <td>31501</td>
+      </tr>
+      <tr>
+        <td>++WQ Human Flechette Cannon</td>
+        <td>33376</td>
+      </tr>
+      <tr>
+        <td>++Advanced Shield Disruptor</td>
+        <td>33751</td>
+      </tr>
+      <tr>
+        <td>++Alskant Anti-Shield System</td>
+        <td>34501</td>
+      </tr>
+      <tr>
+        <td>++Salvene Frag Missile</td>
+        <td>34876</td>
+      </tr>
+      <tr>
+        <td>++Ik-Thorne Cluster Missile</td>
+        <td>35251</td>
+      </tr>
+      <tr>
+        <td>++Torpedo Launcher</td>
+        <td>35251</td>
+      </tr>
+      <tr>
+        <td>++Human Space Shotgun</td>
+        <td>35438</td>
+      </tr>
+      <tr>
+        <td>++Creonti Particle Cannon</td>
+        <td>37126</td>
+      </tr>
+      <tr>
+        <td>++Thevian Flux Missile</td>
+        <td>37313</td>
+      </tr>
+      <tr>
+        <td>++Salvene Flux Resonator</td>
+        <td>37501</td>
+      </tr>
+      <tr>
+        <td>+Pulse Laser</td>
+        <td>38001</td>
+      </tr>
+      <tr>
+        <td>++Projectile Cannon Lvl 4</td>
+        <td>38251</td>
+      </tr>
+      <tr>
+        <td>+Human Multi-Phase Laser</td>
+        <td>39001</td>
+      </tr>
+      <tr>
+        <td>+WQ Human Multi-Phase Laser</td>
+        <td>39751</td>
+      </tr>
+      <tr>
+        <td>+Ik-Thorne Burst Laser System</td>
+        <td>40001</td>
+      </tr>
+      <tr>
+        <td>++Alskant Pulse-Fist Missile</td>
+        <td>40126</td>
+      </tr>
+      <tr>
+        <td>+Thevian Assault Laser</td>
+        <td>41376</td>
+      </tr>
+      <tr>
+        <td>+Alskant Space Flechette</td>
+        <td>42001</td>
+      </tr>
+      <tr>
+        <td>+Creonti Mole Missile</td>
+        <td>43251</td>
+      </tr>
+      <tr>
+        <td>+Creonti Shield Sucker</td>
+        <td>43251</td>
+      </tr>
+      <tr>
+        <td>++Large Laser</td>
+        <td>44251</td>
+      </tr>
+      <tr>
+        <td>++Nijarin Ion Disrupter</td>
+        <td>44251</td>
+      </tr>
+      <tr>
+        <td>+Salvene Chain Laser</td>
+        <td>45626</td>
+      </tr>
+      <tr>
+        <td>+Photon Torpedo</td>
+        <td>48501</td>
+      </tr>
+      <tr>
+        <td>+Nijarin Ion Phaser Beam</td>
+        <td>50001</td>
+      </tr>
+      <tr>
+        <td>+Insanely Large Laser</td>
+        <td>50501</td>
+      </tr>
+      <tr>
+        <td>+Human Photon Torpedo</td>
+        <td>51251</td>
+      </tr>
+      <tr>
+        <td>+Salvene EM Flux Cannon</td>
+        <td>52001</td>
+      </tr>
+      <tr>
+        <td>+Large Pulse Laser</td>
+        <td>56876</td>
+      </tr>
+      <tr>
+        <td>++Pulse Laser</td>
+        <td>57001</td>
+      </tr>
+      <tr>
+        <td>++Human Multi-Phase Laser</td>
+        <td>58501</td>
+      </tr>
+      <tr>
+        <td>++WQ Human Multi-Phase Laser</td>
+        <td>59626</td>
+      </tr>
+      <tr>
+        <td>++Ik-Thorne Burst Laser System</td>
+        <td>60001</td>
+      </tr>
+      <tr>
+        <td>++Thevian Assault Laser</td>
+        <td>62063</td>
+      </tr>
+      <tr>
+        <td>++Alskant Space Flechette</td>
+        <td>63001</td>
+      </tr>
+      <tr>
+        <td>++Creonti Mole Missile</td>
+        <td>64876</td>
+      </tr>
+      <tr>
+        <td>++Creonti Shield Sucker</td>
+        <td>64876</td>
+      </tr>
+      <tr>
+        <td>++Salvene Chain Laser</td>
+        <td>68438</td>
+      </tr>
+      <tr>
+        <td>++Photon Torpedo</td>
+        <td>72751</td>
+      </tr>
+      <tr>
+        <td>++Nijarin Ion Phaser Beam</td>
+        <td>75001</td>
+      </tr>
+      <tr>
+        <td>++Insanely Large Laser</td>
+        <td>75751</td>
+      </tr>
+      <tr>
+        <td>++Human Photon Torpedo</td>
+        <td>76876</td>
+      </tr>
+      <tr>
+        <td>++Salvene EM Flux Cannon</td>
+        <td>78001</td>
+      </tr>
+      <tr>
+        <td>+Alskant Focused Laser</td>
+        <td>83001</td>
+      </tr>
+      <tr>
+        <td>+WQ Human Shield Vaporizer</td>
+        <td>83751</td>
+      </tr>
+      <tr>
+        <td>+Human Harmonic Disruptor</td>
+        <td>84001</td>
+      </tr>
+      <tr>
+        <td>++Large Pulse Laser</td>
+        <td>85313</td>
+      </tr>
+      <tr>
+        <td>+Big Momma Torpedo Launcher</td>
+        <td>88501</td>
+      </tr>
+      <tr>
+        <td>+Little Junior Torpedo</td>
+        <td>92751</td>
+      </tr>
+      <tr>
+        <td>+Thevian Shield Disperser</td>
+        <td>105001</td>
+      </tr>
+      <tr>
+        <td>+Creonti "Big Daddy"</td>
+        <td>108001</td>
+      </tr>
+      <tr>
+        <td>+Huge Pulse Laser</td>
+        <td>109876</td>
+      </tr>
+      <tr>
+        <td>+Nijarin Claymore Missile</td>
+        <td>110001</td>
+      </tr>
+      <tr>
+        <td>++Alskant Focused Laser</td>
+        <td>124501</td>
+      </tr>
+      <tr>
+        <td>++WQ Human Shield Vaporizer</td>
+        <td>125626</td>
+      </tr>
+      <tr>
+        <td>++Human Harmonic Disruptor</td>
+        <td>126001</td>
+      </tr>
+      <tr>
+        <td>++Big Momma Torpedo Launcher</td>
+        <td>132751</td>
+      </tr>
+      <tr>
+        <td>++Little Junior Torpedo</td>
+        <td>139126</td>
+      </tr>
+      <tr>
+        <td>++Thevian Shield Disperser</td>
+        <td>157501</td>
+      </tr>
+      <tr>
+        <td>++Creonti "Big Daddy"</td>
+        <td>162001</td>
+      </tr>
+      <tr>
+        <td>++Huge Pulse Laser</td>
+        <td>164813</td>
+      </tr>
+      <tr>
+        <td>++Nijarin Claymore Missile</td>
+        <td>165001</td>
+      </tr>
+      <tr>
+        <td>+Holy Hand Grenade</td>
+        <td>170176</td>
+      </tr>
+      <tr>
+        <td>+Planetary Pulse Laser</td>
+        <td>172751</td>
+      </tr>
+      <tr>
+        <td>+Nuke</td>
+        <td>176251</td>
+      </tr>
+      <tr>
+        <td>++Holy Hand Grenade</td>
+        <td>255263</td>
+      </tr>
+      <tr>
+        <td>++Planetary Pulse Laser</td>
+        <td>259126</td>
+      </tr>
+      <tr>
+        <td>++Nuke</td>
+        <td>264376</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
