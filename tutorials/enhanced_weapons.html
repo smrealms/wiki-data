@@ -2,7 +2,7 @@
 title: Enhanced Weapons
 description: extracting value from enhanced weapons
 published: 0
-date: 2022-03-18T00:42:38.369Z
+date: 2022-03-18T01:31:02.836Z
 tags: 
 editor: ckeditor
 dateCreated: 2022-03-18T00:42:38.369Z
@@ -11,27 +11,39 @@ dateCreated: 2022-03-18T00:42:38.369Z
 <h1>Enhanced Weapons and You</h1>
 <h4>How I Learned to Love the ++Nuke</h4>
 <h2>Intro</h2>
-<p>Enhanced weapons can be very powerful but some of them are utter crap. &nbsp;This means, like everything else SMR, we're rolling the dice by spending turns on them. &nbsp;Is it worth it to repeatedly go out and check for enhanced weapons if the bar is nearby? &nbsp;Probably. &nbsp;And do you spend turns to check it when it's in another galaxy? &nbsp;I don't know, probably not, are we Thevian or Creonti?</p>
-<p>The point of my rambling is this: through some trial and error, and a bit of reading the game code, some tricks have been found to streamline the hunt for enhanced weapons. &nbsp;This is current as of game 145.</p>
+<p>Enhanced weapons can be very powerful but some of them are utter crap. &nbsp;This means, like everything else SMR, we're rolling the dice by spending turns on them. &nbsp;Is it worth it to repeatedly go out and check for enhanced weapons if the bar is nearby? &nbsp;Probably. &nbsp;And do we spend turns to check it when it's in another galaxy? &nbsp;I don't know, probably not, are we Thevian or Creonti?</p>
+<p>Through some trial and error, and a bit of reading the game code, some tricks have been found to streamline the hunt for enhanced weapons. &nbsp;Heed these details and you will have a much easier time finding useful enhanced weapons. &nbsp;This is current as of game 145.</p>
 <h2>Important Meaty Details</h2>
-<p>The tip, in credits, required to unlock information about an enhanced weapon is based on the type of weapon and the enhancement level. &nbsp;This is the largest meaty bit in this tutorial. &nbsp;It means that you can spend credits guessing and, once you've narrowed down the amount where the bartender spills the beans, narrow down the type and enhancement to one of a few options. &nbsp;This is important later in the game, when money is limitless, because it allows you to spend money to save turns. &nbsp;There is a table below, sorted by credit cost, that can be used to reference the weapon back from the tip cost.</p>
+<p>The tip, in credits, required to unlock information about an enhanced weapon is based on the type of weapon and the enhancement level. &nbsp;It means that you can spend credits guessing and, once you know the amount where the bartender spills the beans, narrows down the weapon type and enhancement to one of a few options. &nbsp;This is important later in the game, when money is limitless, because it allows you to spend money to save turns. &nbsp;There is a table at the end of this guide, sorted by credit cost, that can be used to reference the weapon back from the tip cost.</p>
 <p>There is a 6 hour timeout on the enhanced weapon events. &nbsp;If we tip the man at 04:00, that weapon will be available until 10:00.</p>
-<p>There is a 5 hour timer on opening new events. &nbsp;If we tip at 04:00, every person who tips will get the same tip until 09:00.</p>
+<p>There is a 5 hour timer on opening new events. &nbsp;If we tip at 04:00, every person who tips will get the same tip until 09:00. &nbsp;Yes, this means there's 1 hour where the previous enhanced weapon is still available.</p>
 <p>All bars give the same tip during an event. &nbsp;If you get info on a ++HHG in the Alskant galaxy, you're going to get the same tip out in Sombrero or Manton.</p>
-<p>The events are triggered by tipping the bartender. &nbsp;If nobody tips any bartenders from 05:00 until 23:00, no events were generated and no enhanced weapons were available.</p>
+<p>The events are triggered by tipping the bartender. &nbsp;If nobody tips any bartenders from 05:00 until 23:00, no events were generated and no enhanced weapons were available. &nbsp;Tip the bartender to keep the weapons flowing.</p>
+<p>Bonus accuracy is 4 percentage points. &nbsp;eg ++HHG has 39% accuracy.</p>
+<p>Bonus damage is 15 damage points added to any type of damage that is not 0. &nbsp;eg ++HHG deals 315 shield damage and 0 armor damage. &nbsp;++HPL does 95 points of shield or armor damage.</p>
 <p>For each 100 events:</p>
 <ul>
-  <li>40 will be single plus enhanced for damage</li>
-  <li>40 will be single plus enhanced for accuracy</li>
-  <li>20 will be double plus enhanced</li>
+  <li>40 will be single plus enhanced for damage.</li>
+  <li>40 will be single plus enhanced for accuracy.</li>
+  <li>20 will be double plus enhanced.</li>
+</ul>
+<h2>Weapon Value</h2>
+<p>Base and double plus weapons vary in effectiveness up to about 30%. &nbsp;The enhancements make more significant differences with lower power weapons. &nbsp;Enhanced power 5's are strong; but having a P2 that hits like a P4 will allow you to swap weapons out, and re-invest the power you saved, while maintaining your desired shield/armor weight. &nbsp;Overall, don't be surprised if a ship decked out with ++ weapons is dealing 25% more damage than you expect.</p>
+<p>A full table with calculations is a project for a weapons guide which is, probably, on its way. &nbsp;Some day. &nbsp;For now, here's a few highlights:</p>
+<ul>
+  <li>A ++Salvene Frag Missile deals more armor damage per shot than any of the base power 4 weapons.</li>
+  <li>Ditto on the ++Alskant Anti-Shield System and power 4 shield weapons.</li>
+  <li>A ++Nuke makes 17% more armor DPS than a base model. &nbsp;122.85 vs 105, before situational modifiers.</li>
+  <li>Nijarin weapons, with their chip armor setup, see surprising improvements with the bonus 15 damage.</li>
+  <li>Power 1 weapons are generally not effective; even in ++ variant.</li>
 </ul>
 <h2>Enhanced Weapon Signature Table</h2>
 <figure class="table">
   <table>
     <tbody>
       <tr>
-        <td>weapon</td>
-        <td>tip signature</td>
+        <td><strong>Weapon Name</strong></td>
+        <td><strong>Tip Signature</strong></td>
       </tr>
       <tr>
         <td>+Small Laser</td>
