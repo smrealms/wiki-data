@@ -2,7 +2,7 @@
 title: Combat Mechanics
 description: nerd level detail on blowing stuff up
 published: 0
-date: 2022-04-29T23:20:04.901Z
+date: 2022-05-02T12:57:13.591Z
 tags: 
 editor: ckeditor
 dateCreated: 2022-04-29T22:25:28.822Z
@@ -24,10 +24,11 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <p>&nbsp;</p>
 <h3>Firing Drones at Ships</h3>
 <p>Players versus player combat is where drones get a little complicated. &nbsp;That 6 to 57% random is still the same. &nbsp;But now we have modifiers based on attacker level, defender level, and ship maneuverability rating. &nbsp;They look like this:</p>
-<p>Attacker Level Modifier = aLvlMod = random(half player level to player level)</p>
-<p>Defender Level Modifier = dLvlMod = (Attacker Level &nbsp;- Defender Level) / 3</p>
-<p>Ship MR Rating Modifier = mrMod =&nbsp;</p>
+<p>Attacker Modifier = attMod = random(half player level to player level)</p>
+<p>Level Modifier = lvlMod = (Attacker Level &nbsp;- Defender Level) / 3</p>
+<p>Ship MR Rating Modifier = mrMod = attMR - defMR</p>
 <p>And these modifiers affect the launch % as follows:</p>
-<p>PvP Drones Launched = random(6 to 57) + aLvlMod + dLvlMod</p>
+<p>PvP Drones Launched = (random(6 to 57) + attMod + lvlMod) / 1.5</p>
+<p>And also, if mrMod is a negative number, add it to the result. &nbsp;Note: this is a penalty and it is often applied because every 5 combat drones reduces MR by 1 point.</p>
 <p>&nbsp;</p>
 <h3>Taking Damage from Forces, Ports, or Planets</h3>
