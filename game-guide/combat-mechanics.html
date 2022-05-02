@@ -2,26 +2,39 @@
 title: Combat Mechanics
 description: nerd level detail on blowing stuff up
 published: 0
-date: 2022-05-02T22:40:46.431Z
+date: 2022-05-02T23:14:59.087Z
 tags: 
 editor: ckeditor
 dateCreated: 2022-04-29T22:25:28.822Z
 -->
 
 <h1>Combat Mechanics</h1>
-<h4>how the titillating lasers tickle</h4>
+<h4>How the Titillating Lasers Tickle</h4>
+<p>Nearly always, when a question is ask about how combat in SMR works, the correct answer is “it depends”. &nbsp;Player level factors in to everything. &nbsp;Port and planet levels may also be key. &nbsp;How many connecting sectors there are might decide the fate of your ship. &nbsp;There's a maneuverability rating factor that changes depending how damaged your ship is.</p>
 <h2>Hardpoint Weapons</h2>
+<p>&nbsp;</p>
 <h3>Firing Weapons at Forces, Ports, or Planets</h3>
 <p>Player Level Accuracy Modifier = alaMod = &nbsp;( level<sup>2</sup> &nbsp;/ 60 ) + ( level / 2 ) + 2</p>
+<p>This modifier is important to all hardpoint weapons fire. &nbsp;It starts at 2.5% at level 1 and increases to 68.7% at level 50.</p>
+<p>Ports, planets, and forces each have a different defensive modifier:</p>
+<ul>
+  <li>Ports reduce accuracy by two points per port level. &nbsp;That's 2% at level 1 and 18% at level 9.</li>
+  <li>Planets reduce accuracy by 0.286% per level. &nbsp;A level 45 planet costs us 12.9%.</li>
+  <li>Forces have no defensive modifiers.</li>
+</ul>
+<p>All of these modifiers are multiplicative. &nbsp;In other words, the adjustments they make are proportionate to the accuracy of the weapon being fired.</p>
 <p>&nbsp;</p>
-<p>Ports reduce accuracy by two points per port level. &nbsp;That's 2% at level 1 and 18% at level 9.</p>
-<p>Planets reduce accuracy by 0.286% per level. &nbsp;A level 45 planet costs us 12.9%.</p>
-<p>Forces have no defensive modifiers.</p>
 <h3>Firing Weapons at Ships</h3>
 <p>Attacker Level Accuracy Modifier = alaMod = &nbsp;( level<sup>2</sup> &nbsp;/ 60 ) + ( level / 2 ) + 2</p>
 <p>Defender Level Accuracy Modifier = dlaMod = [ ( level<sup>2</sup> &nbsp;/ 60 ) + ( level / 2 ) + 2 ] / 2</p>
+<p>Ship MR Rating Modifier = mrMod = attMR - defMR</p>
+<p>MR can only reduce weapon accuracy. &nbsp;Low single digit numbers penalties are common. &nbsp;Low double digits will happen under more extreme circumstances.</p>
+<p>&nbsp;</p>
+<h3>Weighted Random</h3>
+<p>&nbsp;</p>
 <h2>Combat Drones</h2>
 <p>Combat drones always fire last. &nbsp;This is unfortunate for two reasons: drones deal rollover damage, which is more valuable up front. &nbsp;And it is easier to find hardpoint weapons that deal armor damage. &nbsp;But they are still a valuable damage source, even if the order is not optimal.</p>
+<p>&nbsp;</p>
 <h3>Firing Drones at Forces, Ports, or Planets</h3>
 <p>The algorithm that determines how many drones are launched is most simple when firing at environmental targets. &nbsp;Player level has no effect. &nbsp;There are no defensive modifiers. &nbsp;That simplicity makes it a good place to start. &nbsp;The equation looks like this:</p>
 <p>Drones Launched = random(6 to 57)</p>
@@ -37,9 +50,11 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <p>PvP Drones Launched = [ (random(6 to 57) + attMod + lvlMod) / 1.5 ] &nbsp;+ (MRmod if number is negative)</p>
 <p>Some notes on this:</p>
 <ul>
-  <li>MRmod is an attacker penalty/a defender bonus. &nbsp;It is often applied because combat drones heavily penalize MR at a cost of 1 point per 5 drones.</li>
+  <li>MRmod can only reduce drones launched. &nbsp;This is particularly painful for the ITMS which loses 3-7% of its drone launches even when firing on other capital ships.</li>
   <li>While this equation can generate negative numbers, the minimum launched is 0.</li>
   <li>Expected launches to average 25-35% in common, low level combat between similar ships.</li>
 </ul>
 <p>&nbsp;</p>
 <h3>Taking Damage from Forces, Ports, or Planets</h3>
+<p>Strangely enough, maneuverability rating is not factored in to planet, port, or dropped force fire. &nbsp;This is likely because none of those environmental things have MR and the existing algorithms are designed around a MR delta.</p>
+<p>&nbsp;</p>
