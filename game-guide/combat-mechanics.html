@@ -2,7 +2,7 @@
 title: Combat Mechanics
 description: nerd level detail on blowing stuff up
 published: 0
-date: 2022-05-02T22:29:30.534Z
+date: 2022-05-02T22:31:54.619Z
 tags: 
 editor: ckeditor
 dateCreated: 2022-04-29T22:25:28.822Z
@@ -21,7 +21,6 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <h3>Firing Drones at Forces, Ports, or Planets</h3>
 <p>The algorithm that determines how many drones are launched is most simple when firing at environmental targets. &nbsp;Player level has no effect. &nbsp;There are no defensive modifiers. &nbsp;That simplicity makes it a good place to start. &nbsp;The equation looks like this:</p>
 <p>Drones Launched = random(6 to 57)</p>
-<p>PvE Drone DPS = 63 per hundred Drones</p>
 <p>The number of drones launched when attacking the environment is a percentage of the total alive on your ship. &nbsp;This is effectively a random number generated between 6% and 57%. &nbsp;On average, 31.5% of drones launch. &nbsp;They always hit. &nbsp;They always deal 2 damage. &nbsp;Given these facts, combat drones can be modeled as dealing 63 DPS per 100 drones alive at the time of firing. &nbsp;The variation is quite extreme, but eventually the law of large numbers will bring the average to 31.5%.</p>
 <p>Now, a bit about where that 6-57% came from. &nbsp;A ship firing drones has, before modifiers, a 3% base accuracy. &nbsp;A random number is generated between 3 and 54. &nbsp;That random number is added to the base accuracy which gives us a minimum possible of 6 and a max possible of 57. &nbsp;Environmental targets have no offensive or defensive modifiers concerning combat drones. &nbsp;We press attack, we get somewhere between 6 and 57 percent launched, we deal between 12 and 114 damage per hundred drones. &nbsp;It's simple, boring damage.</p>
 <p>&nbsp;</p>
