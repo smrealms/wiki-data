@@ -2,7 +2,7 @@
 title: Combat Mechanics
 description: nerd level detail on blowing stuff up
 published: 0
-date: 2022-05-02T12:57:13.591Z
+date: 2022-05-02T13:04:54.096Z
 tags: 
 editor: ckeditor
 dateCreated: 2022-04-29T22:25:28.822Z
@@ -28,7 +28,8 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <p>Level Modifier = lvlMod = (Attacker Level &nbsp;- Defender Level) / 3</p>
 <p>Ship MR Rating Modifier = mrMod = attMR - defMR</p>
 <p>And these modifiers affect the launch % as follows:</p>
-<p>PvP Drones Launched = (random(6 to 57) + attMod + lvlMod) / 1.5</p>
-<p>And also, if mrMod is a negative number, add it to the result. &nbsp;Note: this is a penalty and it is often applied because every 5 combat drones reduces MR by 1 point.</p>
+<p>PvP Drones Launched = [ (random(6 to 57) + attMod + lvlMod) / 1.5 ] &nbsp;+ (MRmod if number is negative)</p>
+<p>Some notes on this:</p>
+<p>MRmod is a(n) attacker penalty/defender bonus. &nbsp;It is often applied because combat drones heavily penalize MR at a cost of 1 point per 5 drones. &nbsp;The ITMS is the lowest MR ship in normal games.</p>
 <p>&nbsp;</p>
 <h3>Taking Damage from Forces, Ports, or Planets</h3>
