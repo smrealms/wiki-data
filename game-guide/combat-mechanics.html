@@ -2,7 +2,7 @@
 title: Combat Mechanics
 description: nerd level detail on blowing stuff up
 published: 0
-date: 2022-05-03T00:08:25.017Z
+date: 2022-05-03T00:19:21.089Z
 tags: 
 editor: ckeditor
 dateCreated: 2022-04-29T22:25:28.822Z
@@ -30,10 +30,13 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <p>Defender Level Accuracy Modifier = dlvlMod = [ ( defLvl<sup>2</sup> &nbsp;/ 60 ) + ( level / 2 ) + 2 ] / 2</p>
 <p>Ship MR Rating Modifier = mrMod = attMR - defMR</p>
 <p>MR can only reduce weapon accuracy. &nbsp;Low single digit numbers penalties are common. &nbsp;Low double digits will happen under more extreme circumstances.</p>
-<p>Firing accuracy = weaponAccuracy * [ 1 + (alvlMod - dlvlMod { + mrMod if negative } ) ]&nbsp;</p>
+<p>modified accuracy = weaponAccuracy * [ 1 + (alvlMod - dlvlMod { + mrMod if negative } ) ]&nbsp;</p>
 <p>&nbsp;</p>
-<h3>Weighted Random</h3>
-<p>&nbsp;</p>
+<h4>Weighted Random</h4>
+<p>For each player, for each type of weapon, a weighted random variable is stored.</p>
+<p>Each shot, not guaranteed to hit or miss, adjusts the weighted random variable.</p>
+<p>On a hit: weighting = weighting + [ (100 - modifiedAccuracy) x 0.15 ]</p>
+<p>On a miss: weighting = weighting + [ ( -1 x modifiedAccuracy / 100) x 0.15 ]</p>
 <h2>Combat Drones</h2>
 <p>Combat drones are a much more chaotic weapon system compared to hardpoints. &nbsp;Their performance is quite inconsistent; planets and ports behave one way, ships behave different ways depending on what they're shooting at, and there is often large variation in damage output. &nbsp;These things are downright fearsome when launched from an environmental target and mildly disappointing when launched from a ship.</p>
 <p>Combat drones always fire last. &nbsp;This is unfortunate for two reasons: drones deal rollover damage, which is more valuable up front. &nbsp;And it is easier to find hardpoint weapons that deal armor damage. &nbsp;This is literally the least optimal place they could launch.</p>
