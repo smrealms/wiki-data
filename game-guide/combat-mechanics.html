@@ -2,7 +2,7 @@
 title: Combat Mechanics
 description: nerd level detail on blowing stuff up
 published: 0
-date: 2022-05-03T23:29:11.075Z
+date: 2022-05-03T23:48:20.697Z
 tags: 
 editor: ckeditor
 dateCreated: 2022-04-29T22:25:28.822Z
@@ -10,21 +10,10 @@ dateCreated: 2022-04-29T22:25:28.822Z
 
 <h1>Combat Mechanics</h1>
 <h4>How the Titillating Lasers Tickle</h4>
-<p>Nearly always, when a question is ask about how combat in SMR works, the correct answer is “it depends”. &nbsp;Player level factors in to everything. &nbsp;Port and planet levels may also be key. &nbsp;How many connecting sectors there are might decide the fate of your ship. &nbsp;There's a maneuverability rating factor that changes depending how damaged your ship is. &nbsp;Random numbers are sometimes weighted to reduce the chance of successive hits or misses. &nbsp;There is a very lot going on behind the scenes.</p>
+<p>Nearly always, when a question is ask about how combat in SMR works, the correct answer is “it depends”. &nbsp;Player level factors in to everything. &nbsp;Port and planet levels are also big modifiers. &nbsp;How many connecting sectors there are might decide the fate of your ship. &nbsp;There's a maneuverability rating factor that changes depending how damaged your ship is. &nbsp;Random numbers are often weighted to reduce the chance of streaks. &nbsp;There is a very lot going on behind the scenes.</p>
 <p>&nbsp;</p>
 <h2>Hardpoint Weapons</h2>
 <p>Hardpoint weapons deal reliable, customizable damage that scales very well with level. &nbsp;The more of them you can get, the more damage you can do. &nbsp;In the hand of a knowledgeable player, nothing is more deadly.</p>
-<p>&nbsp;</p>
-<h3>Firing Weapons at Forces, Ports, or Planets</h3>
-<p>Player Level Accuracy Modifier = lvlMod = &nbsp;( level<sup>2</sup> &nbsp;/ 60 ) + ( level / 2 ) + 2</p>
-<p>This standard modifier provides a bonus to all players attacking environmental targets. &nbsp;It starts at 2.5% at level 1 and increases to 68.7% at level 50.</p>
-<p>Ports, planets, and forces each have a different defensive modifier:</p>
-<ul>
-  <li>Ports reduce accuracy by two points per port level. &nbsp;That's 2% at level 1 and 18% at level 9.</li>
-  <li>Planets reduce accuracy by 0.286% per level. &nbsp;A level 45 planet costs us 12.9%.</li>
-  <li>Forces have no defensive modifiers.</li>
-</ul>
-<p>All of these modifiers are multiplicative. &nbsp;In other words, the adjustments they make are proportionate to the accuracy of the weapon being fired. &nbsp;The final result is a players modifier less whichever defensive bonus applies to the situation.</p>
 <p>&nbsp;</p>
 <h3>Firing Weapons at Ships</h3>
 <p>Attacker Level Accuracy Modifier = alvlMod = &nbsp;( attLvl<sup>2</sup> &nbsp;/ 60 ) + ( level / 2 ) + 2</p>
@@ -34,7 +23,8 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <p>A couple notes on this:</p>
 <ul>
   <li>MR can only reduce weapon accuracy. &nbsp;Low single digit numbers penalties are common. &nbsp;Low double digits will happen under more extreme circumstances.</li>
-  <li>Defensive level bonus are half of offensive. &nbsp;That means defenders reduce the attackers accuracy between 1.25% and 34.4% depending on defender level.</li>
+  <li>The attacking level accuracy modifier provides a bonus to all players attacking all targets. &nbsp;It starts at 2.5% at level 1 and increases to 68.7% at level 50.</li>
+  <li>Defensive level accuracy mod also provides half its bonus to a defending ship. &nbsp;That means defenders reduce the attackers accuracy between 1.25% and 34.4% depending on defender level.</li>
 </ul>
 <p>&nbsp;</p>
 <h4>Weighted Random</h4>
@@ -43,7 +33,18 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <p>On a hit: weight = weight + [ (100 - modifiedAccuracy) x 0.50 ]</p>
 <p>On a miss: weight = weight + [ ( -1 x modifiedAccuracy / 100) x 0.50 ]</p>
 <p>Effective Firing Accuracy = modifiedAccuracy - weight</p>
+<p>This adjustment is applied to all hardpoint fire except for when the modified accuracy is 0 or 100. &nbsp;Those guaranteed situations bypass the weighting code completely and do not adjust the variable.</p>
 <p>&nbsp;</p>
+<h3>Firing Weapons at Forces, Ports, or Planets</h3>
+<p>Player Level Accuracy Modifier = ( level<sup>2</sup> &nbsp;/ 60 ) + ( level / 2 ) + 2</p>
+<p>&nbsp;</p>
+<p>Ports, planets, and forces each have a different defensive modifier:</p>
+<ul>
+  <li>Ports reduce accuracy by two points per port level. &nbsp;That's 2% at level 1 and 18% at level 9.</li>
+  <li>Planets reduce accuracy by 0.286% per level. &nbsp;A level 45 planet costs us 12.9%.</li>
+  <li>Forces have no defensive modifiers.</li>
+</ul>
+<p>All of these modifiers are multiplicative. &nbsp;In other words, the adjustments they make are proportionate to the accuracy of the weapon being fired. &nbsp;The final result is a players modifier less whichever defensive bonus applies to the situation.</p>
 <h2>Combat Drones</h2>
 <p>Combat drones are a much more chaotic weapon system compared to hardpoints. &nbsp;Their performance is quite inconsistent; planets and ports behave one way, ships behave different ways depending on what they're shooting at, and there is often large variation in damage output. &nbsp;These things are downright fearsome when launched from an environmental target and mildly disappointing when launched from a ship.</p>
 <p>Combat drones tend to disappoint, from a player perspective, for a few reasons:&nbsp;</p>
@@ -112,12 +113,12 @@ dateCreated: 2022-04-29T22:25:28.822Z
   <li>Maneuverability rating makes a final adjusted here as well. &nbsp;That same MR difference brings the same 3.8% penalty to the MR. &nbsp;74.87% of the MS drones will actually launch, rounded up to the nearest whole drone which is 300 drones.</li>
   <li><i>MS launches 300 combat drones at Dev destroying 300 shields and 300 plates of armor.</i></li>
 </ul>
-<p>The MS is now out of weapons to shoot. &nbsp;The dev returns fire. &nbsp;The Thevian Shield Disperser in hardpoint 1 fires:</p>
+<p>The MS is now out of weapons to shoot and the dev returns fire. &nbsp;A Thevian Shield Disperser in hardpoint 1 fires:</p>
 <ul>
   <li>Player level accuracy modifiers come to { 1 + [ 0.158 - ( 0.197 / 2 ) ] } = 1.056</li>
   <li>Modified accuracy is 46% x 1.056 = 48.7%</li>
   <li>Damage to the dev has increased its MR to 629.6. &nbsp;Further still in favor of the dev.</li>
-  <li>This is the first TSD of the game for this player. &nbsp;Weight variable is 0.</li>
+  <li>This is the first TSD shot of the game for this player. &nbsp;Weight variable is 0.</li>
   <li>Random(1 to 100) gives us a 22. &nbsp;<i>Dev fires TSD at MS destroying 175 shields.</i></li>
   <li>This hit adjusts the weight variable. &nbsp;(100 - 0.487 ) x 0.5 brings the new value to +26.65.</li>
 </ul>
@@ -141,13 +142,25 @@ dateCreated: 2022-04-29T22:25:28.822Z
   <li>Mod. Acc. is 41% x 1.056 = 43.4%</li>
   <li>MR has no effect here.</li>
   <li>Just for fun, we carry in a weight of -70 from previous combat. &nbsp;Random(1 to 100) gives us a 100. &nbsp;It's adjusted down to 30, which is well within our hit threshold of 43.4. &nbsp;Once the weight is below ( 100 - modified accuracy ), the next shot has to hit. &nbsp;We can only get so unlucky with this mechanism.</li>
-  <li><i>Dev fires PT which is deflected by their shields.</i></li>
+  <li><i>Dev fires PT at MS which is deflected by their shields.</i></li>
   <li>The hit, regardless of being deflected, causes the weight to adjust by ( 43.4% x 0.5 ) = 21.7. &nbsp;New value for next shot is -48.3.</li>
 </ul>
 <p>Hardpoint 5 fires at Torpedo Launcher:</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Hardpoint 6 fires at Torpedo Launcher:</p>
-<p>&nbsp;</p>
+<ul>
+  <li>Mod. Acc is 37% x 1.056 = 39.2% and MR isn't touching it.</li>
+  <li>Starting weight value of 30. &nbsp;Random(1 to 100) generates a value of 10. &nbsp;Adjusted to 40. &nbsp;Just barely a miss. &nbsp;And the weight adjusts -19.6 to 10.4.</li>
+  <li><i>Dev fires TL at MS and misses.</i></li>
+</ul>
+<p>Hardpoint 6 fires an Anti-Ship Missile (Guided):</p>
+<ul>
+  <li>Mod. Acc is 104.54%. &nbsp;MR still has not changed.</li>
+  <li>The accuracy is over 100%. &nbsp;The shot has to hit and the weight code is never invoked.</li>
+  <li><i>Dev fires ASMG at Dev which is deflected by their shields.</i></li>
+</ul>
 <p>Hardpoint 7 launches a Nuke:</p>
-<p>&nbsp;</p>
+<ul>
+  <li>Mod. Acc. 35% * 1.0595 = 37.1%. &nbsp;MR is still against the MS, as usual.</li>
+  <li>No prior weight coming in. &nbsp;Dev rolls well and hits. &nbsp;Weight adjusts +31.45. &nbsp;The next shot will have a very poor chance to hit.</li>
+  <li><i>Dev fires Nuke and MS which is deflected by their shields.</i></li>
+</ul>
+<p>And the dev is out of weapons to shoot. &nbsp;The shot results come back to the combat screen. &nbsp;The traders glance at them while bashing the F key.&nbsp;</p>
