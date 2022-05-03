@@ -2,7 +2,7 @@
 title: Combat Mechanics
 description: nerd level detail on blowing stuff up
 published: 0
-date: 2022-05-03T22:48:29.721Z
+date: 2022-05-03T23:09:32.590Z
 tags: 
 editor: ckeditor
 dateCreated: 2022-04-29T22:25:28.822Z
@@ -30,7 +30,7 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <p>Attacker Level Accuracy Modifier = alvlMod = &nbsp;( attLvl<sup>2</sup> &nbsp;/ 60 ) + ( level / 2 ) + 2</p>
 <p>Defender Level Accuracy Modifier = dlvlMod = [ ( defLvl<sup>2</sup> &nbsp;/ 60 ) + ( level / 2 ) + 2 ] / 2</p>
 <p>Ship MR Rating Modifier = mrMod = attMR - defMR</p>
-<p>Modified Accuracy = weaponAccuracy * [ 1 + (alvlMod - dlvlMod { + mrMod if negative } ) ]&nbsp;</p>
+<p>Modified Accuracy = weaponAccuracy x [ 1 + (alvlMod - dlvlMod { + mrMod if negative } ) ]&nbsp;</p>
 <p>A couple notes on this:</p>
 <ul>
   <li>MR can only reduce weapon accuracy. &nbsp;Low single digit numbers penalties are common. &nbsp;Low double digits will happen under more extreme circumstances.</li>
@@ -96,8 +96,8 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <ul>
   <li>The MS player level accuracy modifier is computed. &nbsp;This is ( 20<sup>2</sup>/60 + 20/2 + 2 ) / 100 which comes to 0.197.</li>
   <li>The dev player level accuracy modifier is computed. &nbsp;This one is ( 15<sup>2</sup>/60 + 15/2 + 2 ) / 200 which comes to 0.079. &nbsp;The amount is halved here because the dev is defending.</li>
-  <li>Level modifiers are applied to the PPL accuracy. &nbsp;That's 35% * (1 + 0.197 - 0.079) which comes to 39.1%.</li>
-  <li>Maneuverability ratings are then computed. &nbsp;In the interest of space, the MS has a MR of 553.8 and the dev is 610.6. &nbsp;That's a difference of 56.8 in favor of the dev. &nbsp;The MS will receive a penalty of [ 35% * ( mrDiff / 15 ) ] which comes to 3.8%. &nbsp;That brings the modified accuracy to 35.3%.</li>
+  <li>Level modifiers are applied to the PPL accuracy. &nbsp;That's 35% x (1 + 0.197 - 0.079) which comes to 39.1%.</li>
+  <li>Maneuverability ratings are then computed. &nbsp;In the interest of space, the MS has a MR of 553.8 and the dev is 610.6. &nbsp;That's a difference of 56.8 in favor of the dev. &nbsp;The MS will receive a penalty of [ 35% x ( mrDiff / 15 ) ] which comes to 3.8%. &nbsp;That brings the modified accuracy to 35.3%.</li>
   <li>This is the first time this player has fired a PPL this game so there is no weighted random to factor in. &nbsp;The final firing accuracy will be 35.3%.</li>
   <li>The game generated a number between 1 and 100. &nbsp;Anything at or below 35.3% will be scored as a hit. &nbsp;The MS is unlucky and rolls a 62 on this D100. &nbsp;</li>
   <li><i>MS fires their Planetary Pulse Laser and misses.</i></li>
@@ -115,22 +115,34 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <p>The MS is now out of weapons to shoot. &nbsp;The dev returns fire. &nbsp;The Thevian Shield Disperser in hardpoint 1 fires:</p>
 <ul>
   <li>Player level accuracy modifiers come to { 1 + [ 0.158 - ( 0.197 / 2 ) ] } = 1.056</li>
-  <li>Modified accuracy is 46% * 1.056 = 48.7%</li>
-  <li>MR is in the devs favor, no penalties apply.</li>
+  <li>Modified accuracy is 46% x 1.056 = 48.7%</li>
+  <li>Damage to the dev has increased its MR to 629.6. &nbsp;Further still in favor of the dev.</li>
   <li>This is the first TSD of the game for this player. &nbsp;Weight variable is 0.</li>
   <li>Random(1 to 100) gives us a 22. &nbsp;<i>Dev fires TSD at MS destroying 175 shields.</i></li>
-  <li>This hit adjusts the weight variable. &nbsp;(100 - 0.487 ) * 0.5 brings the new value to +26.65.</li>
+  <li>This hit adjusts the weight variable. &nbsp;(100 - 0.487 ) x 0.5 brings the new value to +26.65.</li>
 </ul>
 <p>Hardpoint 2 also fires a TSD:</p>
 <ul>
   <li>Modified accuracy is still 48.7%.</li>
-  <li>MR of the MS has changed to 560.8 due to shield damage, but is still not affecting dev accuracy. &nbsp;The dev is now at 629.6 following the drone damage.</li>
+  <li>MR of the MS has changed to 560.8 due to shield damage, but is still not affecting dev accuracy.</li>
   <li>Random(1 to 100) gives us a 12. &nbsp;This is adjusted to 38.65 due to the weight variable. &nbsp;This is still below the hit threshold of 48.7. <i>Dev fires TSD at MS destroying 175 shields.</i></li>
   <li>And the weight value is adjusted +26.65 again. &nbsp;It is now +53.3.</li>
 </ul>
 <p>Hardpoint 3 fires another TSD:</p>
-<p>Modified accuracy is still 48.7%.</p>
-<p>MR of the MS is up to 567.8. &nbsp;Still too low to bother the dev.</p>
+<ul>
+  <li>Modified accuracy is still 48.7%.</li>
+  <li>MR of the MS is up to 567.8. &nbsp;Still too low to bother the dev.</li>
+  <li>Random(1 to 100), just to prove a point, spits out a 1. &nbsp;This is adjusted to 54.3, above the 48.7 threshold for a hit. &nbsp;Once the weight is above the modified accuracy, the next shot has to miss. &nbsp;With the weighted random, we can only get so lucky. &nbsp;</li>
+  <li><i>Dev fires TSD at MS and misses.</i></li>
+</ul>
+<p>The miss adjusted the weight variable by ( 48.7 x -0.5 ) = -24.35. &nbsp;The next TSD shot will be adjusted by 28.95.</p>
+<p>Hardpoint 4 fires a Photon Torpedo:</p>
+<ul>
+  <li>Mod. Acc. is 41% x 1.056 = 43.4%</li>
+  <li>MR has no effect here.</li>
+  <li>Just for fun, we carry in a weight of -70 from previous combat. &nbsp;Random(1 to 100) gives us a 100. &nbsp;It's adjusted down to 30, which is well within our hit threshold of 43.4. &nbsp;Once the weight is below ( 100 - modified accuracy ), the next shot has to hit. &nbsp;We can only get so unlucky with this mechanism.</li>
+  <li><i>Dev fires PT which is deflected by their shields.</i></li>
+</ul>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
