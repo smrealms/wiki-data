@@ -2,7 +2,7 @@
 title: Combat Mechanics
 description: nerd level detail on blowing stuff up
 published: 0
-date: 2022-05-02T23:16:31.046Z
+date: 2022-05-03T00:08:25.017Z
 tags: 
 editor: ckeditor
 dateCreated: 2022-04-29T22:25:28.822Z
@@ -11,6 +11,7 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <h1>Combat Mechanics</h1>
 <h4>How the Titillating Lasers Tickle</h4>
 <p>Nearly always, when a question is ask about how combat in SMR works, the correct answer is “it depends”. &nbsp;Player level factors in to everything. &nbsp;Port and planet levels may also be key. &nbsp;How many connecting sectors there are might decide the fate of your ship. &nbsp;There's a maneuverability rating factor that changes depending how damaged your ship is. &nbsp;Random numbers are sometimes weighted to reduce the chance of successive hits or misses. &nbsp;There is a very lot going on behind the scenes.</p>
+<p>&nbsp;</p>
 <h2>Hardpoint Weapons</h2>
 <p>&nbsp;</p>
 <h3>Firing Weapons at Forces, Ports, or Planets</h3>
@@ -25,15 +26,17 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <p>All of these modifiers are multiplicative. &nbsp;In other words, the adjustments they make are proportionate to the accuracy of the weapon being fired.</p>
 <p>&nbsp;</p>
 <h3>Firing Weapons at Ships</h3>
-<p>Attacker Level Accuracy Modifier = alaMod = &nbsp;( level<sup>2</sup> &nbsp;/ 60 ) + ( level / 2 ) + 2</p>
-<p>Defender Level Accuracy Modifier = dlaMod = [ ( level<sup>2</sup> &nbsp;/ 60 ) + ( level / 2 ) + 2 ] / 2</p>
+<p>Attacker Level Accuracy Modifier = alvlMod = &nbsp;( attLvl<sup>2</sup> &nbsp;/ 60 ) + ( level / 2 ) + 2</p>
+<p>Defender Level Accuracy Modifier = dlvlMod = [ ( defLvl<sup>2</sup> &nbsp;/ 60 ) + ( level / 2 ) + 2 ] / 2</p>
 <p>Ship MR Rating Modifier = mrMod = attMR - defMR</p>
 <p>MR can only reduce weapon accuracy. &nbsp;Low single digit numbers penalties are common. &nbsp;Low double digits will happen under more extreme circumstances.</p>
+<p>Firing accuracy = weaponAccuracy * [ 1 + (alvlMod - dlvlMod { + mrMod if negative } ) ]&nbsp;</p>
 <p>&nbsp;</p>
 <h3>Weighted Random</h3>
 <p>&nbsp;</p>
 <h2>Combat Drones</h2>
-<p>Combat drones always fire last. &nbsp;This is unfortunate for two reasons: drones deal rollover damage, which is more valuable up front. &nbsp;And it is easier to find hardpoint weapons that deal armor damage. &nbsp;But they are still a valuable damage source, even if the order is not optimal.</p>
+<p>Combat drones are a much more chaotic weapon system compared to hardpoints. &nbsp;Their performance is quite inconsistent; planets and ports behave one way, ships behave different ways depending on what they're shooting at, and there is often large variation in damage output. &nbsp;These things are downright fearsome when launched from an environmental target and mildly disappointing when launched from a ship.</p>
+<p>Combat drones always fire last. &nbsp;This is unfortunate for two reasons: drones deal rollover damage, which is more valuable up front. &nbsp;And it is easier to find hardpoint weapons that deal armor damage. &nbsp;This is literally the least optimal place they could launch.</p>
 <p>&nbsp;</p>
 <h3>Firing Drones at Forces, Ports, or Planets</h3>
 <p>The algorithm that determines how many drones are launched is most simple when firing at environmental targets. &nbsp;Player level has no effect. &nbsp;There are no defensive modifiers. &nbsp;That simplicity makes it a good place to start. &nbsp;The equation looks like this:</p>
@@ -50,7 +53,7 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <p>PvP Drones Launched = [ (random(6 to 57) + attMod + lvlMod) / 1.5 ] &nbsp;+ (MRmod if number is negative)</p>
 <p>Some notes on this:</p>
 <ul>
-  <li>MRmod can only reduce drones launched. &nbsp;This is particularly painful for the ITMS which loses 3-7% of its drone launches even when firing on other capital ships.</li>
+  <li>MRmod can only reduce drones launched. &nbsp;This penalty is particularly painful for the ITMS which loses 3-6% of its drone launches even when firing on other capital ships.</li>
   <li>While this equation can generate negative numbers, the minimum launched is 0.</li>
   <li>Expected launches to average 25-35% in common, low level combat between similar ships.</li>
 </ul>
