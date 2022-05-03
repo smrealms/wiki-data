@@ -2,7 +2,7 @@
 title: Combat Mechanics
 description: nerd level detail on blowing stuff up
 published: 0
-date: 2022-05-03T01:11:13.277Z
+date: 2022-05-03T21:34:46.199Z
 tags: 
 editor: ckeditor
 dateCreated: 2022-04-29T22:25:28.822Z
@@ -80,4 +80,10 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <p>Protoplanet hardpoints do not receive planet level based bonuses. &nbsp;They only improve accuracy through radar station structures which provide an additive bonus.</p>
 <p>Port turrets fire at a flat 90% before defensive modifiers.</p>
 <p>Defensive level bonuses are applied when receiving damage from any environmental source. &nbsp;This becomes very noticeable during raids or busts. &nbsp;High level traders will be missed quite often.</p>
-<p>&nbsp;</p>
+<p>Scout drones have a base launch rate of 100%, minus a random(1 to 7) squared, minus 1 point per player level. &nbsp;Any scout that launches will kamikazi a ship for 20 damage.</p>
+<p>Dropped combat drones launch random(6 to 57) percent of whatever is in sector. &nbsp;There are no modifiers factored in beyond that.</p>
+<p>Mines are a little bit complex:</p>
+<p>% of Mines Hit = random(1 to 7)<sup>2</sup> + forceSizeMod - lvlMod - sectorMod</p>
+<p>ForceSizeMod is the number of total hostile forces in sector divided by 25.</p>
+<p>lvlMod is simply the player level. &nbsp;Each level is good for a 1 point reduction in mines hit. &nbsp;Level 50 is good for 50%.</p>
+<p>sectorMod is 1/C<sup>0.6</sup> where C is the number of connections to the sector where mines are hit. &nbsp;Warps count as one connection.</p>
