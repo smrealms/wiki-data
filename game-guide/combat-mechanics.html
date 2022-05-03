@@ -2,7 +2,7 @@
 title: Combat Mechanics
 description: nerd level detail on blowing stuff up
 published: 0
-date: 2022-05-03T21:34:46.199Z
+date: 2022-05-03T22:48:29.721Z
 tags: 
 editor: ckeditor
 dateCreated: 2022-04-29T22:25:28.822Z
@@ -66,12 +66,13 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <p>Level Modifier = lvlMod = (Attacker Level &nbsp;- Defender Level) / 3</p>
 <p>Ship MR Rating Modifier = mrMod = attMR - defMR</p>
 <p>And these modifiers affect the launch % as follows:</p>
-<p>PvP Drones Launched = [ (random(6 to 57) + attMod + lvlMod) / 1.5 ] &nbsp;+ (MRmod if number is negative)</p>
+<p>PvP Drones Launched = { [ (random(6 to 57) + attMod + lvlMod) / 1.5 ] &nbsp;+ (MRmod if number is negative) } ( x 0.66 if drone scrambler is equipped on defender)</p>
 <p>Some notes on this:</p>
 <ul>
   <li>MRmod can only reduce drones launched. &nbsp;This penalty is particularly painful for the ITMS which loses 3-6% of its drone launches even when firing on other capital ships.</li>
   <li>While this equation can generate negative numbers, the minimum launched is 0.</li>
   <li>Expected launches to average 25-35% in common, low level combat between similar ships.</li>
+  <li>The DCS modifier is lower in PvP. &nbsp;Ik'Thorne ships would do well to leave Nijarin vessels alone.</li>
 </ul>
 <p>&nbsp;</p>
 <h3>Taking Damage from Forces, Ports, or Planets</h3>
@@ -79,7 +80,8 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <p>Structural planetary turret receive half of the planet level as an additive accuracy bonus.</p>
 <p>Protoplanet hardpoints do not receive planet level based bonuses. &nbsp;They only improve accuracy through radar station structures which provide an additive bonus.</p>
 <p>Port turrets fire at a flat 90% before defensive modifiers.</p>
-<p>Defensive level bonuses are applied when receiving damage from any environmental source. &nbsp;This becomes very noticeable during raids or busts. &nbsp;High level traders will be missed quite often.</p>
+<p>Defensive level bonuses are applied when receiving damage from stationary turrets. &nbsp;Accuracy is reduced by the entire level accuracy modifier; not just half like in PvP combat. &nbsp;This brings turret accuracy all the way down to 31.3% of normal at level 50.</p>
+<p>Drones launched from ports and planets are simple and dangerous. &nbsp;They fire everything they have, they always hit, and they do 1 damage each. &nbsp;The only modifier possible is a drone scrambler which brings the damage down to 75% of normal.</p>
 <p>Scout drones have a base launch rate of 100%, minus a random(1 to 7) squared, minus 1 point per player level. &nbsp;Any scout that launches will kamikazi a ship for 20 damage.</p>
 <p>Dropped combat drones launch random(6 to 57) percent of whatever is in sector. &nbsp;There are no modifiers factored in beyond that.</p>
 <p>Mines are a little bit complex:</p>
@@ -87,3 +89,48 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <p>ForceSizeMod is the number of total hostile forces in sector divided by 25.</p>
 <p>lvlMod is simply the player level. &nbsp;Each level is good for a 1 point reduction in mines hit. &nbsp;Level 50 is good for 50%.</p>
 <p>sectorMod is 1/C<sup>0.6</sup> where C is the number of connections to the sector where mines are hit. &nbsp;Warps count as one connection.</p>
+<p>&nbsp;</p>
+<h3>Ship vs Ship Example</h3>
+<p>Let us have an imaginary ITMS piloted by a level 20 trader. &nbsp;They're duking it out with a level 15 Devastator. &nbsp;The mothership fires first.</p>
+<p>Hardpoints fire first, of course. &nbsp;The SMR code receives a call for one Planetary Pulse Laser to fire. &nbsp;Several things now happen in approximately this order:</p>
+<ul>
+  <li>The MS player level accuracy modifier is computed. &nbsp;This is ( 20<sup>2</sup>/60 + 20/2 + 2 ) / 100 which comes to 0.197.</li>
+  <li>The dev player level accuracy modifier is computed. &nbsp;This one is ( 15<sup>2</sup>/60 + 15/2 + 2 ) / 200 which comes to 0.079. &nbsp;The amount is halved here because the dev is defending.</li>
+  <li>Level modifiers are applied to the PPL accuracy. &nbsp;That's 35% * (1 + 0.197 - 0.079) which comes to 39.1%.</li>
+  <li>Maneuverability ratings are then computed. &nbsp;In the interest of space, the MS has a MR of 553.8 and the dev is 610.6. &nbsp;That's a difference of 56.8 in favor of the dev. &nbsp;The MS will receive a penalty of [ 35% * ( mrDiff / 15 ) ] which comes to 3.8%. &nbsp;That brings the modified accuracy to 35.3%.</li>
+  <li>This is the first time this player has fired a PPL this game so there is no weighted random to factor in. &nbsp;The final firing accuracy will be 35.3%.</li>
+  <li>The game generated a number between 1 and 100. &nbsp;Anything at or below 35.3% will be scored as a hit. &nbsp;The MS is unlucky and rolls a 62 on this D100. &nbsp;</li>
+  <li><i>MS fires their Planetary Pulse Laser and misses.</i></li>
+  <li>This miss triggers a change in the weighted random variable. &nbsp;It changes by ( -0.352 x 50 ), or -17.6, which will be added to the next weapon roll. &nbsp;That changes the 1 to 100 in to -16.6 to 82.4 meaning the next PPL shot has a 52.8% chance to hit.</li>
+</ul>
+<p>That's the only hardpoint. &nbsp;Drones are checked for. &nbsp;We have a lot of drones. &nbsp;They're called to fire and this happens:</p>
+<ul>
+  <li>A random number is generated between 6 and 57. &nbsp;Just for fun, we rolls a 57.</li>
+  <li>An attacker level modifier is generated. &nbsp;This is a random number between 10 and 20. &nbsp;For some more fun, we roll a 20.</li>
+  <li>A contested level modifier is generated from the difference between trader levels. &nbsp;This will be ( 20-15 ) / 3 which comes to 1.67</li>
+  <li>The modified drone accuracy will be sum of the random numbers and modifiers we have computed. &nbsp;57 + 20 + 1.67 makes 78.67%.</li>
+  <li>Maneuverability rating makes a final adjusted here as well. &nbsp;That same MR difference brings the same 3.8% penalty to the MR. &nbsp;74.87% of the MS drones will actually launch, rounded up to the nearest whole drone which is 300 drones.</li>
+  <li><i>MS launches 300 combat drones at Dev destroying 300 shields and 300 plates of armor.</i></li>
+</ul>
+<p>The MS is now out of weapons to shoot. &nbsp;The dev returns fire. &nbsp;The Thevian Shield Disperser in hardpoint 1 fires:</p>
+<ul>
+  <li>Player level accuracy modifiers come to { 1 + [ 0.158 - ( 0.197 / 2 ) ] } = 1.056</li>
+  <li>Modified accuracy is 46% * 1.056 = 48.7%</li>
+  <li>MR is in the devs favor, no penalties apply.</li>
+  <li>This is the first TSD of the game for this player. &nbsp;Weight variable is 0.</li>
+  <li>Random(1 to 100) gives us a 22. &nbsp;<i>Dev fires TSD at MS destroying 175 shields.</i></li>
+  <li>This hit adjusts the weight variable. &nbsp;(100 - 0.487 ) * 0.5 brings the new value to +26.65.</li>
+</ul>
+<p>Hardpoint 2 also fires a TSD:</p>
+<ul>
+  <li>Modified accuracy is still 48.7%.</li>
+  <li>MR of the MS has changed to 560.8 due to shield damage, but is still not affecting dev accuracy. &nbsp;The dev is now at 629.6 following the drone damage.</li>
+  <li>Random(1 to 100) gives us a 12. &nbsp;This is adjusted to 38.65 due to the weight variable. &nbsp;This is still below the hit threshold of 48.7. <i>Dev fires TSD at MS destroying 175 shields.</i></li>
+  <li>And the weight value is adjusted +26.65 again. &nbsp;It is now +53.3.</li>
+</ul>
+<p>Hardpoint 3 fires another TSD:</p>
+<p>Modified accuracy is still 48.7%.</p>
+<p>MR of the MS is up to 567.8. &nbsp;Still too low to bother the dev.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
