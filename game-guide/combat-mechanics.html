@@ -2,7 +2,7 @@
 title: Combat Mechanics
 description: nerd level detail on blowing stuff up
 published: 0
-date: 2022-05-03T23:48:20.697Z
+date: 2022-05-03T23:57:10.500Z
 tags: 
 editor: ckeditor
 dateCreated: 2022-04-29T22:25:28.822Z
@@ -36,15 +36,15 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <p>This adjustment is applied to all hardpoint fire except for when the modified accuracy is 0 or 100. &nbsp;Those guaranteed situations bypass the weighting code completely and do not adjust the variable.</p>
 <p>&nbsp;</p>
 <h3>Firing Weapons at Forces, Ports, or Planets</h3>
-<p>Player Level Accuracy Modifier = ( level<sup>2</sup> &nbsp;/ 60 ) + ( level / 2 ) + 2</p>
-<p>&nbsp;</p>
-<p>Ports, planets, and forces each have a different defensive modifier:</p>
+<p>The Attacker Level Accuracy Modifier and weighted random code affect fire at environmental targets.</p>
+<p>Beyond that, ports, planets, and forces each have a different defensive modifier:</p>
 <ul>
   <li>Ports reduce accuracy by two points per port level. &nbsp;That's 2% at level 1 and 18% at level 9.</li>
   <li>Planets reduce accuracy by 0.286% per level. &nbsp;A level 45 planet costs us 12.9%.</li>
   <li>Forces have no defensive modifiers.</li>
 </ul>
 <p>All of these modifiers are multiplicative. &nbsp;In other words, the adjustments they make are proportionate to the accuracy of the weapon being fired. &nbsp;The final result is a players modifier less whichever defensive bonus applies to the situation.</p>
+<p>&nbsp;</p>
 <h2>Combat Drones</h2>
 <p>Combat drones are a much more chaotic weapon system compared to hardpoints. &nbsp;Their performance is quite inconsistent; planets and ports behave one way, ships behave different ways depending on what they're shooting at, and there is often large variation in damage output. &nbsp;These things are downright fearsome when launched from an environmental target and mildly disappointing when launched from a ship.</p>
 <p>Combat drones tend to disappoint, from a player perspective, for a few reasons:&nbsp;</p>
@@ -77,19 +77,29 @@ dateCreated: 2022-04-29T22:25:28.822Z
 </ul>
 <p>&nbsp;</p>
 <h3>Taking Damage from Forces, Ports, or Planets</h3>
+<p>Environmental weapons are generally simple but there are many caveats.</p>
+<p>&nbsp;</p>
+<h4>In General</h4>
 <p>Maneuverability rating is not factored in to planet, port, or dropped force fire. &nbsp;This may be because none of those environmental things have MR and the existing algorithms are designed around a MR delta.</p>
+<p>Defensive level bonuses are applied when receiving damage from stationary turrets. &nbsp;Accuracy is reduced by the entire level accuracy modifier; not just half like in PvP combat. &nbsp;This brings turret accuracy all the way down to 31.3% of normal at level 50.</p>
+<p>Drones launched from ports and planets are simple and dangerous. &nbsp;They fire everything they have, they always hit, and they do 1 damage each. &nbsp;The only modifier possible is a drone scrambler which brings the damage down to 75% of normal.</p>
+<p>&nbsp;</p>
+<h4>Planet and Port Turrets</h4>
 <p>Structural planetary turret receive half of the planet level as an additive accuracy bonus.</p>
 <p>Protoplanet hardpoints do not receive planet level based bonuses. &nbsp;They only improve accuracy through radar station structures which provide an additive bonus.</p>
 <p>Port turrets fire at a flat 90% before defensive modifiers.</p>
-<p>Defensive level bonuses are applied when receiving damage from stationary turrets. &nbsp;Accuracy is reduced by the entire level accuracy modifier; not just half like in PvP combat. &nbsp;This brings turret accuracy all the way down to 31.3% of normal at level 50.</p>
-<p>Drones launched from ports and planets are simple and dangerous. &nbsp;They fire everything they have, they always hit, and they do 1 damage each. &nbsp;The only modifier possible is a drone scrambler which brings the damage down to 75% of normal.</p>
+<p>&nbsp;</p>
+<h4>Forces</h4>
 <p>Scout drones have a base launch rate of 100%, minus a random(1 to 7) squared, minus 1 point per player level. &nbsp;Any scout that launches will kamikazi a ship for 20 damage.</p>
-<p>Dropped combat drones launch random(6 to 57) percent of whatever is in sector. &nbsp;There are no modifiers factored in beyond that.</p>
+<p>Dropped combat drones launch a random(6 to 57) percent of whatever is in sector. &nbsp;Each that is launched hits for 2 damage. &nbsp;There are no modifiers factored in beyond that.</p>
 <p>Mines are a little bit complex:</p>
-<p>% of Mines Hit = random(1 to 7)<sup>2</sup> + forceSizeMod - lvlMod - sectorMod</p>
-<p>ForceSizeMod is the number of total hostile forces in sector divided by 25.</p>
-<p>lvlMod is simply the player level. &nbsp;Each level is good for a 1 point reduction in mines hit. &nbsp;Level 50 is good for 50%.</p>
-<p>sectorMod is 1/C<sup>0.6</sup> where C is the number of connections to the sector where mines are hit. &nbsp;Warps count as one connection.</p>
+<ul>
+  <li>% of Mines Hit = random(1 to 7)<sup>2</sup> + forceSizeMod - lvlMod - sectorMod</li>
+  <li>ForceSizeMod is the number of total hostile forces in sector divided by 25.</li>
+  <li>lvlMod is simply the player level. &nbsp;Each level is good for a 1 point reduction in mines hit. &nbsp;Level 50 is good for 50%.</li>
+  <li>sectorMod is 1/C<sup>0.6</sup> where C is the number of connections to the sector where mines are hit. &nbsp;Warps count as one connection.</li>
+</ul>
+<p>Mines are usually mild damage. &nbsp;However, the force size mod is painful in a sector where there's several hundred mines. &nbsp;And dead end sectors really bring the damage up. &nbsp;Plus, once in a while, the squared random will provide a baseline 49% of mines hitting. &nbsp;Best to always treat mines with a bit of caution.</p>
 <p>&nbsp;</p>
 <h3>Ship vs Ship Example</h3>
 <p>Let us have an imaginary ITMS piloted by a level 20 trader. &nbsp;They're duking it out with a level 15 Devastator. &nbsp;The mothership fires first.</p>
