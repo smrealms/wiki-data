@@ -1,5 +1,12 @@
-<!-- TITLE: Game Guide -->
-<!-- SUBTITLE: A quick summary of Game Guide -->
+---
+title: Game Guide
+description: A quick summary of Game Guide
+published: 1
+date: 2022-05-04T00:05:14.617Z
+tags: 
+editor: markdown
+dateCreated: 2021-02-25T08:49:35.103Z
+---
 
 **Welcome to the Space Merchant Realms Game Guide.**
 
@@ -11,6 +18,7 @@ Please note that this Guide is constantly being updated and revised so check bac
 * [Alignment](/game-guide/alignment)
 * [Alliances](/game-guide/alliances)
 * [Combat](/game-guide/combat)
+* [Combat Mechanics](/game-guide/combat-mechanics)
 * [Experience Levels](/game-guide/experience-levels)
 * [Forces](/game-guide/forces)
 * [How Your Ship Works](/game-guide/how-your-ship-works)
