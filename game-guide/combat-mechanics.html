@@ -2,7 +2,7 @@
 title: Combat Mechanics
 description: nerd level detail on blowing stuff up
 published: 1
-date: 2022-05-04T00:01:50.464Z
+date: 2022-05-30T15:02:50.551Z
 tags: 
 editor: ckeditor
 dateCreated: 2022-04-29T22:25:28.822Z
@@ -72,7 +72,7 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <ul>
   <li>MRmod can only reduce drones launched. &nbsp;This penalty is particularly painful for the ITMS which loses 3-6% of its drone launches even when firing on other capital ships.</li>
   <li>While this equation can generate negative numbers, the minimum launched is 0.</li>
-  <li>Expected launches to average 25-35% in common, low level combat between similar ships.</li>
+  <li>Expect launches to average 25-35% in common, low level combat between similar ships.</li>
   <li>The DCS modifier is lower in PvP. &nbsp;Ik'Thorne ships would do well to leave Nijarin vessels alone.</li>
 </ul>
 <p>&nbsp;</p>
@@ -110,7 +110,7 @@ dateCreated: 2022-04-29T22:25:28.822Z
   <li>Level modifiers are applied to the PPL accuracy. &nbsp;That's 35% x (1 + 0.197 - 0.079) which comes to 39.1%.</li>
   <li>Maneuverability ratings are then computed. &nbsp;In the interest of space, the MS has a MR of 553.8 and the dev is 610.6. &nbsp;That's a difference of 56.8 in favor of the dev. &nbsp;The MS will receive a penalty of [ 35% x ( mrDiff / 15 ) ] which comes to 3.8%. &nbsp;That brings the modified accuracy to 35.3%.</li>
   <li>This is the first time this player has fired a PPL this game so there is no weighted random to factor in. &nbsp;The final firing accuracy will be 35.3%.</li>
-  <li>The game generated a number between 1 and 100. &nbsp;Anything at or below 35.3% will be scored as a hit. &nbsp;The MS is unlucky and rolls a 62 on this D100. &nbsp;</li>
+  <li>The game generated a number between 1 and 100. &nbsp;Anything at or below 35.3% will be scored as a hit. &nbsp;The MS is unlucky and rolls a 62 on this D100.</li>
   <li><i>MS fires their Planetary Pulse Laser and misses.</i></li>
   <li>This miss triggers a change in the weighted random variable. &nbsp;It changes by ( -0.352 x 50 ), or -17.6, which will be added to the next weapon roll. &nbsp;That changes the 1 to 100 in to -16.6 to 82.4 meaning the next PPL shot has a 52.8% chance to hit.</li>
 </ul>
@@ -143,7 +143,7 @@ dateCreated: 2022-04-29T22:25:28.822Z
 <ul>
   <li>Modified accuracy is still 48.7%.</li>
   <li>MR of the MS is up to 567.8. &nbsp;Still too low to bother the dev.</li>
-  <li>Random(1 to 100), just to prove a point, spits out a 1. &nbsp;This is adjusted to 54.3, above the 48.7 threshold for a hit. &nbsp;Once the weight is above the modified accuracy, the next shot has to miss. &nbsp;With the weighted random, we can only get so lucky. &nbsp;</li>
+  <li>Random(1 to 100), just to prove a point, spits out a 1. &nbsp;This is adjusted to 54.3, above the 48.7 threshold for a hit. &nbsp;Once the weight is above the modified accuracy, the next shot has to miss. &nbsp;With the weighted random, we can only get so lucky.</li>
   <li><i>Dev fires TSD at MS and misses.</i></li>
 </ul>
 <p>The miss adjusted the weight variable by ( 48.7 x -0.5 ) = -24.35. &nbsp;The next TSD shot will be adjusted by 28.95.</p>
