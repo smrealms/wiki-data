@@ -2,7 +2,7 @@
 title: Tutorials
 description: A quick summary of Tutorials
 published: 1
-date: 2021-02-25T17:41:49.305Z
+date: 2022-06-11T15:54:52.232Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T08:50:03.475Z
@@ -15,6 +15,7 @@ Below are some user-contributed tutorials. Please keep in mind they are based on
 * [Smart Trading](/tutorials/smart-trading) by XDemonX, edited by vierafran
 * [Smart Hunting](/tutorials/smart-hunting) by XDemonX, edited by vierafran
 * [For Those New to Operations](/tutorials/newbie-op)
+* [The Stupid Compendium](/tutorials/Stupid-Compendium) by stupidnewbie
 
 # Video Tutorials
 * SMR Boot Camp by Snake
