@@ -1,6 +1,12 @@
-<!-- TITLE: Chat Servers -->
-<!-- SUBTITLE: A quick summary of SMR chat services -->
-
+---
+title: Chat Servers
+description: A quick summary of SMR chat services
+published: 1
+date: 2023-02-22T01:37:22.957Z
+tags: 
+editor: markdown
+dateCreated: 2021-02-25T08:49:24.961Z
+---
 
 Chat is the backbone on which team play as well as socializing is done in SMR. It is recommended that whenever you are going to play SMR you check in with your alliance chat room first. Here your fellow teammates can alert you to dangers, advise you of tasks that you might be able to help with, or simply ask that you stay out of the game as to not spook an enemy trader they are trying to hunt.
 
@@ -59,4 +65,4 @@ Other commands are also available via nickserv and chanserv you can get an idea 
 ## Caretaker for alliance channels
 **Caretaker** is an IRC bot that connects the SMR game server. It is useful for alliances that want to continue using IRC instead of Discord. When invited to your alliance IRC channel, Caretaker can be used to enhance your coordination and efficiency.
 
-To invite Caretaker to your server, join your alliance IRC channel as an op and type `/autoconnect on`. Then go to the Alliance Stats page in-game and enter your channel name in the `IRC Channel` field.
+To invite Caretaker to your server, join your alliance IRC channel as an op and type `/autoconnect on` followed by `/invite Caretaker`. Then go to the Alliance Stats page in-game and enter your channel name in the `IRC Channel` field.
