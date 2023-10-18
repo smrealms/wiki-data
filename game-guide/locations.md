@@ -1,11 +1,18 @@
-<!-- TITLE: Locations -->
-<!-- SUBTITLE: A quick summary of Locations -->
+---
+title: Locations
+description: A quick summary of Locations
+published: 1
+date: 2023-10-18T00:22:27.548Z
+tags: 
+editor: markdown
+dateCreated: 2021-02-25T08:50:41.273Z
+---
 
 # **Ports**
 
 Ports are places where goods are bought and sold for various prices. Players gain money and experience by bargaining with port masters for the best possible price. Ports are ranked from level 1 to level 9. Low level ports sell cheaper goods, while high level ports sell more expensive and more profitable goods. Some ports sell illegal goods too, but these can only be traded by those traders who have joined the UnderGround and are of evil alignment.
 
-In the example shown below, the port is a level 8 port that buys food, precious metals (pm), textiles, circuitry, and weapons (an illegal good), and it sells wood, ore, slaves (an illegal good), machinery, luxuries, and narcotics (an illegal good). You cannot see illegal goods unless your alignment is below -99. Being evil provides both advantages and disadvantages, such as more goods trade, thus more routes but if you are caught trading an illegal good then you will be fined. An example of being caught is below:
+In the example shown below, the port is a level 9 port that buys food, slaves (an illegal good), machinery, weapons (an illegal good), and computers (comps) and it sells wood, ore, textiles, circuitry, luxuries, and narcotics (an illegal good). You cannot see illegal goods unless your alignment is below -99. Being evil provides both advantages and disadvantages, such as more goods trade, thus more routes but if you are caught trading an illegal good then you will be fined. An example of being caught is below:
 
 ***The Federation searched your ship and illegal goods were found!
 All illegal goods have been removed from your ship and you have been fined 124,320 credits***
@@ -25,9 +32,9 @@ Planets are located in the outer galaxies, occasionally in racial galaxies. They
 
 Planets start out with no buildings at all, but with proper supplies stockpiled, construction of generators, hangars, and turrets can begin. As more buildings are constructed, the planet's defense level increases. Planets begin at level zero and reach a cap based on the type of planet. Each structure increases the planet's level by 0.33.
 
-The construction center shows what goods are stockpiled on a planet and which ones are needed for building each type of defense. Once started, it shows when construction will be completed. Only one building can be constructed at a time.
+The construction center shows what projects can be completed and which goods are needed for building each type of defense and the stockpile tab shows what goods are stockpiled on a planet. Once started, it shows when construction will be completed. Only one building can be constructed at a time.
 
-Some planets have a bank vault which can store cash. The vault can be accessed by anyone who is parked on the planet. The vault can also be used to bond cash. A bond cannot be touched once it has started and will pay interest on the principal amount when it comes due. The interest rate is highest when the planet is level 28.67.
+Most planets have a bank vault which can store cash. The vault can be accessed by anyone who is parked on the planet. The vault can also be used to bond cash. A bond cannot be touched once it has started and will pay interest on the principal amount when it comes due. The interest rate is highest when the planet is level 28.67. Arid planets do not have a bank.
 
 Planets can serve as a relatively safe place to park your ship, but no planet is 100% safe and even high level planets can fall to a well organized attacking fleet of warships.
 
